@@ -2536,34 +2536,6 @@ d-appendix d-footnote-list a.footnote-backlink {
   <script src="../../site_libs/webcomponents-2.0.0/webcomponents.js"></script>
   <script src="../../site_libs/distill-2.2.21/template.v2.js"></script>
   <!--radix_placeholder_site_in_header-->
-<script>
-   document.addEventListener("DOMContentLoaded", function () {
-     if (!/posts/.test(location.pathname)) {
-       return;
-     }
-
-     var script = document.createElement("script");
-     script.src = "https://utteranc.es/client.js";
-     script.setAttribute("repo", "jmhardaw/LDT-portfolio");
-     script.setAttribute("issue-term", "title");
-     script.setAttribute("crossorigin", "anonymous");
-     script.setAttribute("label", "comments 💬");
-     script.setAttribute("theme", "github-dark");
-
-     /* wait for article to load, append script to article element */
-     var observer = new MutationObserver(function (mutations, observer) {
-       var article = document.querySelector("d-article");
-       if (article) {
-         observer.disconnect();
-         /* HACK: article scroll */
-         article.setAttribute("style", "overflow-y: hidden");
-         article.appendChild(script);
-       }
-     });
-
-     observer.observe(document.body, { childList: true });
-   });
- </script>
 <!--/radix_placeholder_site_in_header-->
 
 
@@ -2643,6 +2615,11 @@ d-appendix d-footnote-list a.footnote-backlink {
 <!--radix_placeholder_article_footer-->
 <div class="article-footer">
   <p class="social_footer">
+    <span class="disqus-comments">
+      <i class="fas fa-comments"></i>
+      &nbsp;
+      <span class="disqus-comment-count" data-disqus-identifier="posts/2021-12-23-eci-511-week-1-review/">Comment on this article</span>
+    </span>
     <span class="article-sharing">
       Share: &nbsp;
       <a href="https://twitter.com/share?text=ECI%20511%20%E2%80%93%20Week%201%20Review&amp;url=https%3A%2F%2Fjmhardaw.github.io%2FLDT-portfolio%2Fposts%2F2021-12-23-eci-511-week-1-review%2F">
@@ -2653,6 +2630,20 @@ d-appendix d-footnote-list a.footnote-backlink {
       </a>
     </span>
   </p>
+  <script id="dsq-count-scr" src="https://https-jmhardaw-github-io-ldt-portfolio.disqus.com/count.js" async></script>
+  <div id="disqus_thread" class="hidden"></div>
+  <script type="text/javascript" cookie-consent="functionality">
+var disqus_config = function () {
+  this.page.url = 'https://jmhardaw.github.io/LDT-portfolio/posts/2021-12-23-eci-511-week-1-review/';
+  this.page.identifier = 'posts/2021-12-23-eci-511-week-1-review/';
+};
+(function() {
+  var d = document, s = d.createElement('script');
+  s.src = 'https://https-jmhardaw-github-io-ldt-portfolio.disqus.com/embed.js';
+  s.setAttribute('data-timestamp', +new Date());
+  (d.head || d.body).appendChild(s);
+})();
+</script>
 </div>
 <!--/radix_placeholder_article_footer-->
 </div>
