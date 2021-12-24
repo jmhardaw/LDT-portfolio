@@ -11,7 +11,7 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-    - text: "LD&T Portfolio"
+    - text: "LD&T Coursework"
       href: courses.html
     - text: "Projects"
       href: projects.html
