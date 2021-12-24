@@ -1,25 +1,22 @@
 ---
 title: "Welcome Back!"
 description: |
-  Welcome to our new blog. We hope you enjoy 
-  reading what we have to say!
+  Great to be back in the Red & White of NC State!
 author:
   - name: James Hardaway
     url: https://scholar.google.com/citations?user=su16JUQAAAAJ&hl=en&authuser=1
-    affiliation: NCSU College of Education
-    affiliation_url: https://ced.ncsu.edu/
-date: 07-01-2021
+date: 2021-07-01
+categories:
+  - ECI511
+  - NC State
 output:
   distill::distill_article:
     self_contained: false
+    toc: true
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
-
-# Learn more about creating blogs with Distill at:
-# https://rstudio.github.io/distill/blog.html
-
 ```
 
 Thanks for stopping by my little corner of the web. This portfolio site is being built as part of a class requirement for the masters program I am just now beginning at NC State. Over the next 2 years or so, I will use this landing spot to drop insights and artifacts from my journey through [Learning Design & Technology](https://online-distance.ncsu.edu/program/master-of-science-in-learning-design-and-technology/) studies at the [NCSU College of Education](https://ced.ncsu.edu/). Wish me luck!!

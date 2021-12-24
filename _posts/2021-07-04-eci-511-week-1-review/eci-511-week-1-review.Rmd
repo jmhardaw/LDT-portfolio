@@ -1,13 +1,21 @@
 ---
 title: "ECI 511 – Week 1 Review"
 description: |
-  A short description of the post.
+  Week 1 gave us an opportunity to meet the class and served as an introduction to the field of learning design and technology.
 author:
   - name: James Hardaway
     url: https://scholar.google.com/citations?user=su16JUQAAAAJ&hl=en&authuser=1
 date: 2021-07-04
 categories:
   - ECI511
+  - NC State
+  - government
+  - history
+  - industry
+  - military
+  - portfolio
+  - revolution
+  - webpage
   - design
   - inquiry
   - leadership

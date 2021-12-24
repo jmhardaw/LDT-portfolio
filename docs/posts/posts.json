@@ -1,8 +1,36 @@
 [
   {
-    "path": "posts/2021-12-23-eci-511-week-1-review/",
+    "path": "posts/2021-07-11-eci-511-week-2-review/",
+    "title": "ECI 511 – Week 2 Review",
+    "description": "Week 2 introduced us to the leadership dimension of learning design.",
+    "author": [
+      {
+        "name": "James Hardaway",
+        "url": "https://scholar.google.com/citations?user=su16JUQAAAAJ&hl=en&authuser=1"
+      }
+    ],
+    "date": "2021-07-11",
+    "categories": [
+      "ECI511",
+      "NC State",
+      "behaviors",
+      "Camtasia",
+      "leadership",
+      "mindset",
+      "Sheninger",
+      "skills",
+      "video",
+      "Zoom"
+    ],
+    "contents": "\nThis week’s readings introduced us to the Leadership domain of the LDT program. The focus was on how to develop and implement a vision for integrating technology into an organization’s education or training and development program. We watched quite a few videos that, along with the reading, explained the challenges organizations faced when trying to transition to a more digital footprint for learning. The detractors usually came in one of three areas: mindset, skills, and behaviors. For an organization to effectively adopt a new operating model, such as digital learning, the people need to be ready for this change. Buy-in matters. Leadership should work hard to ensure the workforce understands why the organization will be better with these changes. If a person doesn’t understand how the changes will make their job easier or more productive, they will fight learning any new skills during the transition. Another limiting factor is often individual skills. Especially for an older workforce that my not have grown up digital, learning tech skills can be intimidating. As part of the transition, leadership should plan for and resource training modules to ensure everyone can comfortably employ the new digital tools. And finally, leadership sets the example by modeling behaviors that reinforce the advantages of adopting new technology. Leaders must use the tools, whether its email calendars or a new project management system, if they expect the workforce to do the same. The goal should be for the technology to become a seamless part of effective operations, and not have your day-to-day tasks be driven by the capability of the tech.\nOne of the better readings this week was an article on the Pillars of Digital Leadership, penned by Eric Sheninger. The article captured seven insights he took from transitioning his high school to a more digital learning environment. I liked the article so much, I grabbed a copy of his book, Digital Leadership: Changing Paradigms for Changing Times, which explains in greater detail how he was able to change the technology culture in his school.\nOur assignment this week was to create a short online professional training video. Camtasia was referenced as a tool used throughout the learning design community, so I invested in the software for this project. The price was very manageable and there is a good Mac version, which was great as that’s my OS of choice. Additionally, numerous sites exist that have short, but effective, instructional videos on how to use the software if you get stuck. For the assignment, I chose to create a video on building breakout rooms in Zoom. You can find my final version here. The video had to be at least 10 minutes in length, so that became my target. While the project wasn’t too complicated, it does take a bit of practice and trial & error to effectively use the highlighting tools while making the video. I got to work with employing transitions as well. In the end, it was probably ~4 hours of work to make a 10-minute video. Much of that was due to me learning the software and how my mic/speakers impacted the quality of the video. I built an outline and script for my speaking parts, which allowed me to focus most of my rehearsals on ensuring my voice matched with my on-screen walkthrough. While I won’t be winning any Academy Awards in the near future, I liked the final product. The key, though, was it showed me that content development/design is probably NOT my dream job. While it was fun to explore the software and see the final video in action, there was way too much detailed work and editing for just 10 minutes of product. But, I do have confidence now that I can do this when/if the need arises down the road.\nNext week? We talk design. See you soon!\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-12-24T05:44:33-05:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-07-04-eci-511-week-1-review/",
     "title": "ECI 511 – Week 1 Review",
-    "description": "A short description of the post.",
+    "description": "Week 1 gave us an opportunity to meet the class and served as an introduction to the field of learning design and technology.",
     "author": [
       {
         "name": "James Hardaway",
@@ -12,19 +40,27 @@
     "date": "2021-07-04",
     "categories": [
       "ECI511",
+      "NC State",
+      "government",
+      "history",
+      "industry",
+      "military",
+      "portfolio",
+      "revolution",
+      "webpage",
       "design",
       "inquiry",
       "leadership"
     ],
     "contents": "\nFor my intro to the Learning Design & Technology (LDT) program, I’m taking one 5-week summer class before going full time in the fall. ECI 511, Intro to LDT, is the recommended first course for the program and for good reason. The compressed schedule is designed to give a thorough, but quick, overview of the 3 core disciplines within the field of LDT: Leadership, Design, and Digital Inquiry. Here in week 1, we focused on how the LDT field has been established historically mainly driven by the technological revolution. The class material has a good mix of articles and videos to introduce us to how the field has evolved over the past 100 years. There is a major assignment each week and for this first week, my assignment was to establish this portfolio website. The intent is for me to use this portal to chart my progress through the program, displaying my work as well as what I’m learning by doing the work. The end state is to have a portfolio showing my progress in becoming a learning designer that could potentially be used as a launching point for my life after the program. Through this week’s class material, my key insights are below:\nTech changes to education came from outside the school house (government, military, industry)\nThe speed of tech evolution (capability/capacity) is always under-valued/appreciated\nTech’s ability to “revolutionize” learning has always been over-emphasized\nEducational institutions are generally slow to adopt new technology/methods\nHistorically, tech’s impact to learning has been on the margins (pencils/paper/blackboards becoming digitized), but we have yet to see a “revolution” in how we teach/learn.\nFor next week, we’ll move into the Leadership domain of LDT and I get to produce my first “class.” See you then!\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-12-23T22:56:36-05:00",
+    "last_modified": "2021-12-24T05:34:24-05:00",
     "input_file": {}
   },
   {
-    "path": "posts/welcome/",
+    "path": "posts/2021-07-01-welcome-back/",
     "title": "Welcome Back!",
-    "description": "Welcome to our new blog. We hope you enjoy \nreading what we have to say!",
+    "description": "Great to be back in the Red & White of NC State!",
     "author": [
       {
         "name": "James Hardaway",
@@ -32,10 +68,13 @@
       }
     ],
     "date": "2021-07-01",
-    "categories": [],
+    "categories": [
+      "ECI511",
+      "NC State"
+    ],
     "contents": "\nThanks for stopping by my little corner of the web. This portfolio site is being built as part of a class requirement for the masters program I am just now beginning at NC State. Over the next 2 years or so, I will use this landing spot to drop insights and artifacts from my journey through Learning Design & Technology studies at the NCSU College of Education. Wish me luck!!\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-12-23T23:26:51-05:00",
+    "last_modified": "2021-12-24T05:42:55-05:00",
     "input_file": {}
   }
 ]

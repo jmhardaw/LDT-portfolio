@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
     <loc>https://jmhardaw.github.io/LDT-portfolio/blog.html</loc>
-    <lastmod>2021-12-23T21:42:15-05:00</lastmod>
+    <lastmod>2021-12-24T07:48:11-05:00</lastmod>
   </url>
   <url>
     <loc>https://jmhardaw.github.io/LDT-portfolio/courses.html</loc>
-    <lastmod>2021-12-23T19:43:36-05:00</lastmod>
+    <lastmod>2021-12-24T08:35:43-05:00</lastmod>
   </url>
   <url>
     <loc>https://jmhardaw.github.io/LDT-portfolio/</loc>
@@ -17,11 +17,15 @@
     <lastmod>2021-12-23T20:03:09-05:00</lastmod>
   </url>
   <url>
-    <loc>https://jmhardaw.github.io/LDT-portfolio/posts/2021-12-23-eci-511-week-1-review/</loc>
-    <lastmod>2021-12-23T22:56:36-05:00</lastmod>
+    <loc>https://jmhardaw.github.io/LDT-portfolio/posts/2021-07-11-eci-511-week-2-review/</loc>
+    <lastmod>2021-12-24T05:44:33-05:00</lastmod>
   </url>
   <url>
-    <loc>https://jmhardaw.github.io/LDT-portfolio/posts/welcome/</loc>
-    <lastmod>2021-12-23T23:26:51-05:00</lastmod>
+    <loc>https://jmhardaw.github.io/LDT-portfolio/posts/2021-07-04-eci-511-week-1-review/</loc>
+    <lastmod>2021-12-24T05:34:24-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://jmhardaw.github.io/LDT-portfolio/posts/2021-07-01-welcome-back/</loc>
+    <lastmod>2021-12-24T05:42:55-05:00</lastmod>
   </url>
 </urlset>

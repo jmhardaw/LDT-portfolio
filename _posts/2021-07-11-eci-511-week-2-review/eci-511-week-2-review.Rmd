@@ -1,0 +1,36 @@
+---
+title: "ECI 511 – Week 2 Review"
+description: |
+  Week 2 introduced us to the leadership dimension of learning design.
+author:
+  - name: James Hardaway
+    url: https://scholar.google.com/citations?user=su16JUQAAAAJ&hl=en&authuser=1
+date: 2021-07-11
+categories:
+  - ECI511
+  - NC State
+  - behaviors
+  - Camtasia
+  - leadership
+  - mindset
+  - Sheninger
+  - skills
+  - video
+  - Zoom
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+This week's readings introduced us to the Leadership domain of the LDT program. The focus was on how to develop and implement a vision for integrating technology into an organization's education or training and development program. We watched quite a few videos that, along with the reading, explained the challenges organizations faced when trying to transition to a more digital footprint for learning. The detractors usually came in one of three areas: mindset, skills, and behaviors. For an organization to effectively adopt a new operating model, such as digital learning, the people need to be ready for this change. Buy-in matters. Leadership should work hard to ensure the workforce understands why the organization will be better with these changes. If a person doesn't understand how the changes will make their job easier or more productive, they will fight learning any new skills during the transition. Another limiting factor is often individual skills. Especially for an older workforce that my not have grown up digital, learning tech skills can be intimidating. As part of the transition, leadership should plan for and resource training modules to ensure everyone can comfortably employ the new digital tools. And finally, leadership sets the example by modeling behaviors that reinforce the advantages of adopting new technology. Leaders must use the tools, whether its email calendars or a new project management system, if they expect the workforce to do the same. The goal should be for the technology to become a seamless part of effective operations, and not have your day-to-day tasks be driven by the capability of the tech.
+
+One of the better readings this week was an article on the [Pillars of Digital Leadership](https://www.teachthought.com/the-future-of-learning/7-pillars-digital-leadership-education/), penned by Eric Sheninger. The article captured seven insights he took from transitioning his high school to a more digital learning environment. I liked the article so much, I grabbed a copy of his book, *Digital Leadership: Changing Paradigms for Changing Times,* which explains in greater detail how he was able to change the technology culture in his school.
+
+Our assignment this week was to create a short online professional training video. [Camtasia](https://www.techsmith.com/video-editor.html) was referenced as a tool used throughout the learning design community, so I invested in the software for this project. The price was very manageable and there is a good Mac version, which was great as that's my OS of choice. Additionally, numerous sites exist that have short, but effective, instructional videos on how to use the software if you get stuck. For the assignment, I chose to create a video on building breakout rooms in Zoom. You can find my final version [here](https://www.youtube.com/watch?v=YDljgFQVcOk). The video had to be at least 10 minutes in length, so that became my target. While the project wasn't too complicated, it does take a bit of practice and trial & error to effectively use the highlighting tools while making the video. I got to work with employing transitions as well. In the end, it was probably \~4 hours of work to make a 10-minute video. Much of that was due to me learning the software and how my mic/speakers impacted the quality of the video. I built an outline and script for my speaking parts, which allowed me to focus most of my rehearsals on ensuring my voice matched with my on-screen walkthrough. While I won't be winning any Academy Awards in the near future, I liked the final product. The key, though, was it showed me that content development/design is probably NOT my dream job. While it was fun to explore the software and see the final video in action, there was way too much detailed work and editing for just 10 minutes of product. But, I do have confidence now that I can do this when/if the need arises down the road.
+
+Next week? We talk design. See you soon!

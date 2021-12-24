@@ -1,5 +1,5 @@
 ---
-title: "Learning Design & Technology"
+title: "Program Updates"
 site: distill::distill_website
 listing: posts
 ---
