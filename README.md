@@ -1,2 +1,2 @@
 # LDT-portfolio
-Graduate School portfolio for Learning Design
+Graduate School portfolio for Learning Design visble here - https://jmhardaw.github.io/LDT-portfolio/.
