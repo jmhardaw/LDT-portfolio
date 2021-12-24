@@ -1,6 +1,6 @@
 ---
 title: "James Hardaway"
-image: "IMG_1633_sm.jpg"
+image: "images/IMG-1633-sm.jpg"
 links:
   - label: '<i class="fab fa-twitter"></i> Twitter'
     url: "https://twitter.com/James_Hardaway"
@@ -23,9 +23,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```{r deps, include = FALSE, message = FALSE, warning = FALSE}
 # Include dependencies to track with renv here
+library(here)
+library(knitr)
 library(distill)
 library(postcards)
-library(here)
 library(fontawesome)
 # # Create new post with use_article_template()
 # refinery::use_article_template(
