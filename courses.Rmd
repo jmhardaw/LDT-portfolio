@@ -1,6 +1,6 @@
 ---
 title: "LD&T Coursework"
-description: I am a first year graduate student in the [Learning Design & Technology](https://ced.ncsu.edu/graduate/programs/masters/learning-design-and-technology/) program within North Carolina State University's [College of Education](https://ced.ncsu.edu/). Additionally, I am working towards a [Certificate of Learning Analytics](https://ced.ncsu.edu/graduate/programs/certificate/learning-analytics/). Below is a summary of the coursework I've completed towards my M.Ed.
+description: I am a first year graduate student in the [Learning Design & Technology](https://ced.ncsu.edu/graduate/programs/masters/learning-design-and-technology/) program within the North Carolina State University [College of Education](https://ced.ncsu.edu/). Additionally, I am working towards a [Certificate of Learning Analytics](https://ced.ncsu.edu/graduate/programs/certificate/learning-analytics/). Below is a summary of the coursework I've completed towards my M.Ed.
 output:
   distill::distill_article:
     toc: true
