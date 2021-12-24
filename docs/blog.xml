@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>James Hardaway</title>
+    <link>https://jmhardaw.github.io/LDT-portfolio/</link>
+    <atom:link href="https://jmhardaw.github.io/LDT-portfolio/blog.xml" rel="self" type="application/rss+xml"/>
+    <description>James Hardaway
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Sun, 04 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>ECI 511 – Week 1 Review</title>
+      <dc:creator>James Hardaway</dc:creator>
+      <link>https://jmhardaw.github.io/LDT-portfolio/posts/2021-12-23-eci-511-week-1-review</link>
+      <description>A short description of the post.</description>
+      <category>ECI511</category>
+      <category>design</category>
+      <category>inquiry</category>
+      <category>leadership</category>
+      <guid>https://jmhardaw.github.io/LDT-portfolio/posts/2021-12-23-eci-511-week-1-review</guid>
+      <pubDate>Sun, 04 Jul 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Welcome Back!</title>
+      <dc:creator>James Hardaway</dc:creator>
+      <link>https://jmhardaw.github.io/LDT-portfolio/posts/welcome</link>
+      <description>Welcome to our new blog. We hope you enjoy 
+reading what we have to say!</description>
+      <guid>https://jmhardaw.github.io/LDT-portfolio/posts/welcome</guid>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

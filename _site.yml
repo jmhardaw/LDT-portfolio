@@ -4,6 +4,14 @@ theme: css/jmhardaw.css
 description: |
   James Hardaway
 output_dir: "docs"
+base_url: https://jmhardaw.github.io/LDT-portfolio/
+collections: 
+  posts:
+    categories: true
+    categories_metadata: true
+    authors_metadata: false
+    feed_items_max: 20 # default
+    share: [twitter, linkedin]
 navbar:
   search: true
   right:
