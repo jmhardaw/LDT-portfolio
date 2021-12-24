@@ -8,6 +8,8 @@ links:
     url: "https://github.com/jmhardaw"
   - label: '<i class="fab fa-linkedin"></i> LinkedIn'
     url: "https://www.linkedin.com/in/jamesmhardaway/"
+  - label: '<i class="ai ai-google-scholar fa-lg"></i> Google Scholar'
+    url: "https://scholar.google.com/citations?user=su16JUQAAAAJ&hl=en&authuser=1" 
   - label: '<i class="fas fa-envelope"></i> Email'
     url: "mailto:jmhardaw@ncsu.edu"
 output:
