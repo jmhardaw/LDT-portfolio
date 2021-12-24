@@ -38,9 +38,9 @@ This course provided an overview of the Learning, Design, and Technology master'
 **Artifacts**:
 
 -   [Zoom Training Video](https://www.youtube.com/watch?v=YDljgFQVcOk)
--   Zoom Training Video Script
--   Project - State Park Employee Training Program
--   Annotated Bibliography - Digital Literacy
+-   [Zoom Training Video Script](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci511-artifacts/zoom-class-script.docx)
+-   [Project - State Park Employee Training Program](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci511-artifacts/ECI511-design-project.pdf)
+-   [Annotated Bibliography - Digital Literacy](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci511-artifacts/ECI511-annotated-bibliography.pdf)
 
 </aside>
 
