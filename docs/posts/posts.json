@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome Back!",
+    "description": "Welcome to our new blog, James Hardaway. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "James Hardaway",
+        "url": "https://scholar.google.com/citations?user=su16JUQAAAAJ&hl=en&authuser=1"
+      }
+    ],
+    "date": "2021-07-01",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-12-23T18:50:27-05:00",
+    "input_file": {}
+  }
+]

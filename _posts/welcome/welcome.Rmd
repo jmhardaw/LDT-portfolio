@@ -1,0 +1,26 @@
+---
+title: "Welcome Back!"
+description: |
+  Welcome to our new blog, James Hardaway. We hope you enjoy 
+  reading what we have to say!
+author:
+  - name: James Hardaway
+    url: https://scholar.google.com/citations?user=su16JUQAAAAJ&hl=en&authuser=1
+    affiliation: NCSU College of Education
+    affiliation_url: https://ced.ncsu.edu/
+date: 07-01-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+
+
