@@ -35,6 +35,13 @@ This course provided an overview of the Learning, Design, and Technology master'
 
 -   [Dr. Julia McKeown](https://ced.ncsu.edu/people/jomckeow/)
 
+**Artifacts**:
+
+-   [Zoom Training Video](https://www.youtube.com/watch?v=YDljgFQVcOk)
+-   Zoom Training Video Script
+-   Project - State Park Employee Training Program
+-   Annotated Bibliography - Digital Literacy
+
 </aside>
 
 `r htmltools::br()`
