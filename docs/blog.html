@@ -87,30 +87,26 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
   <!--radix_placeholder_meta_tags-->
-  <title>James Hardaway: LD&amp;T Coursework</title>
+  <title>James Hardaway: Learning Design &amp; Technology</title>
 
-  <meta property="description" itemprop="description" content="I teach undergraduate and graduate courses on data analysis in R in the [Department of Engineering Management and Systems Engineering](http://emse.seas.gwu.edu/) at The George Washington University."/>
 
 
 
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
-  <meta property="og:title" content="James Hardaway: LD&amp;T Coursework"/>
+  <meta property="og:title" content="James Hardaway: Learning Design &amp; Technology"/>
   <meta property="og:type" content="article"/>
-  <meta property="og:description" content="I teach undergraduate and graduate courses on data analysis in R in the [Department of Engineering Management and Systems Engineering](http://emse.seas.gwu.edu/) at The George Washington University."/>
   <meta property="og:locale" content="en_US"/>
   <meta property="og:site_name" content="James Hardaway"/>
 
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
-  <meta property="twitter:title" content="James Hardaway: LD&amp;T Coursework"/>
-  <meta property="twitter:description" content="I teach undergraduate and graduate courses on data analysis in R in the [Department of Engineering Management and Systems Engineering](http://emse.seas.gwu.edu/) at The George Washington University."/>
-  <meta property="twitter:creator" content="@JohnHelveston"/>
+  <meta property="twitter:title" content="James Hardaway: Learning Design &amp; Technology"/>
 
   <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","output","twitter","base_url","preview"]}},"value":[{"type":"character","attributes":{},"value":["LD&T Coursework"]},{"type":"character","attributes":{},"value":["I teach undergraduate and graduate courses on data analysis in R in the [Department of Engineering Management and Systems Engineering](http://emse.seas.gwu.edu/) at The George Washington University."]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["toc","css"]}},"value":[{"type":"logical","attributes":{},"value":[false]},{"type":"character","attributes":{},"value":["css/jmhardaw.css","css/small-spacing.css"]}]}]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["creator"]}},"value":[{"type":"character","attributes":{},"value":["@JohnHelveston"]}]},{"type":"character","attributes":{},"value":["https://www.jhelvy.com"]},{"type":"character","attributes":{},"value":["images/helveston.png"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","site","listing"]}},"value":[{"type":"character","attributes":{},"value":["Learning Design & Technology"]},{"type":"character","attributes":{},"value":["distill::distill_website"]},{"type":"character","attributes":{},"value":["posts"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2549,17 +2545,15 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
    </script>
   <!--/radix_placeholder_site_in_header-->
 
-  <link rel="stylesheet" href="css/jmhardaw.css" type="text/css"/>
-  <link rel="stylesheet" href="css/small-spacing.css" type="text/css"/>
 
 </head>
 
-<body>
+<body class="layout-listing">
 
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"LD&T Coursework","description":"I teach undergraduate and graduate courses on data analysis in R in the [Department of Engineering Management and Systems Engineering](http://emse.seas.gwu.edu/) at The George Washington University.","authors":[]}
+{"title":"Learning Design & Technology","authors":[]}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -2594,57 +2588,223 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--/radix_placeholder_navigation_before_body-->
 <!--radix_placeholder_site_before_body-->
 <!--/radix_placeholder_site_before_body-->
+<!--radix_placeholder_article_listing-->
+
+
+<script type="application/javascript">
+
+function init_posts_list() {
+
+  function load_image(img) {
+    var src = $(img).attr('data-src');
+    if (src) {
+      $(img).attr('src', src);
+      $(img).on("load", function() {
+        img.removeAttribute('data-src');
+      });
+    }
+  }
+
+  function set_posts_visible(posts, visible) {
+    if (visible) {
+
+      // show bottom border by default
+      $(posts).removeClass('post-preview-last');
+
+      // apply limits if need be
+      var max_posts = 25;
+      var apply_limits = $('.posts-container').hasClass('posts-apply-limit');
+      if (apply_limits && posts.length > max_posts) {
+        posts = $(posts).slice(0, max_posts);
+      } else {
+        $('.posts-more a').addClass('hidden');
+      }
+
+      // apply last style
+      $(posts.slice(-1)[0]).addClass('post-preview-last');
+
+      $(posts).removeClass('hidden');
+      $(posts).find('img[data-src]').each(function(i, img) {
+        load_image(img);
+      });
+    } else {
+      $(posts).addClass('hidden');
+    }
+  }
+
+  function apply_hash_filter() {
+
+    // clear active state
+    $('.categories .active').removeClass('active');
+
+    // mark all posts invisible to start
+    set_posts_visible($('.posts-list').children('a'), false);
+
+    // if we have a hash filter
+    if (window.location.hash && window.location.hash.startsWith("#category:")) {
+
+      // mark posts that match the category visible
+      var page_category = window.location.hash.replace(/^#category:/, "");
+      page_category = decodeURIComponent(page_category)
+      var posts = $('.post-metadata').map(function(idx, script) {
+        var metadata = $.parseJSON($(script).html());
+        var post = null;
+        $.each(metadata.categories, function(idx, category) {
+          category = category.replace(/ /g,"_");
+          if ((page_category || '').toLowerCase() === "articles" || category === page_category) {
+            post = $(script).parent().get();
+            return false;
+          }
+        });
+        return post;
+      });
+      set_posts_visible(posts, true);
+
+      // mark the hash active
+      $('.categories li>a[href="' + decodeURIComponent(window.location.hash) + '"]').addClass('active');
+
+      // update the list_caption
+      var list_caption = $('.posts-list-caption');
+      var caption = (page_category || '').toLowerCase() === "articles"
+        ? list_caption.attr('data-caption')
+        : ('Category: ' + page_category.replace(/_/g," "));
+      list_caption.text(caption);
+
+    } else {
+
+      // no hash filter, make all posts visible (subject to max display)
+      set_posts_visible($('.posts-list').children(), true);
+
+      // reset list caption
+      var list_caption = $('.posts-list-caption');
+      list_caption.text(list_caption.attr('data-caption'));
+
+
+    }
+  }
+
+  // more articles
+  function apply_post_limits(apply) {
+    if (apply) {
+      $('.posts-container').addClass('posts-apply-limit');
+      $('.posts-more a').removeClass('hidden');
+    } else {
+      $('.posts-container').removeClass('posts-apply-limit');
+      $('.posts-more a').addClass('hidden');
+    }
+  }
+
+  // click handling for tags
+  $('.dt-tag').click(function(ev) {
+    window.location.hash = '#category:' + $(this).text().replace(/ /g, "_");
+    return false;
+  })
+
+  // hash filter handling
+  apply_hash_filter();
+  $(window).on('hashchange',function() {
+    apply_post_limits(true);
+    apply_hash_filter();
+  });
+
+  // more articles link
+  $('.posts-more a').click(function(e) {
+    e.preventDefault();
+    apply_post_limits(false);
+    apply_hash_filter();
+    return false;
+  });
+
+}
+
+</script>
+
+
+
+<div class="posts-container posts-with-sidebar posts-apply-limit l-screen-inset">
+<div class="posts-list">
+<h1 class="posts-list-caption" data-caption="Learning Design &amp; Technology">Learning Design &amp; Technology</h1>
+<a href="posts/2021-12-23-eci-511-week-1-review/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":["ECI511","design","inquiry","leadership"]}</script>
+<div class="metadata">
+<div class="publishedDate">July 4, 2021</div>
+<div class="dt-authors">
+<div class="dt-author">James Hardaway</div>
+</div>
+</div>
+<div class="thumbnail"></div>
+<div class="description">
+<h2>ECI 511 – Week 1 Review</h2>
+<div class="dt-tags">
+<div class="dt-tag">ECI511</div>
+<div class="dt-tag">design</div>
+<div class="dt-tag">inquiry</div>
+<div class="dt-tag">leadership</div>
+</div>
+<p>A short description of the post.</p>
+</div>
+</a>
+<a href="posts/welcome/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":[]}</script>
+<div class="metadata">
+<div class="publishedDate">July 1, 2021</div>
+<div class="dt-authors">
+<div class="dt-author">James Hardaway</div>
+</div>
+</div>
+<div class="thumbnail">
+<img/>
+</div>
+<div class="description">
+<h2>Welcome Back!</h2>
+<div class="dt-tags"></div>
+<p>Welcome to our new blog. We hope you enjoy 
+reading what we have to say!</p>
+</div>
+</a>
+</div>
+<div class="posts-sidebar">
+<div class="sidebar-section categories">
+<h3>Categories</h3>
+<ul>
+<li>
+<a href="#category:Articles">Articles</a>
+<span class="category-count">(2)</span>
+</li>
+<li>
+<a href="#category:design">design</a>
+<span class="category-count">(1)</span>
+</li>
+<li>
+<a href="#category:ECI511">ECI511</a>
+<span class="category-count">(1)</span>
+</li>
+<li>
+<a href="#category:inquiry">inquiry</a>
+<span class="category-count">(1)</span>
+</li>
+<li>
+<a href="#category:leadership">leadership</a>
+<span class="category-count">(1)</span>
+</li>
+</ul>
+</div>
+</div>
+<div class="posts-more">
+<a href="#">More articles &raquo;</a>
+</div>
+</div>
+<!--/radix_placeholder_article_listing-->
 
 <div class="d-title">
-<h1>LD&amp;T Coursework</h1>
+<h1>Learning Design &amp; Technology</h1>
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
-<p>I teach undergraduate and graduate courses on data analysis in R in the <a href="http://emse.seas.gwu.edu/">Department of Engineering Management and Systems Engineering</a> at The George Washington University.</p>
+
 </div>
 
 
 <div class="d-article">
-<div class="layout-chunk" data-layout="l-body">
-
-</div>
-<div class="float-left">
-<p><img src="images/hex/p4a.png" width="200px"></p>
-<h3 id="emse-4571-programming-for-analytics"><a href="https://p4a.seas.gwu.edu/">EMSE 4571: Programming for Analytics</a></h3>
-<p>This course provides a foundation in programming for analytics using the <a href="https://www.r-project.org/">R programming language</a> with a comparison to <a href="https://www.python.org/">Python</a>. Topics covered include fundamentals of programming (operators, data types, objects, functions, conditionals, loops, strings, testing, and debugging) as well as techniques for working with data sets in R and Python (file input/output, data structures, data wrangling, data visualization, external packages, and reproducible reporting). Emphasis will be on producing clear, robust, and reasonably efficient code using top-down design, informal analysis, and effective testing and debugging. Students will primarily work on individual programming assignments to develop skills in computational problem solving, writing code, and working with data. Students will be assessed through quizzes, homework assignments, and exams. Teaching will involve interactive lectures with plenty of time spent live coding and working on practice problems in class. This course assumes no prior programming experience and is an ideal preparation for higher level courses in data analytics.</p>
-</div>
-<aside>
-<p><strong>Semesters Taught</strong>:</p>
-<ul>
-<li><a href="https://p4a.seas.gwu.edu/2020-Fall/">Fall 2020</a></li>
-<li><a href="https://p4a.seas.gwu.edu/2019-Fall/">Fall 2019</a></li>
-</ul>
-</aside>
-<p><br/></p>
-<div class="float-left">
-<p><img src="images/hex/eda.png" width="200px"></p>
-<h3 id="emse-4572-exploratory-data-analysis"><a href="https://eda.seas.gwu.edu/">EMSE 4572: Exploratory Data Analysis</a></h3>
-<p>This course provides students with a foundation in exploring data using the <a href="https://www.r-project.org/">R programming language</a>. Students will learn how to source, manage, transform, and explore a wide variety of data types. Students will also master the fundamental concepts for visualizing and communicating information contained in raw data, including the human psychology of visual information processing. All analyses will be conducted to support reproducibility from raw data to results using <a href="https://bookdown.org/yihui/rmarkdown/">RMarkdown</a>. Teaching will involve interactive lectures with plenty of class time spent working on examples and coding. Students will be assessed through in-class quizzes, reading reflections, and exploratory projects. Throughout the semester, students will work on a research project of their own design to demonstrate mastery of the course’s topics. At the end of the semester, students will submit a final, reproducible report of their project along with a 10-minute video presentation of their findings.</p>
-</div>
-<aside>
-<p><strong>Semesters Taught</strong>:</p>
-<ul>
-<li><a href="https://eda.seas.gwu.edu/2021-Spring/">Spring 2021</a></li>
-<li><a href="https://eda.seas.gwu.edu/2020-Spring/">Spring 2020</a></li>
-</ul>
-</aside>
-<p><br/></p>
-<div class="float-left">
-<p><img src="images/hex/madd.png" width="200px"></p>
-<h3 id="emse-6035-marketing-of-technology"><a href="https://madd.seas.gwu.edu/">EMSE 6035: Marketing of Technology</a></h3>
-<p>This course provides students with data analysis techniques to inform design decisions in an uncertain, competitive market; topics include consumer choice modeling, programming in the <a href="https://www.r-project.org/">R programming language</a>, survey design, conjoint analysis, optimization, market simulation, and professional communication skills. Over the course of the semester, students will learn and apply theory and methods to a team project to assess the market competitiveness of an emerging product / technology and use marketing analytics to generate design insights. At the end of the semester, students will submit a final, reproducible report of their project along with a 10-minute presentation of their findings. This course has a “flipped” classroom structure. Students will spend the majority of class time working through guiding practice exercises or working on their projects. To prepare for class, students must complete weekly assignments that involve watching and reviewing recorded lecture materials and answering related practice questions.</p>
-</div>
-<aside>
-<p><strong>Semesters Taught</strong>:</p>
-<ul>
-<li><a href="https://madd.seas.gwu.edu/2021-Fall/">Fall 2021</a></li>
-<li>Spring 2019</li>
-</ul>
-</aside>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->

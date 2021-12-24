@@ -1,5 +1,69 @@
 ---
-title: "Learning Design & Technology"
+title: "James Hardaway"
+image: "images/IMG-1633-sm.jpg"
+links:
+  - label: '<i class="fab fa-twitter"></i> Twitter'
+    url: "https://twitter.com/James_Hardaway"
+  - label: '<i class="fab fa-github"></i> GitHub'
+    url: "https://github.com/jmhardaw"
+  - label: '<i class="fab fa-linkedin"></i> LinkedIn'
+    url: "https://www.linkedin.com/in/jamesmhardaway/"
+  - label: '<i class="fas fa-envelope"></i> Email'
+    url: "mailto:jmhardaw@ncsu.edu"
+output:
+  postcards::trestles
 site: distill::distill_website
-listing: posts
+editor_options: 
+  chunk_output_type: console
 ---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r deps, include = FALSE, message = FALSE, warning = FALSE}
+# Include dependencies to track with renv here
+library(here)
+library(knitr)
+library(distill)
+library(postcards)
+library(fontawesome)
+# # Create new post with use_article_template()
+# refinery::use_article_template(
+#   template = "_templates/standard_post.Rmd",
+#   slug = "fabulous-blog-post", 
+#   renv_new = TRUE
+# )
+```
+
+## Bio
+
+I am returning to NCSU after enjoying 27 years as an Army intelligence officer. Having worked in both the information technology and analysis communities, I'm versed in data-driven inquiry, critical thinking, and leadership development. My goal in the LD&T master's program is to explore how digital learning tools can assist in discovering how students best receive instruction to improve learning outcomes. Through the program at NC State I plan to pursue educational and research opportunities on a path to becoming an instructional designer in the K-12 community, where I'll strive to create a challenging and engaging educational environment in which students become life-long scholars and learners.
+
+Skills critical to enabling this goal include:
+
+Communication\
+Teamwork/Collaboration\
+Visionary Leadership\
+Valuing Learner Diversity\
+Instructional Systems Design\
+Curriculum Design\
+Planning/Organization
+
+## Education
+
+-   **NC State University** \| [MEd in Learning Design & Technology](https://ced.ncsu.edu/graduate/programs/masters/learning-design-and-technology/) \| Expected Graduation - Fall, 2022
+
+-   **US Army Command & General Staff College** \| [Master of Military Arts & Sciences](https://usacac.army.mil/organizations/cace/cgsc/sams) \| 2008
+
+-   **Central Michigan University** \| [MS in Administration](https://www.cmich.edu/colleges/ehs/msa/Pages/default.aspx) \| 2007
+
+-   **NC State University** \| [BS in Civil Engineering](https://www.ccee.ncsu.edu/) \| 1994
+
+## Experience
+
+-   **US Army, Various Global Locales** \| Intelligence Officer \| September 1994 - September 2021
+
+-   **US Army Training and Doctrine Command, Arizona** \| Instructor & Curriculum Designer \| August 2003 - May 2005
+
+-   **US Army Futures Command, Virginia** \| Information Portfolio Modernization Lead \| July 2019 - June 2021
