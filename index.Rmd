@@ -14,6 +14,10 @@ links:
     url: "mailto:jmhardaw@ncsu.edu"
 output:
   postcards::trestles
+twitter:
+  creator: "@James_Hardaway"
+base_url: https://jmhardaw.github.io/LDT-portfolio/
+preview: images/IMG-1633-sm.jpg
 site: distill::distill_website
 editor_options: 
   chunk_output_type: console
