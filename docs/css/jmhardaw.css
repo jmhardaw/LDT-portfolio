@@ -183,6 +183,16 @@ d-article a:hover, a:focus {
     padding: 5px 0px 5px 10px;
 }
 
+/* For thumbnail image sizing */
+
+.thumbnail {
+    padding: 0px!important;
+    margin: 0px!important;
+    max-width: 10%!important;
+    height: auto!important;
+    vertical-align: text-top!important;
+}
+
 /* Footer */
 
 .distill-site-footer p {

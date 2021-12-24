@@ -6,6 +6,7 @@ author:
   - name: James Hardaway
     url: https://scholar.google.com/citations?user=su16JUQAAAAJ&hl=en&authuser=1
 date: 2021-07-01
+preview: "ncstate-brick-2x2-red-rgb.jpeg"
 categories:
   - ECI511
   - NC State
@@ -19,4 +20,8 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+::: float-left
+<img src="ncstate-brick-2x2-red-rgb.jpeg" width="200px"/>
+
 Thanks for stopping by my little corner of the web. This portfolio site is being built as part of a class requirement for the masters program I am just now beginning at NC State. Over the next 2 years or so, I will use this landing spot to drop insights and artifacts from my journey through [Learning Design & Technology](https://online-distance.ncsu.edu/program/master-of-science-in-learning-design-and-technology/) studies at the [NCSU College of Education](https://ced.ncsu.edu/). Wish me luck!!
+:::
