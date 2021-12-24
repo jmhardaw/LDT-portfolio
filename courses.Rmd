@@ -64,6 +64,13 @@ This course provided students with the distinctions and concepts necessary to ap
 
 -   [Dr. Julia McKeown](https://ced.ncsu.edu/people/jomckeow/)
 
+**Artifacts**:
+
+-   [Zoom Training Video](https://www.youtube.com/watch?v=YDljgFQVcOk)
+-   [Zoom Training Video Script](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci511-artifacts/zoom-class-script.docx)
+-   [Project - State Park Employee Training Program](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci511-artifacts/ECI511-design-project.pdf)
+-   [Annotated Bibliography - Digital Literacy](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci511-artifacts/ECI511-annotated-bibliography.pdf)
+
 </aside>
 
 `r htmltools::br()`
