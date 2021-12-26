@@ -18,7 +18,7 @@ twitter:
   site: "@James_Hardaway"
   creator: "@James_Hardaway"
 base_url: https://jmhardaw.github.io/LDT-portfolio/
-preview: images/IMG-1633-sm.jpg
+preview: https://github.com/jmhardaw/LDT-portfolio/blob/main/images/IMG-1633-sm.jpg
 site: distill::distill_website
 editor_options: 
   chunk_output_type: console
