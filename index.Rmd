@@ -43,6 +43,22 @@ library(metathis)
 #   renv_new = TRUE
 # )
 
+meta() %>%
+  meta_description(
+    "The personal website of James Hardaway"
+  ) %>%
+  meta_name("github-repo" = "jmhardaw/LDT-portfolio") %>%
+  meta_viewport() %>%
+  meta_social(
+    title = "Digital Portfolio",
+    url = "https://jmhardaw.github.io/LDT-portfolio/",
+    image = "https://jmhardaw.github.io/LDT-portfolio/images/IMG-1633-sm.jpg",
+    image_alt = "A photo of James Hardaway",
+    og_type = "website",
+    og_author = c("James Hardaway"),
+    twitter_card_type = "summary",
+    twitter_creator = "@James_Hardaway"
+  )
 ```
 
 ## Bio
