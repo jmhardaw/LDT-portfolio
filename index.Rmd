@@ -52,7 +52,7 @@ meta() %>%
   meta_social(
     title = "LDT-portfolio",
     url = "https://jmhardaw.github.io/LDT-portfolio/",
-    image = "https://github.com/jmhardaw/LDT-portfolio/blob/main/images/IMG-1633-sm.jpg",
+    image = "images/IMG-1633-sm.jpg",
     image_alt = "A photo of James Hardaway",
     og_type = "website",
     og_author = c("James Hardaway"),
