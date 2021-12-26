@@ -5,6 +5,9 @@ description: |
   James Hardaway
 output_dir: "docs"
 base_url: https://jmhardaw.github.io/LDT-portfolio/
+twitter: 
+  site: "@James_Hardaway"
+  creator: "@James_Hardaway"
 collections: 
   posts:
     categories: true

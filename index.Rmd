@@ -15,6 +15,7 @@ links:
 output:
   postcards::trestles
 twitter:
+  site: "@James_Hardaway"
   creator: "@James_Hardaway"
 base_url: https://jmhardaw.github.io/LDT-portfolio/
 preview: images/IMG-1633-sm.jpg
