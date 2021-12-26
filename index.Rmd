@@ -17,7 +17,6 @@ output:
 twitter:
   site: "@James_Hardaway"
   creator: "@James_Hardaway"
-  card: "summary_large_image"
 base_url: https://jmhardaw.github.io/LDT-portfolio/
 preview: images/IMG-1633-sm.jpg
 site: distill::distill_website
@@ -36,12 +35,30 @@ library(knitr)
 library(distill)
 library(postcards)
 library(fontawesome)
+library(metathis)
 # # Create new post with use_article_template()
 # refinery::use_article_template(
 #   template = "_templates/standard_post.Rmd",
 #   slug = "fabulous-blog-post", 
 #   renv_new = TRUE
 # )
+
+meta() %>%
+  meta_description(
+    "The personal website of James Hardaway"
+  ) %>%
+  meta_name("github-repo" = "jmhardaw/LDT-portfolio") %>%
+  meta_viewport() %>%
+  meta_social(
+    title = "LDT-portfolio",
+    url = "https://jmhardaw.github.io/LDT-portfolio/",
+    image = "https://github.com/jmhardaw/LDT-portfolio/blob/main/images/IMG-1633-sm.jpg",
+    image_alt = "A photo of James Hardaway",
+    og_type = "website",
+    og_author = c("James Hardaway"),
+    twitter_card_type = "summary",
+    twitter_creator = "@James_Hardaway"
+  )
 ```
 
 ## Bio

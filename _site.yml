@@ -8,7 +8,6 @@ base_url: https://jmhardaw.github.io/LDT-portfolio/
 twitter: 
   site: "@James_Hardaway"
   creator: "@James_Hardaway"
-  card: "summary_large_image"
 collections: 
   posts:
     categories: true
