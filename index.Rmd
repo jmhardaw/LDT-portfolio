@@ -10,6 +10,8 @@ links:
     url: "https://github.com/jmhardaw"
   - label: '<i class="ai ai-google-scholar fa-lg"></i> Google Scholar'
     url: "https://scholar.google.com/citations?user=su16JUQAAAAJ&hl=en&authuser=1" 
+  - label: '<i class="far fa-file-pdf"></i> Resume'
+    url: "https://github.com/jmhardaw/LDT-portfolio/blob/main/content/Hardaway-resume-20211115.pdf"
   - label: '<i class="fas fa-envelope"></i> Email'
     url: "mailto:jmhardaw@ncsu.edu"
 output:
@@ -63,7 +65,7 @@ meta() %>%
 
 ## About Me
 
-California born, North Carolina raised, and Army trained. I'm returning to my roots at NC State University after enjoying 27 years as an Army intelligence officer. This time around my passion is education as I'm working to complete an M.Ed. in Learning Design & Technology. My military career was focused on analyzing information to inform decision makers. I'm now taking that experience and applying it to the evolving field of learning technology. At a young age I was blessed with incredibly talented and selfless teachers. My goal through this program is to develop tools that will continue to enable great teachers to guide students just as I was. From the K-12 community through higher ed, my goal is to create accessible and engaging educational spaces in which students become life-long scholars and learners.
+California born, North Carolina raised, and Army trained. I'm returning to my roots at NC State University after enjoying 27 years as an Army intelligence officer. This time around my passion is education as I'm working to complete an M.Ed. in Learning Design & Technology. My military career was focused on analyzing information to inform decision makers. I'm now taking that experience and applying it to the evolving field of learning technology. At a young age I was blessed with incredibly talented and selfless teachers. My goal through this program is to develop tools that will continue to enable great teachers to guide students just as I was. From the K-12 community through higher ed, my goal is to create accessible and engaging educational spaces in which students become life-long scholars with an eye towards improving the world around them.
 
 Research interests include:
 
@@ -72,12 +74,6 @@ Research interests include:
 -   Mis/disinformation's impact on learning
 
 -   Differentiation through artificial intelligence
-
-<center>
-
-***Resume*** <a href="https://github.com/jmhardaw/LDT-portfolio/blob/main/content/Hardaway-resume-20211115.pdf" text="Resume" class="far fa-file-pdf"  style="font-size:36px;"></a>      ***Army Bio*** <a href="https://github.com/jmhardaw/LDT-portfolio/blob/main/content/Hardaway-mil-bio.pdf" text="Military Bio" class="far fa-file-pdf" style="font-size:36px;"></a>
-
-</center>
 
 ## Education
 
@@ -91,7 +87,7 @@ Research interests include:
 
 ## Experience
 
--   [**US Army**](https://www.goarmy.com/careers-and-jobs/career-match/signal-intelligence/languages-code/35a-military-intelliigence-officer.html)**, Various Global Locales** \| Intelligence Officer \| September 1994 - September 2021
+-   [**US Army**](https://www.goarmy.com/careers-and-jobs/career-match/signal-intelligence/languages-code/35a-military-intelliigence-officer.html)**, Various Global Locales** \| Intelligence Officer \| September 1994 - September 2021 <a href="https://github.com/jmhardaw/LDT-portfolio/blob/main/content/Hardaway-mil-bio.pdf" text="Military Bio" class="far fa-file-pdf" style="font-size:36px;"></a> (*Army Bio*)
 
 -   [**US Army Training and Doctrine Command**](https://www.army.mil/USAICoE)**, Arizona** \| Instructor & Curriculum Designer \| August 2003 - May 2005
 
