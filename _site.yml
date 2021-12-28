@@ -26,12 +26,12 @@ navbar:
       href: courses.html
     - text: "Blog"
       href: blog.html
-    - icon: fab fa-github
-      href: https://github.com/jmhardaw
     - icon: fab fa-twitter
       href: https://twitter.com/James_Hardaway
     - icon: fa fa-linkedin
       href: https://www.linkedin.com/in/jamesmhardaway/
+    - icon: fab fa-github
+      href: https://github.com/jmhardaw    
     - icon: ai ai-google-scholar fa-lg
       href: https://scholar.google.com/citations?user=su16JUQAAAAJ&hl=en&authuser=1
     - icon: fa fa-rss
