@@ -75,7 +75,7 @@ Research interests include:
 
 <center>
 
-***Resume*** <a href="https://github.com/jmhardaw/LDT-portfolio/blob/main/content/Hardaway-resume-20211115.pdf" text="Resume" class="far fa-file-pdf"  style="font-size:36px;"></a>      ***Army Bio*** <a href="Hardaway-mil-bio.pdf" text="Military Bio" class="far fa-file-pdf" style="font-size:36px;"></a>
+***Resume*** <a href="https://github.com/jmhardaw/LDT-portfolio/blob/main/content/Hardaway-resume-20211115.pdf" text="Resume" class="far fa-file-pdf"  style="font-size:36px;"></a>      ***Army Bio*** <a href="https://github.com/jmhardaw/LDT-portfolio/blob/main/content/Hardaway-mil-bio.pdf" text="Military Bio" class="far fa-file-pdf" style="font-size:36px;"></a>
 
 </center>
 
