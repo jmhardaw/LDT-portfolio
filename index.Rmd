@@ -73,6 +73,12 @@ Research interests include:
 
 -   Differentiation through artificial intelligence
 
+<center>
+
+***Resume*** <a href="https://github.com/jmhardaw/LDT-portfolio/blob/main/content/Hardaway-resume-20211115.pdf" text="Resume" class="far fa-file-pdf"  style="font-size:36px;"></a>      ***Army Bio*** <a href="Hardaway-mil-bio.pdf" text="Military Bio" class="far fa-file-pdf" style="font-size:36px;"></a>
+
+</center>
+
 ## Education
 
 -   **NC State University** \| [MEd in Learning Design & Technology](https://ced.ncsu.edu/graduate/programs/masters/learning-design-and-technology/) \| Expected Graduation - Fall, 2022
@@ -85,8 +91,8 @@ Research interests include:
 
 ## Experience
 
--   **US Army, Various Global Locales** \| Intelligence Officer \| September 1994 - September 2021
+-   [**US Army**](https://www.goarmy.com/careers-and-jobs/career-match/signal-intelligence/languages-code/35a-military-intelliigence-officer.html)**, Various Global Locales** \| Intelligence Officer \| September 1994 - September 2021
 
--   **US Army Training and Doctrine Command, Arizona** \| Instructor & Curriculum Designer \| August 2003 - May 2005
+-   [**US Army Training and Doctrine Command**](https://www.army.mil/USAICoE)**, Arizona** \| Instructor & Curriculum Designer \| August 2003 - May 2005
 
--   **US Army Futures Command, Virginia** \| Information Portfolio Modernization Lead \| July 2019 - June 2021
+-   [**US Army Futures Command**](https://www.armyfuturescommand.com/fcc/)**, Virginia** \| Information Portfolio Modernization Lead \| July 2019 - June 2021
