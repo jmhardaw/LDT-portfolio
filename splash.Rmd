@@ -1,0 +1,112 @@
+---
+title: "Splash Page"
+description: Hello World!
+output:
+  distill::distill_article:
+    toc: false
+    css:
+      - css/jmhardaw.css
+      - css/small-spacing.css
+twitter:
+  creator: "@James_Hardaway"
+base_url: https://jmhardaw.github.io/LDT-portfolio/
+preview: images/IMG-1633-sm.jpg
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<style>
+
+d-title {
+  width: 100%;
+  padding-top: 6rem;
+  background-image: url("../images/field=flag.jpg");
+	background-position: 100% 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+  font-family: 'Bungee Shade', cursive; 
+}
+
+.twitter-border {
+ border: 1px dashed black;
+ width: 300px;
+ position : relative;
+ border-radius: 5px;
+ margin: 0 auto;
+}
+.twitter-border::before {
+ content: "\f099";
+ font-family: "Font Awesome 5 Brands";
+ font-weight: 900; 
+ font-size: 1.5rem;
+ position: absolute;
+ top: -15px;
+ left: -15px;
+}
+.twitter-border > p {
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+  margin-bottom: 0em;
+}
+@media (min-width: 1024px) {
+  .home-with-sidebar .home-main {
+    float: left;
+    width: 60%;
+  }
+}
+@media (min-width: 1024px) {
+  .home-with-sidebar .home-sidebar {
+    float: right;
+    width: 30%;
+    margin-top: 60px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+  }
+}
+.news-container {
+  width: 80%;
+}
+.news-item {
+  line-height: 1.45em;
+  border-bottom: 1px solid #e3e4F0;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 0.9em;
+}
+
+</style>
+
+<div class="layout-chunk" data-layout="l-screen">
+<div id="particles-js"></div>
+</div>
+<script src="./assets/particles.min.js"></script>
+<script src="./assets/app.js"></script>
+
+<div class="home-with-sidebar l-screen-inset">
+
+<div class="home-main">
+
+## Welcome to my personal spot on the web!
+:::: news-container
+::: news-item
+### Recent News
+:::
+::: news-item
+### Upcoming Events
+:::
+::::
+
+</div>
+
+<div class="home-sidebar">
+<div class="twitter-border">
+<a class="twitter-timeline" data-height="600" data-width="300"  href="https://twitter.com/James_Hardaway?ref_src=twsrc%5Etfw">Tweets by James_Hardaway</a>
+
+</div>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</div>
+</div>
