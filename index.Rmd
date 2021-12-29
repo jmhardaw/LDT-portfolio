@@ -1,6 +1,6 @@
 ---
 title: "James Hardaway"
-image: "images/hardaway-circle.jpg"
+image: "images/hardaway-circle.png"
 links:
   - label: '<i class="fab fa-twitter"></i> Twitter'
     url: "https://twitter.com/James_Hardaway"
