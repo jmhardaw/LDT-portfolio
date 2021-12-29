@@ -3,6 +3,8 @@ title: "Splash Page"
 description: Hello World!
 output:
   distill::distill_article:
+    includes:
+      in_header: images/header.html
     toc: false
     css:
       - css/jmhardaw.css
@@ -18,17 +20,6 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 <style>
-
-d-title {
-  width: 100%;
-  padding-top: 6rem;
-  background-image: url("../images/field=flag.jpg");
-	background-position: 100% 100%;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-attachment: fixed;
-  font-family: 'Bungee Shade', cursive; 
-}
 
 .twitter-border {
  border: 1px dashed black;
