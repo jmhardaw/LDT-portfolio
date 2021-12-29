@@ -20,7 +20,7 @@ twitter:
   site: "@James_Hardaway"
   creator: "@James_Hardaway"
 base_url: "https://jmhardaw.github.io/LDT-portfolio/"
-preview: "images/IMG-1633-sm.jpg"
+preview: "images/hardaway-circle.png"
 site: distill::distill_website
 editor_options: 
   chunk_output_type: console
@@ -54,7 +54,7 @@ meta() %>%
   meta_social(
     title = "Digital Portfolio",
     url = "https://jmhardaw.github.io/LDT-portfolio/",
-    image = "https://jmhardaw.github.io/LDT-portfolio/images/IMG-1633-sm.jpg",
+    image = "https://jmhardaw.github.io/LDT-portfolio/images/hardaway-circle.png",
     image_alt = "A photo of James Hardaway",
     og_type = "website",
     og_author = c("James Hardaway"),
