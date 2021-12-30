@@ -87,25 +87,22 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
   <!--radix_placeholder_meta_tags-->
-  <title>James Hardaway: Splash Page</title>
+  <title>James Hardaway</title>
 
-  <meta property="description" itemprop="description" content="Hello World!"/>
 
   <link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"/>
 
 
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
-  <meta property="og:title" content="James Hardaway: Splash Page"/>
+  <meta property="og:title" content="James Hardaway"/>
   <meta property="og:type" content="article"/>
-  <meta property="og:description" content="Hello World!"/>
   <meta property="og:image" content="https://jmhardaw.github.io/LDT-portfolio/./images/IMG-1633-sm.jpg"/>
   <meta property="og:locale" content="en_US"/>
   <meta property="og:site_name" content="James Hardaway"/>
 
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary_large_image"/>
-  <meta property="twitter:title" content="James Hardaway: Splash Page"/>
-  <meta property="twitter:description" content="Hello World!"/>
+  <meta property="twitter:title" content="James Hardaway"/>
   <meta property="twitter:image" content="https://jmhardaw.github.io/LDT-portfolio/./images/IMG-1633-sm.jpg"/>
   <meta property="twitter:site" content="@James_Hardaway"/>
   <meta property="twitter:creator" content="@James_Hardaway"/>
@@ -114,7 +111,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","output","twitter","base_url","preview"]}},"value":[{"type":"character","attributes":{},"value":["Splash Page"]},{"type":"character","attributes":{},"value":["Hello World!"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["toc","css"]}},"value":[{"type":"logical","attributes":{},"value":[false]},{"type":"character","attributes":{},"value":["css/jmhardaw.css","css/small-spacing.css"]}]}]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["creator"]}},"value":[{"type":"character","attributes":{},"value":["@James_Hardaway"]}]},{"type":"character","attributes":{},"value":["https://jmhardaw.github.io/LDT-portfolio/"]},{"type":"character","attributes":{},"value":["images/IMG-1633-sm.jpg"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","output","twitter","base_url","preview"]}},"value":[{"type":"character","attributes":{},"value":["James Hardaway"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["toc","css","includes"]}},"value":[{"type":"logical","attributes":{},"value":[false]},{"type":"character","attributes":{},"value":["css/jmhardaw.css","css/small-spacing.css"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["in_header"]}},"value":[{"type":"character","attributes":{},"value":["_header.html"]}]}]}]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["creator"]}},"value":[{"type":"character","attributes":{},"value":["@James_Hardaway"]}]},{"type":"character","attributes":{},"value":["https://jmhardaw.github.io/LDT-portfolio/"]},{"type":"character","attributes":{},"value":["images/IMG-1633-sm.jpg"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2535,6 +2532,19 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <script src="site_libs/distill-2.2.21/template.v2.js"></script>
   <!--radix_placeholder_site_in_header-->
   <!--/radix_placeholder_site_in_header-->
+  <!DOCTYPE html>
+  <html lang="en" dir="ltr">
+    <head>
+      <meta charset="utf-8">
+      <title></title>
+    </head>
+    <body>
+      <div class="article-header">
+        <img src="images/space-threads.jpg" class="article-banner" alt="">
+      </div>
+      </a>
+    </body>
+  </html>
 
   <link rel="stylesheet" href="css/jmhardaw.css" type="text/css"/>
   <link rel="stylesheet" href="css/small-spacing.css" type="text/css"/>
@@ -2546,7 +2556,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"Splash Page","description":"Hello World!","authors":[]}
+{"title":"James Hardaway","authors":[]}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -2585,16 +2595,30 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--/radix_placeholder_site_before_body-->
 
 <div class="d-title">
-<h1>Splash Page</h1>
+<h1>James Hardaway</h1>
 <!--radix_placeholder_categories-->
 <!--/radix_placeholder_categories-->
-<p>Hello World!</p>
+
 </div>
 
 
 <div class="d-article">
 <style>
 
+d-title {
+  display: none!important;
+}
+.article-banner {
+  width: auto;
+  height: auto;
+  border: 0;
+}
+img[src="images/space-threads.jpg"] {
+  border: 0;
+  padding: 0;
+  width: 100%;
+  margin: 50px 25px 0px 0px;
+}
 .twitter-border {
  border: 1px dashed black;
  width: 300px;
@@ -2616,11 +2640,19 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   margin-block-end: 0em;
   margin-bottom: 0em;
 }
+.home-with-sidebar {
+  padding-left: 45px;
+  padding-right: 45px;
+}
 @media (min-width: 1024px) {
   .home-with-sidebar .home-main {
     float: left;
     width: 60%;
   }
+}
+.home-main {
+  margin-top: 60px;
+  margin-bottom: 24px;
 }
 @media (min-width: 1024px) {
   .home-with-sidebar .home-sidebar {
@@ -2630,6 +2662,9 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     padding-top: 24px;
     padding-bottom: 24px;
   }
+}
+.home-sidebar {
+  font-size: 16px;
 }
 .news-container {
   width: 80%;
@@ -2661,7 +2696,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </div>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <center>
-<a href="https://studentveterans.org/about/"><img src="images/sva-logo.png" width="80%" style="max-width:250px;"></a>
+<a href="https://studentveterans.org/about/"><img src="images/sva-logo.png" width="80%" style="max-width:250px; padding-top:24px;"></a>
 </center>
 </div>
 </div>

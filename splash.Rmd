@@ -1,12 +1,13 @@
 ---
-title: "Splash Page"
-description: Hello World!
+title: "James Hardaway"
 output:
   distill::distill_article:
     toc: false
     css:
       - css/jmhardaw.css
       - css/small-spacing.css
+    includes: 
+      in_header: _header.html
 twitter:
   creator: "@James_Hardaway"
 base_url: https://jmhardaw.github.io/LDT-portfolio/
@@ -19,6 +20,20 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <style>
 
+d-title {
+  display: none!important;
+}
+.article-banner {
+  width: auto;
+  height: auto;
+  border: 0;
+}
+img[src="images/space-threads.jpg"] {
+  border: 0;
+  padding: 0;
+  width: 100%;
+  margin: 50px 25px 0px 0px;
+}
 .twitter-border {
  border: 1px dashed black;
  width: 300px;
@@ -40,11 +55,19 @@ knitr::opts_chunk$set(echo = FALSE)
   margin-block-end: 0em;
   margin-bottom: 0em;
 }
+.home-with-sidebar {
+  padding-left: 45px;
+  padding-right: 45px;
+}
 @media (min-width: 1024px) {
   .home-with-sidebar .home-main {
     float: left;
     width: 60%;
   }
+}
+.home-main {
+  margin-top: 60px;
+  margin-bottom: 24px;
 }
 @media (min-width: 1024px) {
   .home-with-sidebar .home-sidebar {
@@ -54,6 +77,9 @@ knitr::opts_chunk$set(echo = FALSE)
     padding-top: 24px;
     padding-bottom: 24px;
   }
+}
+.home-sidebar {
+  font-size: 16px;
 }
 .news-container {
   width: 80%;
@@ -92,7 +118,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <center>
-<a href="https://studentveterans.org/about/"><img src="images/sva-logo.png" width="80%" style="max-width:250px;"></a>
+<a href="https://studentveterans.org/about/"><img src="images/sva-logo.png" width="80%" style="max-width:250px; padding-top:24px;"></a>
 </center>
 
 </div>
