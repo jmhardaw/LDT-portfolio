@@ -68,12 +68,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 </style>
 
-<div class="layout-chunk" data-layout="l-screen">
-<div id="particles-js"></div>
-</div>
-<script src="./assets/particles.min.js"></script>
-<script src="./assets/app.js"></script>
-
 <div class="home-with-sidebar l-screen-inset">
 
 <div class="home-main">
@@ -98,7 +92,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <center>
-<a href="https://studentveterans.org/about/"><img src="https://github.com/jmhardaw/LDT-portfolio/blob/main/images/sva-logo.png" width="80%" style="max-width:250px;"></a>
+<a href="https://studentveterans.org/about/"><img src="images/sva-logo.png" width="80%" style="max-width:250px;"></a>
 </center>
 
 </div>
