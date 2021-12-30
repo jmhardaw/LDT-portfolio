@@ -3,8 +3,6 @@ title: "Splash Page"
 description: Hello World!
 output:
   distill::distill_article:
-    includes:
-      in_header: images/header.html
     toc: false
     css:
       - css/jmhardaw.css
@@ -99,5 +97,8 @@ knitr::opts_chunk$set(echo = FALSE)
 </div>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<center>
+<a href="https://studentveterans.org/about/"><img src="images/sva-logo.svg.png" width="80%" style="max-width:250px;"></a>
+</center>
 </div>
 </div>

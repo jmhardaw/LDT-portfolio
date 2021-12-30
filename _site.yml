@@ -18,6 +18,8 @@ collections:
     disqus: 
       shortname: https-jmhardaw-github-io-ldt-portfolio
     share: [twitter, linkedin]
+    subscribe: _subscribe.html
+    custom: _custom.html
 navbar:
   search: true
   right:
