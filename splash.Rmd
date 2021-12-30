@@ -98,7 +98,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <center>
-<a href="https://studentveterans.org/about/"><img src="images/sva-logo.svg.png" width="80%" style="max-width:250px;"></a>
+<a href="https://studentveterans.org/about/"><img src="https://github.com/jmhardaw/LDT-portfolio/blob/main/images/sva-logo.svg" width="80%" style="max-width:250px;"></a>
 </center>
 </div>
 </div>
