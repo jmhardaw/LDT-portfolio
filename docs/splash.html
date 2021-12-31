@@ -2199,12 +2199,31 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     --bkgd-color:       var(--color-background);
     font-weight:        500;
   }
+  .distill-site-header .logo img {
+     max-height: 60px;
+     width: auto;
+     vertical-align: middle;
+     margin-top: 10px;
+  }
+  .distill-site-header .nav-right {
+      float: right;
+      line-height: 38px;
+      vertical-align: middle;
+  }
 
+  .distill-site-header .nav-left {
+      display: inline-block;
+      line-height: 38px;
+      vertical-align: middle;
+  }
   .distill-site-footer {
     --text-color:       #ededeb;
     --text-size:        15px;
     --hover-color:      var(--color-white);
     --bkgd-color:       var(--color-primary);
+  }
+  .distill-site-footer p {
+      margin-bottom: 0em;
   }
 
   /*-- Additional custom styles --*/
@@ -2310,12 +2329,6 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
       max-width: 10%!important;
       height: auto!important;
       vertical-align: text-top!important;
-  }
-
-  /* Footer */
-
-  .distill-site-footer p {
-      margin-bottom: 0em;
   }
 
   /* Pubs page */
@@ -2562,6 +2575,9 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <header class="header header--fixed" role="banner">
 <nav class="distill-site-nav distill-site-header">
 <div class="nav-left">
+<a class="logo" href="https://jmhardaw.github.io/LDT-portfolio/index.html">
+<img src="images/nerd6.png" alt="Logo"/>
+</a>
 <a href="index.html" class="title">James Hardaway</a>
 <input id="distill-search" class="nav-search hidden" type="text" placeholder="Search..."/>
 </div>
@@ -2605,6 +2621,9 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 d-title {
   display: none!important;
+}
+.article-header {
+  padding-top: 24px;
 }
 .article-banner {
   width: auto;
@@ -2674,7 +2693,14 @@ img[src="images/banner.png"] {
   margin-bottom: 0px;
   font-size: 0.9em;
 }
-
+.img-item{
+    width: 300px;
+    padding: 20px
+}
+.img-container{
+    display: flex;
+    justify-content: center;
+}
 </style>
 <div class="home-with-sidebar l-screen-inset">
 <section id="welcome-to-my-personal-spot-on-the-web" class="home-main">
@@ -2682,7 +2708,10 @@ img[src="images/banner.png"] {
 <div class="news-container">
 <section id="i-am-a-veteran-a-craft-beer-mead-enthusiast-and-a-1st-year-graduate-student-at-nc-state-university-in-the-college-of-education.-i-study-learning-design-with-a-focus-on-using-technology-to-improve-student-outcomes." class="news-item">
 <h3>I am a veteran, a craft beer &amp; mead enthusiast, and a 1st-year graduate student at <a href="https://www.ncsu.edu/">NC State University</a> in the <a href="https://ced.ncsu.edu/">College of Education</a>. I study learning design with a focus on using technology to improve student outcomes.</h3>
-<p><a href="https://jmhardaw.github.io/LDT-portfolio/courses.html"><img src="images/portfolio-button.png" width="80%" style="max-width:250px; padding-top:24px;"/></a></p>
+<div class="img-container">
+<p><a href="https://jmhardaw.github.io/LDT-portfolio/courses.html"><img src="images/portfolio-button.png" class="img-item"></a></p>
+<p><a href="https://www.youtube.com/channel/UCbV8EkbZG-dj4-APd-NuFVg"><img src="images/youtube.png" class="img-item"></a></p>
+</div>
 </section>
 <section id="upcoming-events" class="news-item">
 <h4>Upcoming Events</h4>

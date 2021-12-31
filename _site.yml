@@ -21,6 +21,9 @@ collections:
     subscribe: _subscribe.html
     custom: _custom.html
 navbar:
+  logo: 
+    image: images/nerd6.png
+    href: https://jmhardaw.github.io/LDT-portfolio/index.html
   search: true
   right:
     - text: "Home"

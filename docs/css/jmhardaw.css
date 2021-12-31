@@ -81,12 +81,31 @@ d-appendix {
   --bkgd-color:       var(--color-background);
   font-weight:        500;
 }
+.distill-site-header .logo img {
+   max-height: 60px;
+   width: auto;
+   vertical-align: middle;
+   margin-top: 10px;
+}
+.distill-site-header .nav-right {
+    float: right;
+    line-height: 38px;
+    vertical-align: middle;
+}
 
+.distill-site-header .nav-left {
+    display: inline-block;
+    line-height: 38px;
+    vertical-align: middle;
+}
 .distill-site-footer {
   --text-color:       #ededeb;
   --text-size:        15px;
   --hover-color:      var(--color-white);
   --bkgd-color:       var(--color-primary);
+}
+.distill-site-footer p {
+    margin-bottom: 0em;
 }
 
 /*-- Additional custom styles --*/
@@ -192,12 +211,6 @@ d-article a:hover, a:focus {
     max-width: 10%!important;
     height: auto!important;
     vertical-align: text-top!important;
-}
-
-/* Footer */
-
-.distill-site-footer p {
-    margin-bottom: 0em;
 }
 
 /* Pubs page */

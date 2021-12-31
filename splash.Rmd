@@ -21,6 +21,9 @@ knitr::opts_chunk$set(echo = FALSE)
 d-title {
   display: none!important;
 }
+.article-header {
+  padding-top: 24px;
+}
 .article-banner {
   width: auto;
   height: auto;
@@ -89,7 +92,14 @@ img[src="images/banner.png"] {
   margin-bottom: 0px;
   font-size: 0.9em;
 }
-
+.img-item{
+	width: 300px;
+	padding: 20px
+}
+.img-container{
+	display: flex;
+	justify-content: center;
+}
 </style>
 ```
 ::: {.home-with-sidebar .l-screen-inset}
@@ -100,7 +110,11 @@ img[src="images/banner.png"] {
 ::: news-item
 ### I am a veteran, a craft beer & mead enthusiast, and a 1st-year graduate student at [NC State University](https://www.ncsu.edu/) in the [College of Education](https://ced.ncsu.edu/). I study learning design with a focus on using technology to improve student outcomes.
 
-<a href="https://jmhardaw.github.io/LDT-portfolio/courses.html"><img src="images/portfolio-button.png" width="80%" style="max-width:250px; padding-top:24px;"/></a>
+::: img-container
+<a href="https://jmhardaw.github.io/LDT-portfolio/courses.html"><img src="images/portfolio-button.png" class="img-item"></a>
+
+<a href="https://www.youtube.com/channel/UCbV8EkbZG-dj4-APd-NuFVg"><img src="images/youtube.png" class="img-item"></a>
+:::
 :::
 
 ::: news-item

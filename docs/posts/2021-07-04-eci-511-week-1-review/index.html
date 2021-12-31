@@ -2219,12 +2219,31 @@ d-appendix {
   --bkgd-color:       var(--color-background);
   font-weight:        500;
 }
+.distill-site-header .logo img {
+   max-height: 60px;
+   width: auto;
+   vertical-align: middle;
+   margin-top: 10px;
+}
+.distill-site-header .nav-right {
+    float: right;
+    line-height: 38px;
+    vertical-align: middle;
+}
 
+.distill-site-header .nav-left {
+    display: inline-block;
+    line-height: 38px;
+    vertical-align: middle;
+}
 .distill-site-footer {
   --text-color:       #ededeb;
   --text-size:        15px;
   --hover-color:      var(--color-white);
   --bkgd-color:       var(--color-primary);
+}
+.distill-site-footer p {
+    margin-bottom: 0em;
 }
 
 /*-- Additional custom styles --*/
@@ -2330,12 +2349,6 @@ d-article a:hover, a:focus {
     max-width: 10%!important;
     height: auto!important;
     vertical-align: text-top!important;
-}
-
-/* Footer */
-
-.distill-site-footer p {
-    margin-bottom: 0em;
 }
 
 /* Pubs page */
@@ -2570,6 +2583,9 @@ d-appendix d-footnote-list a.footnote-backlink {
 <header class="header header--fixed" role="banner">
 <nav class="distill-site-nav distill-site-header">
 <div class="nav-left">
+<a class="logo" href="https://jmhardaw.github.io/LDT-portfolio/index.html">
+<img src="../../images/nerd6.png" alt="Logo"/>
+</a>
 <a href="../../index.html" class="title">James Hardaway</a>
 <input id="distill-search" class="nav-search hidden" type="text" placeholder="Search..."/>
 </div>
