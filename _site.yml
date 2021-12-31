@@ -3,8 +3,8 @@ title: "James Hardaway"
 theme: css/jmhardaw.css
 description: |
   James Hardaway
-output_dir: "docs"
 base_url: https://jmhardaw.github.io/LDT-portfolio/
+output_dir: "docs"
 twitter: 
   site: "@James_Hardaway"
 repository_url: https://github.com/jmhardaw/LDT-portfolio
@@ -28,6 +28,8 @@ navbar:
   right:
     - text: "Home"
       href: index.html
+    - text: "About Me"
+      href: about.html
     - text: "LD&T Coursework"
       href: courses.html
     - text: "Blog"

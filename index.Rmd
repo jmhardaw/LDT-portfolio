@@ -1,32 +1,18 @@
 ---
 title: "James Hardaway"
-image: "images/hardaway-circle.png"
-links:
-  - label: '<i class="fab fa-twitter"></i> Twitter'
-    url: "https://twitter.com/James_Hardaway"
-  - label: '<i class="fab fa-linkedin"></i> LinkedIn'
-    url: "https://www.linkedin.com/in/jamesmhardaway/"  
-  - label: '<i class="fab fa-github"></i> GitHub'
-    url: "https://github.com/jmhardaw"
-  - label: '<i class="ai ai-google-scholar fa-lg"></i> Google Scholar'
-    url: "https://scholar.google.com/citations?user=su16JUQAAAAJ&hl=en&authuser=1" 
-  - label: '<i class="far fa-file-pdf"></i> Resume'
-    url: "https://github.com/jmhardaw/LDT-portfolio/blob/main/content/Hardaway-resume-20211115.pdf"
-  - label: '<i class="fas fa-envelope"></i> Email'
-    url: "mailto:jmhardaw@ncsu.edu"
-output:
-  postcards::trestles
-twitter:
-  site: "@James_Hardaway"
-  creator: "@James_Hardaway"
-base_url: "https://jmhardaw.github.io/LDT-portfolio/"
-preview: "images/hardaway-circle.png"
 site: distill::distill_website
-editor_options: 
-  chunk_output_type: console
+toc: false
+output: 
+ distill::distill_article:
+  includes: 
+   in_header: _header.html
+twitter:
+  creator: "@James_Hardaway"
+base_url: https://jmhardaw.github.io/LDT-portfolio/
+preview: images/IMG-1633-sm.jpg
 ---
 
-```{r setup, include = FALSE}
+```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
@@ -63,32 +49,147 @@ meta() %>%
   )
 ```
 
-## About Me
+```{=html}
+<style>
 
-California born, North Carolina raised, and Army trained. I'm returning to my roots at NC State University after enjoying 27 years as an Army intelligence officer. This time around my passion is education as I'm working to complete an M.Ed. in Learning Design & Technology. My military career was focused on analyzing information to inform decision makers. I'm now taking that experience and applying it to the evolving field of learning technology. At a young age I was blessed with incredibly talented and selfless teachers. My goal through this program is to develop tools that will continue to enable great teachers to guide students just as I was. From the K-12 community through higher ed, my goal is to create accessible and engaging educational spaces in which students become life-long scholars with an eye towards improving the world around them.
+d-title {
+  display: none!important;
+}
+.article-header {
+  padding-top: 24px;
+}
+.article-banner {
+  width: auto;
+  height: auto;
+  border: 0;
+}
+img[src="images/banner.png"] {
+  border: 0;
+  padding: 0;
+  width: 100%;
+  margin: 50px 25px 0px 0px;
+}
+.twitter-border {
+ border: 1px dashed black;
+ width: 300px;
+ position : relative;
+ border-radius: 5px;
+ margin: 0 auto;
+}
+.twitter-border::before {
+ content: "\f099";
+ font-family: "Font Awesome 5 Brands";
+ font-weight: 900; 
+ font-size: 1.5rem;
+ position: absolute;
+ top: -15px;
+ left: -15px;
+}
+.twitter-border > p {
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+  margin-bottom: 0em;
+}
+.home-with-sidebar {
+  padding-left: 45px;
+  padding-right: 10px;
+}
+@media (min-width: 1024px) {
+  .home-with-sidebar .home-main {
+    float: left;
+    width: 60%;
+  }
+}
+.home-main {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+@media (min-width: 1024px) {
+  .home-with-sidebar .home-sidebar {
+    float: right;
+    width: 30%;
+    margin-top: 10px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+  }
+}
+.home-sidebar {
+  font-size: 16px;
+}
+.news-container {
+  width: 80%;
+}
+.news-item {
+  line-height: 1.45em;
+  border-bottom: 1px solid #e3e4F0;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 0.9em;
+}
+.img-item{
+	width: 300px;
+	padding: 20px
+}
+.img-container{
+	display: flex;
+	justify-content: center;
+}
+.date {
+  color: gray;
+  display: block;
+  font-size: 0.75em;
+}
+.date::before {
+   font-family: "Font Awesome 5 Free";
+   font-weight: 900; 
+   content: "\f133";
+   padding-right: 2px;
+}
+</style>
+```
+::: {.home-with-sidebar .l-screen-inset}
+::: home-main
+## Welcome to my personal spot on the web!
 
-Research interests include:
+::: news-container
+::: news-item
+### I am a veteran, a craft beer & mead enthusiast, and a 1st-year graduate student at [NC State University](https://www.ncsu.edu/) in the [College of Education](https://ced.ncsu.edu/). I study learning design with a focus on using technology to improve student outcomes.
 
--   Combating mis/disinformation's impact on learning
+::: img-container
+<a href="https://jmhardaw.github.io/LDT-portfolio/courses.html"><img src="images/portfolio-button.png" class="img-item"></a>
 
--   Using artificial intelligence to personalize learning
+<a href="https://www.youtube.com/channel/UCbV8EkbZG-dj4-APd-NuFVg"><img src="images/youtube.png" class="img-item"></a>
+:::
+:::
 
--   Neuroscience in the age of ubiquitous information
+::: news-item
+#### Upcoming Events
+<ul>
+  <li>Spring 2022 - First day of classes [Mon 10th Jan 2022]{.date} </li>
+  <li>Last day to add a course without permission of instructor [Fri 14th Jan 2022]{.date} </li>
+  <li>Holiday(Martin Luther King, Jr. Day); university closed [Mon 17th Jan 2022]{.date} </li>
+  <li>Census Day/official enrollment date [Mon 24th Jan 2022]{.date} </li>
+  <li>Drop/Revision deadline [Mon 7th Mar 2022]{.date} </li>
+  <li>Schedule for 2022 Fall term published [Wed 9th Mar 2022]{.date} </li>
+  <li>Spring Break; no classes [Wed-Sun 14th-18th Mar 2022]{.date} </li>
+</ul>
+:::
 
-## Education
+:::
+:::
 
--   **NC State University** \| [MEd in Learning Design & Technology](https://ced.ncsu.edu/graduate/programs/masters/learning-design-and-technology/) \| Expected Graduation - Fall, 2022
+::: home-sidebar
+::: twitter-border
+<a class="twitter-timeline" data-height="600" data-width="300"  href="https://twitter.com/James_Hardaway?ref_src=twsrc%5Etfw">Tweets by James_Hardaway</a>
+:::
 
--   **US Army Command & General Staff College** \| [Master of Military Arts & Sciences](https://usacac.army.mil/organizations/cace/cgsc/sams) \| 2008
+```{=html}
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
+<center>
 
--   **Central Michigan University** \| [MS in Administration](https://www.cmich.edu/colleges/ehs/msa/Pages/default.aspx) \| 2007
+<a href="https://studentveterans.org/about/"><img src="images/sva-logo.png" width="80%" style="max-width:250px; padding-top:24px;"/></a>
 
--   **NC State University** \| [BS in Civil Engineering](https://www.ccee.ncsu.edu/) \| 1994
-
-## Experience
-
--   [**US Army Futures Command**](https://www.armyfuturescommand.com/fcc/)**, Virginia** \| Information Portfolio Modernization Lead \| July 2019 - June 2021
-
--   [**US Army Training and Doctrine Command**](https://www.army.mil/USAICoE)**, Arizona** \| Instructor & Curriculum Designer \| August 2003 - May 2005
-
--   [**US Army**](https://www.goarmy.com/careers-and-jobs/career-match/signal-intelligence/languages-code/35a-military-intelliigence-officer.html)**, Various Global Locales** \| Intelligence Officer \| September 1994 - September 2021 <a href="https://github.com/jmhardaw/LDT-portfolio/blob/main/content/Hardaway-mil-bio.pdf" text="Military Bio" class="far fa-file-pdf" style="font-size:36px;"></a> (*Army Bio*)
+</center>
+:::
+:::

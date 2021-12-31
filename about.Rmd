@@ -1,0 +1,94 @@
+---
+title: "James Hardaway"
+image: "images/hardaway-circle.png"
+links:
+  - label: '<i class="fab fa-twitter"></i> Twitter'
+    url: "https://twitter.com/James_Hardaway"
+  - label: '<i class="fab fa-linkedin"></i> LinkedIn'
+    url: "https://www.linkedin.com/in/jamesmhardaway/"  
+  - label: '<i class="fab fa-github"></i> GitHub'
+    url: "https://github.com/jmhardaw"
+  - label: '<i class="ai ai-google-scholar fa-lg"></i> Google Scholar'
+    url: "https://scholar.google.com/citations?user=su16JUQAAAAJ&hl=en&authuser=1" 
+  - label: '<i class="far fa-file-pdf"></i> Resume'
+    url: "https://github.com/jmhardaw/LDT-portfolio/blob/main/content/Hardaway-resume-20211115.pdf"
+  - label: '<i class="fas fa-envelope"></i> Email'
+    url: "mailto:jmhardaw@ncsu.edu"
+site: distill::distill_article
+output:
+  postcards::trestles
+twitter:
+  site: "@James_Hardaway"
+  creator: "@James_Hardaway"
+base_url: "https://jmhardaw.github.io/LDT-portfolio/"
+preview: "images/hardaway-circle.png"
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r deps, include = FALSE, message = FALSE, warning = FALSE}
+# Include dependencies here
+library(here)
+library(knitr)
+library(distill)
+library(postcards)
+library(fontawesome)
+library(metathis)
+# # Create new post with use_article_template()
+# refinery::use_article_template(
+#   template = "_templates/standard_post.Rmd",
+#   slug = "fabulous-blog-post", 
+#   renv_new = TRUE
+# )
+
+meta() %>%
+  meta_description(
+    "The personal website of James Hardaway"
+  ) %>%
+  meta_name("github-repo" = "jmhardaw/LDT-portfolio") %>%
+  meta_viewport() %>%
+  meta_social(
+    title = "Digital Portfolio",
+    url = "https://jmhardaw.github.io/LDT-portfolio/",
+    image = "https://jmhardaw.github.io/LDT-portfolio/images/hardaway-circle.png",
+    image_alt = "A photo of James Hardaway",
+    og_type = "website",
+    og_author = c("James Hardaway"),
+    twitter_card_type = "summary",
+    twitter_creator = "@James_Hardaway"
+  )
+```
+
+## About Me
+
+California born, North Carolina raised, and Army trained. I'm returning to my roots at NC State University after enjoying 27 years as an Army intelligence officer. This time around my passion is education as I'm working to complete an M.Ed. in Learning Design & Technology. My military career was focused on analyzing information to inform decision makers. I'm now taking that experience and applying it to the evolving field of learning technology. At a young age I was blessed with incredibly talented and selfless teachers. My goal through this program is to develop tools that will continue to enable great teachers to guide students just as I was. From the K-12 community through higher ed, my goal is to create accessible and engaging educational spaces in which students become life-long scholars with an eye towards improving the world around them.
+
+Research interests include:
+
+-   Combating mis/disinformation's impact on learning
+
+-   Using artificial intelligence to personalize learning
+
+-   Neuroscience in the age of ubiquitous information
+
+## Education
+
+-   **NC State University** \| [MEd in Learning Design & Technology](https://ced.ncsu.edu/graduate/programs/masters/learning-design-and-technology/) \| Expected Graduation - Fall, 2022
+
+-   **US Army Command & General Staff College** \| [Master of Military Arts & Sciences](https://usacac.army.mil/organizations/cace/cgsc/sams) \| 2008
+
+-   **Central Michigan University** \| [MS in Administration](https://www.cmich.edu/colleges/ehs/msa/Pages/default.aspx) \| 2007
+
+-   **NC State University** \| [BS in Civil Engineering](https://www.ccee.ncsu.edu/) \| 1994
+
+## Experience
+
+-   [**US Army Futures Command**](https://www.armyfuturescommand.com/fcc/)**, Virginia** \| Information Portfolio Modernization Lead \| July 2019 - June 2021
+
+-   [**US Army Training and Doctrine Command**](https://www.army.mil/USAICoE)**, Arizona** \| Instructor & Curriculum Designer \| August 2003 - May 2005
+
+-   [**US Army**](https://www.goarmy.com/careers-and-jobs/career-match/signal-intelligence/languages-code/35a-military-intelliigence-officer.html)**, Various Global Locales** \| Intelligence Officer \| September 1994 - September 2021 <a href="https://github.com/jmhardaw/LDT-portfolio/blob/main/content/Hardaway-mil-bio.pdf" text="Military Bio" class="far fa-file-pdf" style="font-size:36px;"></a> (*Army Bio*)
