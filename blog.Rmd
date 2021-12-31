@@ -1,5 +1,5 @@
 ---
-title: "Program Updates"
+title: "The Nerdy G.I. Blog"
 site: distill::distill_website
 listing: posts
 ---
