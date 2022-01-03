@@ -93,6 +93,14 @@ As the use of digital resources continues expand in education, an unprecedented 
 
 -   [Dr. Shaun Kellogg](https://ced.ncsu.edu/people/sbkellog/)
 
+**Artifacts**:
+
+-   [Case Study: Predicting Student Achievement](https://rpubs.com/jmhardaw/StudentAchieve)
+-   [Case Study: Identifying At-Risk Students](https://rpubs.com/jmhardaw/At-risk-students)
+-   [Shiny App Exercise: Class Enrollment & Gender](https://ps53zd-james-hardaway.shinyapps.io/class-attendance/)
+-   [Case Study: Public Sentiment & State Standards](https://rpubs.com/jmhardaw/sentiment-analysis)
+-   [Final Project: Benchmarking Fake News](https://rpubs.com/jmhardaw/FinalProject_ECI586)
+
 </aside>
 
 `r htmltools::br()`
@@ -114,5 +122,9 @@ Machine Learning is concerned with computer programs that enable the behavior of
 **Instructor**:
 
 -   [Dr. Shiyan Jiang](https://ced.ncsu.edu/people/sjiang24/)
+
+**Artifacts**:
+
+-   [Final Project: Identifying Misinformation in the Media](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci587-artifacts/eci587-final-project.pdf)
 
 </aside>
