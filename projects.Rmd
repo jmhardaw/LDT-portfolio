@@ -1,31 +1,60 @@
 ---
-title: "Untitled"
+title: "Data Science Projects"
 description: |
-  A new article created using the Distill format.
-author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
+  A collection of some projects that may or may not be related to my research.
 date: "`r Sys.Date()`"
-output: distill::distill_article
+output:
+  distill::distill_article:
+    toc: false
+    css:
+      - css/jmhardaw.css
+      - css/strapless.css
+twitter:
+  creator: "@James_Hardaway"
+base_url: https://jmhardaw.github.io/LDT-portfolio/
+preview: images/IMG-1633-sm.jpg
 ---
+
+<!-- Remove margin under images -->
+<style>
+d-article img {
+  margin-bottom: 0px;
+}
+
+.btn-primary {
+    background-color: #74a08a;
+    color: #FFFFFF;
+    padding: 3px 5px 3px 5px;
+    margin: 0 2px 0 2px;
+    border-radius: 5px; /* Rounded edges */
+    border: 0px;
+}
+
+.btn-primary:hover {
+    background-color: #8a74a0;
+    color: #FFFFFF;
+}
+</style>
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+library(tidyverse)
+library(bs4cards)
+
+# Read in projects csv file 
+projects <- readr::read_csv(here::here("content", "projects.csv"))
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web. 
-
-Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
-
-## Corrections {.appendix}
-
-If you see mistakes or want to suggest changes, please [create an issue](https://github.com/jmhardaw/LDT-portfolio/issues/new) on the source repository.
-
-## Reuse {.appendix}
-
-Text and figures are licensed under Creative Commons Attribution [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Source code is available at <https://github.com/jmhardaw/LDT-portfolio>, unless otherwise noted. The figures that have been reused from other sources don't fall under this license and can be recognized by a note in their caption: "Figure from ...".
-
-
-
+```{r projects, echo=FALSE, layout="l-body-outset"}
+projects %>% 
+  bs4cards::cards(
+    title = title,
+    text = description,
+    link = url,
+    image = src,
+    label_colour = "#ffffff",
+    tags = paste("All;", tags),
+    footer = tags,
+    border_radius = 5
+  )
+```

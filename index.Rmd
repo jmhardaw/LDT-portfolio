@@ -110,7 +110,6 @@ img[src="images/banner.png"] {
     width: 30%;
     margin-top: 10px;
     padding-top: 24px;
-    padding-bottom: 24px;
   }
 }
 .home-sidebar {
@@ -160,7 +159,7 @@ img[src="images/banner.png"] {
 ::: img-container
 <a href="https://jmhardaw.github.io/LDT-portfolio/courses.html"><img src="images/portfolio-button.png" class="img-item" style="width:300px"></a>
 
-<a href="https://www.youtube.com/channel/UCbV8EkbZG-dj4-APd-NuFVg"><img src="images/youtube.png" class="img-item" style="width:300px"></a>
+<a href="https://jmhardaw.github.io/LDT-portfolio/projects.html"><img src="images/projects-button.png" class="img-item" style="width:300px"></a>
 :::
 :::
 
@@ -190,7 +189,12 @@ img[src="images/banner.png"] {
 ```
 <center>
 
-<a href="https://studentveterans.org/about/"><img src="images/sva-logo.png" width="80%" style="max-width:250px; padding-top:24px;"/></a>
+<a href="https://www.youtube.com/channel/UCbV8EkbZG-dj4-APd-NuFVg"><img src="images/youtube.png" width="80%" style="max-width:250px; padding-top:24px;"/></a>
+
+</center>
+<center>
+
+<a href="https://studentveterans.org/about/"><img src="images/sva-logo.png" width="80%" style="max-width:250px;"/></a>
 
 </center>
 :::
