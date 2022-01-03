@@ -1,0 +1,68 @@
+---
+title: "Veteran Resources"
+description: |
+  A new article created using the Distill format.
+date: "`r Sys.Date()`"
+output:
+  distill::distill_article:
+    toc: true
+    css:
+      - css/jmhardaw.css
+      - css/strapless.css
+twitter:
+  creator: "@James_Hardaway"
+base_url: https://jmhardaw.github.io/LDT-portfolio/
+preview: images/IMG-1633-sm.jpg
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{=html}
+<style>
+
+.home-with-sidebar {
+  padding-left: 45px;
+  padding-right: 10px;
+}
+@media (min-width: 1024px) {
+  .home-with-sidebar .home-main {
+    float: left;
+    width: 60%;
+  }
+}
+.home-main {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+@media (min-width: 1024px) {
+  .home-with-sidebar .home-sidebar {
+    float: right;
+    width: 30%;
+    margin-top: 10px;
+    padding-top: 24px;
+  }
+}
+.home-sidebar {
+  font-size: 16px;
+}
+
+</style>
+```
+
+## Education
+
+## Community
+
+## Health
+
+::: home-sidebar
+
+<center>
+
+<a href="https://www.veteranscrisisline.net/"><img src="images/crisis-line.png" width="80%" style="max-width:250px;"/></a>
+
+</center>
+
+:::
