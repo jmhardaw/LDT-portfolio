@@ -34,6 +34,8 @@ navbar:
       href: courses.html
     - text: "Projects"
       href: projects.html
+    - text: "Veterans"
+      href: veterans.html
     - text: "Blog"
       href: blog.html
     - icon: fab fa-twitter

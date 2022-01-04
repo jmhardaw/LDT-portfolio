@@ -116,7 +116,7 @@ img[src="images/banner.png"] {
   font-size: 16px;
 }
 .news-container {
-  width: 80%;
+  width: 100%;
 }
 .news-item {
   line-height: 1.45em;
@@ -127,7 +127,7 @@ img[src="images/banner.png"] {
 }
 .img-item {
 	float: left;
-	width: 50%;
+	width: 33%;
 	padding: 20px
 }
 .img-container::after {
@@ -160,6 +160,8 @@ img[src="images/banner.png"] {
 <a href="https://jmhardaw.github.io/LDT-portfolio/courses.html"><img src="images/portfolio-button.png" class="img-item" style="width:300px"></a>
 
 <a href="https://jmhardaw.github.io/LDT-portfolio/projects.html"><img src="images/projects-button.png" class="img-item" style="width:300px"></a>
+
+<a href="https://jmhardaw.github.io/LDT-portfolio/veterans.html"><img src="images/veterans-button.png" class="img-item" style="width:300px"></a>
 :::
 :::
 
