@@ -10,8 +10,6 @@ links:
     url: "https://github.com/jmhardaw"
   - label: '<i class="ai ai-google-scholar fa-lg"></i> Google Scholar'
     url: "https://scholar.google.com/citations?user=su16JUQAAAAJ&hl=en&authuser=1" 
-  - label: '<i class="far fa-file-pdf"></i> Resume'
-    url: "https://github.com/jmhardaw/LDT-portfolio/blob/main/content/Hardaway-resume-20211115.pdf"
   - label: '<i class="fas fa-envelope"></i> Email'
     url: "mailto:jmhardaw@ncsu.edu"
 site: distill::distill_article
@@ -28,6 +26,7 @@ editor_options:
 
 ```{r setup, include = FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+source(file.path("R", "functions.R"))
 ```
 
 ```{r deps, include = FALSE, message = FALSE, warning = FALSE}
@@ -75,6 +74,20 @@ Research interests include:
 
 -   Neuroscience in the age of ubiquitous information
 
+<center>
+```{r, echo=FALSE}
+icon_link(
+    icon = "far fa-file-pdf",
+    text = "Resume",
+    url  = "https://github.com/jmhardaw/LDT-portfolio/blob/main/content/Hardaway-resume-20211115.pdf"
+)
+icon_link(
+    icon = "far fa-file-pdf",
+    text = "Army Bio",
+    url  = "https://github.com/jmhardaw/LDT-portfolio/blob/main/content/Hardaway-mil-bio.pdf"
+)
+```
+</center>
 ## Education
 
 -   **NC State University** \| [MEd in Learning Design & Technology](https://ced.ncsu.edu/graduate/programs/masters/learning-design-and-technology/) \| Expected Graduation - Fall, 2022
@@ -91,4 +104,4 @@ Research interests include:
 
 -   [**US Army Training and Doctrine Command**](https://www.army.mil/USAICoE)**, Arizona** \| Instructor & Curriculum Designer \| August 2003 - May 2005
 
--   [**US Army**](https://www.goarmy.com/careers-and-jobs/career-match/signal-intelligence/languages-code/35a-military-intelliigence-officer.html)**, Various Global Locales** \| Intelligence Officer \| September 1994 - September 2021 <a href="https://github.com/jmhardaw/LDT-portfolio/blob/main/content/Hardaway-mil-bio.pdf" text="Military Bio" class="far fa-file-pdf" style="font-size:36px;"></a> (*Army Bio*)
+-   [**US Army**](https://www.goarmy.com/careers-and-jobs/career-match/signal-intelligence/languages-code/35a-military-intelliigence-officer.html)**, Various Global Locales** \| Intelligence Officer \| September 1994 - September 2021
