@@ -154,7 +154,7 @@ img[src="images/banner.png"] {
 
 ::: news-container
 ::: news-item
-### Welcome to the Nerdy G.I.'s home on the web. I am a veteran, a craft beer & mead enthusiast, and a 1st-year graduate student at [NC State University](https://www.ncsu.edu/). I study learning design with a focus on using technology and data analytics to improve student outcomes. I also serve as a student veteran ambassador to the NCSU [College of Education](https://ced.ncsu.edu/).
+### Welcome to the Nerdy G.I.'s home on the web. I am a veteran, a craft beer & mead enthusiast, and a 1st-year graduate student at [North Carolina State University](https://www.ncsu.edu/). I study learning design with a focus on using technology and data analytics to improve student outcomes. I also serve as a student veteran ambassador to the NCSU [College of Education](https://ced.ncsu.edu/).
 
 ::: img-container
 <a href="https://jmhardaw.github.io/LDT-portfolio/courses.html"><img src="images/portfolio-button.png" class="img-item" style="width:300px"></a>
