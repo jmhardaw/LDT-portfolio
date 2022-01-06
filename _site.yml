@@ -4,6 +4,7 @@ theme: css/jmhardaw.css
 description: |
   James Hardaway
 base_url: https://jmhardaw.github.io/LDT-portfolio/
+google_analytics: "UA-216367562-1"
 output_dir: "docs"
 twitter: 
   site: "@James_Hardaway"
@@ -53,3 +54,9 @@ rss:
 output: 
   distill::distill_article:
     toc: true
+cookie_consent:
+  style: simple
+  type: express
+  palette: light
+  lang: en
+  cookies_policy: url
