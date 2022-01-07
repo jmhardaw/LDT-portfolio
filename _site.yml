@@ -3,7 +3,7 @@ title: "James Hardaway"
 theme: css/jmhardaw.css
 description: |
   James Hardaway
-base_url: https://jmhardaw.github.io/LDT-portfolio/
+base_url: https://www.nerdygi.com
 google_analytics: "UA-216367562-1"
 output_dir: "docs"
 twitter: 
@@ -24,7 +24,7 @@ collections:
 navbar:
   logo: 
     image: images/nerd6.png
-    href: https://jmhardaw.github.io/LDT-portfolio/index.html
+    href: https://www.nerdygi.com/index.html
   search: true
   right:
     - text: "Home"

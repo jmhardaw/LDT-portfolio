@@ -8,7 +8,7 @@ output:
    in_header: _header.html
 twitter:
   creator: "@James_Hardaway"
-base_url: https://jmhardaw.github.io/LDT-portfolio/
+base_url: https://www.nerdygi.com
 preview: images/IMG-1633-sm.jpg
 ---
 
@@ -39,7 +39,7 @@ meta() %>%
   meta_viewport() %>%
   meta_social(
     title = "Learning - Innovation - Service",
-    url = "https://jmhardaw.github.io/LDT-portfolio/",
+    url = "https://www.nerdygi.com",
     image = "https://jmhardaw.github.io/LDT-portfolio/images/hardaway-circle.png",
     image_alt = "A photo of James Hardaway",
     og_type = "website",

@@ -18,7 +18,7 @@ output:
 twitter:
   site: "@James_Hardaway"
   creator: "@James_Hardaway"
-base_url: "https://jmhardaw.github.io/LDT-portfolio/"
+base_url: "https://www.nerdygi.com"
 preview: "images/hardaway-circle.png"
 editor_options: 
   chunk_output_type: console
@@ -51,8 +51,8 @@ meta() %>%
   meta_name("github-repo" = "jmhardaw/LDT-portfolio") %>%
   meta_viewport() %>%
   meta_social(
-    title = "Digital Portfolio",
-    url = "https://jmhardaw.github.io/LDT-portfolio/",
+    title = "Learning - Innovation - Service",
+    url = "https://www.nerdygi.com",
     image = "https://jmhardaw.github.io/LDT-portfolio/images/hardaway-circle.png",
     image_alt = "A photo of James Hardaway",
     og_type = "website",
