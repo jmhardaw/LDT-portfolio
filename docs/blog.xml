@@ -6,6 +6,11 @@
     <atom:link href="https://www.nerdygi.com/blog.xml" rel="self" type="application/rss+xml"/>
     <description>James Hardaway
 </description>
+    <image>
+      <title>James Hardaway</title>
+      <url>https://www.nerdygi.com/images/nerd6.png</url>
+      <link>https://www.nerdygi.com</link>
+    </image>
     <generator>Distill</generator>
     <lastBuildDate>Fri, 07 Jan 2022 00:00:00 +0000</lastBuildDate>
     <item>
