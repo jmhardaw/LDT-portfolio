@@ -7,7 +7,28 @@
     <description>James Hardaway
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Sun, 11 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>My First Distill Website</title>
+      <dc:creator>James Hardaway</dc:creator>
+      <link>https://jmhardaw.github.io/LDT-portfolio/posts/2022-01-07-my-first-distill-website</link>
+      <description>What began as a digital porfolio project has grown. Here's what I learned while building my first website in 'R'.</description>
+      <category>NC State</category>
+      <category>Distill</category>
+      <category>R</category>
+      <category>Bluehost</category>
+      <category>GitHub</category>
+      <category>Netlify</category>
+      <category>Blogdown</category>
+      <category>Hugo</category>
+      <category>Distillery</category>
+      <category>Postcards</category>
+      <category>Website Build</category>
+      <category>Blog</category>
+      <guid>https://jmhardaw.github.io/LDT-portfolio/posts/2022-01-07-my-first-distill-website</guid>
+      <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://jmhardaw.github.io/LDT-portfolio/posts/2022-01-07-my-first-distill-website/distill-logo.png" medium="image" type="image/png" width="240" height="277"/>
+    </item>
     <item>
       <title>ECI 511 – Week 2 Review</title>
       <dc:creator>James Hardaway</dc:creator>
