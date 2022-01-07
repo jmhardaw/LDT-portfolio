@@ -38,7 +38,7 @@ meta() %>%
   meta_name("github-repo" = "jmhardaw/LDT-portfolio") %>%
   meta_viewport() %>%
   meta_social(
-    title = "Digital Portfolio",
+    title = "Learning - Innovation - Service",
     url = "https://jmhardaw.github.io/LDT-portfolio/",
     image = "https://jmhardaw.github.io/LDT-portfolio/images/hardaway-circle.png",
     image_alt = "A photo of James Hardaway",
