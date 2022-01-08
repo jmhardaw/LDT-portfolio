@@ -52,9 +52,11 @@ projects %>%
     text = description,
     link = url,
     image = src,
+    layout = "label-above",
     label_colour = "#ffffff",
     tags = paste("All;", tags),
     footer = tags,
+    spacing = 5,
     border_radius = 5
   )
 ```
