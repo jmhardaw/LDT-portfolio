@@ -166,7 +166,19 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <li>
 
-[Patriots Path](https://patriots-path.org/) -- Patriots Path is a non-profit organization that supports veterans, transitioning service members, and military spouses in finding meaningful employment opportunities by defining career goals, mapping out job search strategies, identifying opportunities, creating a marketing approach and connecting within our community to peers, mentors and coaches for continued networking and support.
+[American Job Centers](https://www.servicelocator.org/) -- America's Service Locator connects individuals to employment and training opportunities available at local American Job Centers. The website provides contact information for a range of local work-related services, including unemployment benefits, career development, and educational opportunities.
+
+</li>
+
+<li>
+
+[CareerOneStop](https://www.careeronestop.org/Site/veterans.aspx) -- This Department of Labor website can connect you with programs, including the Veteran and Military Transition Center or My Next Move for Veterans. Also, explore careers, find benefits information and locate your nearest [American Job Center](https://www.careeronestop.org/LocalHelp/AmericanJobCenters/american-job-centers.aspx).
+
+</li>
+
+<li>
+
+[Computer/Electronic Accommodations Program](https://www.cap.mil/) -- This program provides assistive technology and accommodations to support individuals with disabilities and wounded, ill and injured service members throughout the federal government. Access information and communication technology which can help you with your job search.
 
 </li>
 
@@ -178,25 +190,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <li>
 
-[Transition Assistance Program](https://installations.militaryonesource.mil/?looking-for-a=program/program-service=22/focus=program) -- Transition Assistance offices are on most military installations in the United States and overseas. You can also [find service-specific TAP resources](https://www.dodtap.mil/links.html):
-
-</li>
-
--   [Army Soldier for Life Transition Assistance Program](https://www.sfl-tap.army.mil/)
--   [Marine Corps Transition Readiness Program](https://usmc-mccs.org/services/career/transition-readiness/)
--   [Navy Transition Assistance](https://www.cnic.navy.mil/regions/cnrse/installations/nas_kingsville/ffr/support_services/military_support/transition_assistance.html)
--   [Air Force Transition Assistance Program](https://www.afpc.af.mil/Airman-and-Family/Transition-Assistance-Program/)
--   [Coast Guard Transition Assistance Program](https://www.dcms.uscg.mil/Our-Organization/Assistant-Commandant-for-Human-Resources-CG-1/Health-Safety-and-Work-Life-CG-11/Office-of-Work-Life-CG-111/Transition-Assistance-Program/)
-
-<li>
-
 [DOD Skillbridge](https://dodskillbridge.usalearning.gov/) -- This program offers employment training, internship and apprenticeship opportunities at more than 1,000 public and private organizations across the country.
-
-</li>
-
-<li>
-
-[Find a Job](https://www.dol.gov/veterans/findajob/) -- The VA and the Department of Labor have teamed up to offer numerous online resources for veterans and military spouses seeking employment. Get tools, one-on-one assistance, training and more.
 
 </li>
 
@@ -214,37 +208,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <li>
 
-[CareerOneStop](https://www.careeronestop.org/Site/veterans.aspx) -- This Department of Labor website can connect you with programs, including the Veteran and Military Transition Center or My Next Move for Veterans. Also, explore careers, find benefits information and locate your nearest [American Job Center](https://www.careeronestop.org/LocalHelp/AmericanJobCenters/american-job-centers.aspx).
+[Find a Job](https://www.dol.gov/veterans/findajob/) -- The VA and the Department of Labor have teamed up to offer numerous online resources for veterans and military spouses seeking employment. Get tools, one-on-one assistance, training and more.
 
 </li>
 
 <li>
 
-[USAJOBS](https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/) -- The federal government's employment-related website provides helpful links for veterans seeking federal jobs. As the largest federal employer of veterans, the Department of Defense also offers help with connecting veterans to Department of Defense [civil service jobs](https://www.dodciviliancareers.com/).
-
-</li>
-
-<li>
-
-[Computer/Electronic Accommodations Program](https://www.cap.mil/) -- This program provides assistive technology and accommodations to support individuals with disabilities and wounded, ill and injured service members throughout the federal government. Access information and communication technology which can help you with your job search.
-
-</li>
-
-<li>
-
-[VA Vocational Rehabilitation and Employment Home](https://www.benefits.va.gov/vocrehab/) -- Veterans may receive vocational rehabilitation and employment services to help with job training, employment, resume development, and job seeking skills coaching. Other services may be provided to assist veterans in starting their own businesses or independent living services for those who are severely disabled and unable to work in traditional employment.
-
-</li>
-
-<li>
-
-[VA Employment Programs for Homeless Veterans](https://www.va.gov/homeless/employment_programs.asp) -- VA's Compensated Work Therapy (CWT) Program is a national vocational program comprised of three unique programs which assist homeless veterans in returning to competitive employment: Sheltered Workshop, Transitional Work, and Supported Employment. Veterans in CWT are paid at least the federal or state minimum wage, whichever is higher.
-
-</li>
-
-<li>
-
-[American Job Centers](https://www.servicelocator.org/) -- America's Service Locator connects individuals to employment and training opportunities available at local American Job Centers. The website provides contact information for a range of local work-related services, including unemployment benefits, career development, and educational opportunities.
+[Hire Heroes USA](https://www.hireheroesusa.org/about/) -- Hire Heroes offers employment assistance for transitioning military members through personalized service and support.
 
 </li>
 
@@ -256,7 +226,55 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <li>
 
+[North Carolina for Military Employment](https://nc4me.org/cpt_services/hiring-events/) -- NC4ME is a comprehensive public-private partnership designed to make NC the number one state for military employment.
+
+</li>
+
+<li>
+
+[Onward to Opportunity](https://ivmf.syracuse.edu/programs/career-training/) -- O2O is a free career training program that provides professional certification and employee support services to transitioning service members, veterans and military spouses.
+
+</li>
+
+<li>
+
+[Patriots Path](https://patriots-path.org/) -- Patriots Path is a non-profit organization that supports veterans, transitioning service members, and military spouses in finding meaningful employment opportunities by defining career goals, mapping out job search strategies, identifying opportunities, creating a marketing approach and connecting within our community to peers, mentors and coaches for continued networking and support.
+
+</li>
+
+<li>
+
 [Small Business (SBA Veteran & Disabled Veterans)](https://www.sba.gov/content/veteran-service-disabled-veteran-owned) -- If you are a veteran or service-disabled veteran, SBA has resources to help you start and grow your small business.
+
+</li>
+
+<li>
+
+[Transition Assistance Program](https://installations.militaryonesource.mil/?looking-for-a=program/program-service=22/focus=program) -- Transition Assistance offices are on most military installations in the United States and overseas. You can also [find service-specific TAP resources](https://www.dodtap.mil/links.html):
+
+</li>
+
+-   [Army Soldier for Life Transition Assistance Program](https://www.sfl-tap.army.mil/)
+-   [Marine Corps Transition Readiness Program](https://usmc-mccs.org/services/career/transition-readiness/)
+-   [Navy Transition Assistance](https://www.cnic.navy.mil/regions/cnrse/installations/nas_kingsville/ffr/support_services/military_support/transition_assistance.html)
+-   [Air Force Transition Assistance Program](https://www.afpc.af.mil/Airman-and-Family/Transition-Assistance-Program/)
+-   [Coast Guard Transition Assistance Program](https://www.dcms.uscg.mil/Our-Organization/Assistant-Commandant-for-Human-Resources-CG-1/Health-Safety-and-Work-Life-CG-11/Office-of-Work-Life-CG-111/Transition-Assistance-Program/)
+
+<li>
+
+[USAJOBS](https://www.usajobs.gov/Help/working-in-government/unique-hiring-paths/veterans/) -- The federal government's employment-related website provides helpful links for veterans seeking federal jobs. As the largest federal employer of veterans, the Department of Defense also offers help with connecting veterans to Department of Defense [civil service jobs](https://www.dodciviliancareers.com/).
+
+</li>
+
+<li>
+
+[VA Employment Programs for Homeless Veterans](https://www.va.gov/homeless/employment_programs.asp) -- VA's Compensated Work Therapy (CWT) Program is a national vocational program comprised of three unique programs which assist homeless veterans in returning to competitive employment: Sheltered Workshop, Transitional Work, and Supported Employment. Veterans in CWT are paid at least the federal or state minimum wage, whichever is higher.
+
+</li>
+
+<li>
+
+[VA Vocational Rehabilitation and Employment Home](https://www.benefits.va.gov/vocrehab/) -- Veterans may receive vocational rehabilitation and employment services to help with job training, employment, resume development, and job seeking skills coaching. Other services may be provided to assist veterans in starting their own businesses or independent living services for those who are severely disabled and unable to work in traditional employment.
 
 </li>
 
