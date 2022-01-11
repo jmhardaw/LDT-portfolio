@@ -168,9 +168,9 @@ img[src="images/banner.png"] {
 ::: news-item
 #### Upcoming Events
 <ul>
-  <li>Spring 2022 - First day of classes [Mon 10th Jan 2022]{.date} </li>
   <li>Taco Tuesday Military Community Lunch, 12:30-2PM at Talley Student Center [Register HERE](https://docs.google.com/forms/d/e/1FAIpQLSd280B8bPW0ejkuXg6aniB9F_MVqEjHpzhVGX0MH4k7Hx-elw/viewform) by 3PM on Monday [Tue 11th Jan 2022]{.date} </li>
   <li>Military & Veterans Services Spring Open House, 11:30-2PM at Witherspoon Student Center, Room 100 [Thu 13th Jan 2022]{.date} </li>
+  <li>Raleigh Veterans Job Fair, 11:00-3PM at Vaughn Towers at Carter-Finley Stadium [Register HERE](https://success.recruitmilitary.com/events/raleigh-veterans-job-fair-january-13-2022) [Thu 13th Jan 2022]{.date} </li>
   <li>Last day to add a course without permission of instructor [Fri 14th Jan 2022]{.date} </li>
   <li>Holiday(Martin Luther King, Jr. Day); university closed [Mon 17th Jan 2022]{.date} </li>
   <li>Census Day/official enrollment date [Mon 24th Jan 2022]{.date} </li>
