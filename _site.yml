@@ -49,6 +49,8 @@ navbar:
       href: https://github.com/jmhardaw    
     - icon: ai ai-google-scholar fa-lg
       href: https://scholar.google.com/citations?user=su16JUQAAAAJ&hl=en&authuser=1
+    - icon: fas fa-envelope
+      href: mailto:jmhardaw@ncsu.edu
     - icon: fa fa-rss
       href: blog.xml
 rss:
