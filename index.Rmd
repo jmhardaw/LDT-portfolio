@@ -168,8 +168,6 @@ img[src="images/banner.png"] {
 ::: news-item
 #### Upcoming Events
 <ul>
-  <li>Holiday(Martin Luther King, Jr. Day); university closed [Mon 17th Jan 2022]{.date} </li>
-  <li>Military Virtual Admission Info Session, 12-1PM [Register HERE](https://apply.ncsu.edu/portal/transfer-visits?id=c330ae9b-7d94-4309-be11-361dbdffa88b) [Tue 18th Jan 2022]{.date} </li>
   <li>Census Day/official enrollment date [Mon 24th Jan 2022]{.date} </li>
   <li>Military Virtual Admission Info Session, 12-1PM [Register HERE](https://apply.ncsu.edu/portal/transfer-visits?id=016b884e-23ac-404c-8eab-138bfb654cbd) [Thu 10th Feb 2022]{.date} </li>
   <li>Census Day/official enrollment date [Mon 24th Jan 2022]{.date} </li>
