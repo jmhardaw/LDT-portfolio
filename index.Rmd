@@ -172,7 +172,7 @@ img[src="images/banner.png"] {
     - last day to add a course with permission of the instructor
     <br>- last day for tuition refunds due to dropping a course or changing from credit to audit
     <br>- last day for undergraduate students to drop below 12 hours or to drop a course without a W grade</li>
-  <li>Student Vet Association Interest Meetings, 1 and 5:30PM [RSVP HERE](https://ncsu.us6.list-manage.com/track/click?u=59cd6a80e7&id=e7e5d98cd0&e=4c2273589a) [Tue 1st Feb 2022]{.date} </li>
+  <li>Student Vet Association Interest Meetings, 12 and 5:30PM [RSVP HERE](https://ncsu.us6.list-manage.com/track/click?u=59cd6a80e7&id=e7e5d98cd0&e=4c2273589a) [Tue 1st Feb 2022]{.date} </li>
   <li>Military Virtual Admission Info Session, 12-1PM [Register HERE](https://apply.ncsu.edu/portal/transfer-visits?id=016b884e-23ac-404c-8eab-138bfb654cbd) [Thu 10th Feb 2022]{.date} </li>
   <li>Drop/Revision deadline [Mon 7th Mar 2022]{.date} </li>
   <li>Schedule for 2022 Fall term published [Wed 9th Mar 2022]{.date} </li>
