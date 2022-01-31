@@ -168,7 +168,7 @@ img[src="images/banner.png"] {
 ::: news-item
 #### Upcoming Events
 <ul>
-  <li>Student Vet Association Interest Meetings, 12 and 5:30PM [RSVP HERE](https://ncsu.us6.list-manage.com/track/click?u=59cd6a80e7&id=e7e5d98cd0&e=4c2273589a) [Tue 1st Feb 2022]{.date} </li>
+  <li>Student Vet Association Interest Meetings, 12 and 5:30PM @ Fox Science Lab, RM 140 [RSVP HERE](https://ncsu.us6.list-manage.com/track/click?u=59cd6a80e7&id=e7e5d98cd0&e=4c2273589a) [Tue 1st Feb 2022]{.date} </li>
   <li>Raytheon Missiles & Defense Virtual Resume Workshop, 5-7PM [Register HERE](https://raytheon.avature.net/RMD?jobId=15122&tags=FebruaryMilitaryWebinar&j=198579&sfmc_sub=42634892&l=187_HTML&u=5993327&mid=514003021&jb=7), [View open positions](https://careers.rtx.com/global/en/raytheon-missiles-defense?j=198579&sfmc_sub=42634892&l=187_HTML&u=5993326&mid=514003021&jb=7) [Wed 2nd Feb 2022]{.date} </li>
   <li>Hiring Our Heroes National Virtual GROW Hiring Event, 4-7PM [Register HERE](https://events.hiringourheroes.org/event/d4fe4ce3-0538-41c8-a2b6-e77f563c9b91/summary) [Wed 2nd Feb 2022]{.date} </li>
   <li>"From Boots to Suits" Career Workshop Series - Creating a Targeted Resume, 12-2PM, Location TBD [Register HERE](https://docs.google.com/forms/d/e/1FAIpQLScHwmM-_FAKOUuQNTmStamguqCx5V90ppFGAYniDfQO4B0K0w/viewform?usp=sf_link) [Thu 3rd Feb 2022]{.date} </li>
