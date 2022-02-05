@@ -168,7 +168,6 @@ img[src="images/banner.png"] {
 ::: news-item
 #### Upcoming Events
 <ul>
-  <li>"From Boots to Suits" Career Workshop Series - Creating a Targeted Resume, 12-2PM, Witherspoon Student Center Rm 100 [Register HERE](https://docs.google.com/forms/d/e/1FAIpQLScHwmM-_FAKOUuQNTmStamguqCx5V90ppFGAYniDfQO4B0K0w/viewform?usp=sf_link) [Thu 3rd Feb 2022]{.date} </li>
   <li>Taco (Burrito) Tuesday Military Lunch, 12:00-2PM, Witherspoon Student Center Rm 104 [Register HERE by 7 Feb@2PM](https://docs.google.com/forms/d/e/1FAIpQLSd280B8bPW0ejkuXg6aniB9F_MVqEjHpzhVGX0MH4k7Hx-elw/viewformk) [Tue 8th Feb 2022]{.date} </li>
   <li>Military Virtual Admission Info Session, 12-1PM [Register HERE](https://apply.ncsu.edu/portal/transfer-visits?id=016b884e-23ac-404c-8eab-138bfb654cbd) [Thu 10th Feb 2022]{.date} </li>
   <li>"From Boots to Suits" Career Workshop Series - Give a Stellar Interview, 12-2PM, Witherspoon Student Center Rm 100 [Register HERE](https://docs.google.com/forms/d/e/1FAIpQLScHwmM-_FAKOUuQNTmStamguqCx5V90ppFGAYniDfQO4B0K0w/viewform?usp=sf_link) [Thu 3rd Mar 2022]{.date} </li>
