@@ -168,7 +168,6 @@ img[src="images/banner.png"] {
 ::: news-item
 #### Upcoming Events
 <ul>
-  <li>Green Zone Training, 1-4PM, Talley Student Union Rm 4280 [Register HERE](http://app.bronto.com/t/l?ssid=36948&subscriber_id=aknwwlubwyefrlhibdcjferwzujcbem&delivery_id=bofgruredvrldrdgmbekqzhurupxbfe&td=_y2ZQF1oDW6502LmB73L1wDKF-GZ9YBrZAQ0Vv2t54B07BhSr1jEXZtt0JSAyUwn-PInKI73JMGaaBrCizYuECYcWJ5VSSZZDkX7z6OnmJgWinQEodvcOgW3VZC7uqg8wIXDCTgTf6uYGpi-5deYFPAJYa12cpiffJ2Xr_pP395EiMBmt8kxhCqSoYhXrb89UYa9D-IzfrforsBl7_r3py0utEXDvKx0JeQ96ljXLOuDN3zKGHUcBNQA) [Wed 23rd Feb 2022]{.date} </li>
   <li>"From Boots to Suits" Career Workshop Series - Give a Stellar Interview, 12-2PM, Witherspoon Student Center Rm 100 [Register HERE](https://docs.google.com/forms/d/e/1FAIpQLScHwmM-_FAKOUuQNTmStamguqCx5V90ppFGAYniDfQO4B0K0w/viewform?usp=sf_link) [Thu 3rd Mar 2022]{.date} </li>
   <li>NCSU Drop/Revision deadline [Mon 7th Mar 2022]{.date} </li>
   <li>Green Zone Training, 2-4PM, Virtual [Register HERE](http://app.bronto.com/t/l?ssid=36948&subscriber_id=aknwwlubwyefrlhibdcjferwzujcbem&delivery_id=bofgruredvrldrdgmbekqzhurupxbfe&td=_y2ZQF1oDW6502LmB73L1wDKF-GZ9YBrZAQ0Vv2t54B07BhSr1jEXZtt0JSAyUwn-PInKI73JMGaaBrCizYuECYcWJ5VSSZZDkX7z6OnmJgWinQEodvcOgW3VZC7uqg8wIXDCTgTf6uYGpi-5deYFPAJYa12cpiffJ2Xr_pP395EiMBmt8kxhCqSoYhXrb89UYa9D-IzfrforsBl7_r3py0utEXDvKx0JeQ96ljXLOuDN3zKGHUcBNQA) [Wed 9th Mar 2022]{.date} </li>
