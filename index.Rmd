@@ -168,8 +168,11 @@ img[src="images/banner.png"] {
 ::: news-item
 #### Upcoming Events
 <ul>
-  <li>"From Boots to Suits" Career Workshop Series - Give a Stellar Interview, 12-2PM, Witherspoon Student Center Rm 100 [Register HERE](https://docs.google.com/forms/d/e/1FAIpQLScHwmM-_FAKOUuQNTmStamguqCx5V90ppFGAYniDfQO4B0K0w/viewform?usp=sf_link) [Thu 3rd Mar 2022]{.date} </li>
   <li>NCSU Drop/Revision deadline [Mon 7th Mar 2022]{.date} </li>
+  <li>SVA Washington Week - Information Happy Hour, 5PM ET and 5PM PT via Zoom [Register HERE](https://www.eventbrite.com/e/washington-week-tickets-268925642837?j=211306&sfmc_sub=43908150&l=187_HTML&u=6489956&mid=514003021&jb=1005) [Mon 7th Mar 2022]{.date} </li>
+  <li>SVA Washington Week - Congressional Hearing Watch Party, 10AM ET via Zoom [Register HERE](https://www.eventbrite.com/e/washington-week-tickets-268925642837?j=211306&sfmc_sub=43908150&l=187_HTML&u=6489956&mid=514003021&jb=1005) [Tue 8th Mar 2022]{.date} </li>
+  <li>Military and Veteran Services Taco Tuesday Luncheon, 12:30-2PM, Harris Field [Register HERE by 2PM 7 March](https://docs.google.com/forms/d/e/1FAIpQLSd280B8bPW0ejkuXg6aniB9F_MVqEjHpzhVGX0MH4k7Hx-elw/viewform) [Tue 8th Mar 2022]{.date} </li>
+  <li>SVA Washington Week - Congressional Policy Panel, 1PM ET via Zoom [Register HERE](https://www.eventbrite.com/e/washington-week-tickets-268925642837?j=211306&sfmc_sub=43908150&l=187_HTML&u=6489956&mid=514003021&jb=1005) [Wed 9th Mar 2022]{.date} </li>
   <li>Green Zone Training, 2-4PM, Virtual [Register HERE](http://app.bronto.com/t/l?ssid=36948&subscriber_id=aknwwlubwyefrlhibdcjferwzujcbem&delivery_id=bofgruredvrldrdgmbekqzhurupxbfe&td=_y2ZQF1oDW6502LmB73L1wDKF-GZ9YBrZAQ0Vv2t54B07BhSr1jEXZtt0JSAyUwn-PInKI73JMGaaBrCizYuECYcWJ5VSSZZDkX7z6OnmJgWinQEodvcOgW3VZC7uqg8wIXDCTgTf6uYGpi-5deYFPAJYa12cpiffJ2Xr_pP395EiMBmt8kxhCqSoYhXrb89UYa9D-IzfrforsBl7_r3py0utEXDvKx0JeQ96ljXLOuDN3zKGHUcBNQA) [Wed 9th Mar 2022]{.date} </li>
   <li>NCSU Schedule for 2022 Fall term published [Wed 9th Mar 2022]{.date} </li>
   <li>NCSU Spring Break; no classes [Wed-Sun 14th-18th Mar 2022]{.date} </li>

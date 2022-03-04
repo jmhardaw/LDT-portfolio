@@ -322,6 +322,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <li>
 
+[Mesothelioma Hope](https://www.mesotheliomahope.com/veterans/) -- Founded by a group of medical and legal advocates, Mesothelioma Hope has a goal to provide a comprehensive database for people diagnosed with mesothelioma. Today, Mesothelioma Hope works to assist those directly affected and help families, siblings, and other caregivers provide support.
+
+</li>
+
+<li>
+
 [RetireGuide® Medicare Guide for Veterans](https://www.retireguide.com/guides/medicare-for-veterans/) - Veterans can receive both Veteran Affairs (VA) health care benefits and Medicare when they become eligible. This guide assists veterans in enrolling in Medicare so they have more coverage options when seeking care from non-VA health care facilities.
 
 </li>
