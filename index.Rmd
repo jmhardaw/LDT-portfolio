@@ -168,12 +168,14 @@ img[src="images/banner.png"] {
 ::: news-item
 #### Upcoming Events
 <ul>
-  <li>SVA Washington Week - Congressional Policy Panel, 1PM ET via Zoom [Register HERE](https://www.eventbrite.com/e/washington-week-tickets-268925642837?j=211306&sfmc_sub=43908150&l=187_HTML&u=6489956&mid=514003021&jb=1005) [Wed 9th Mar 2022]{.date} </li>
-  <li>Green Zone Training, 2-4PM, Virtual [Register HERE](http://app.bronto.com/t/l?ssid=36948&subscriber_id=aknwwlubwyefrlhibdcjferwzujcbem&delivery_id=bofgruredvrldrdgmbekqzhurupxbfe&td=_y2ZQF1oDW6502LmB73L1wDKF-GZ9YBrZAQ0Vv2t54B07BhSr1jEXZtt0JSAyUwn-PInKI73JMGaaBrCizYuECYcWJ5VSSZZDkX7z6OnmJgWinQEodvcOgW3VZC7uqg8wIXDCTgTf6uYGpi-5deYFPAJYa12cpiffJ2Xr_pP395EiMBmt8kxhCqSoYhXrb89UYa9D-IzfrforsBl7_r3py0utEXDvKx0JeQ96ljXLOuDN3zKGHUcBNQA) [Wed 9th Mar 2022]{.date} </li>
-  <li>NCSU Schedule for 2022 Fall term published [Wed 9th Mar 2022]{.date} </li>
-  <li>NCSU Spring Break; no classes [Wed-Sun 14th-18th Mar 2022]{.date} </li>
   <li>Green Zone Training, 9-11AM, Talley Student Union Rm 3285 [Register HERE](http://app.bronto.com/t/l?ssid=36948&subscriber_id=aknwwlubwyefrlhibdcjferwzujcbem&delivery_id=bofgruredvrldrdgmbekqzhurupxbfe&td=_y2ZQF1oDW6502LmB73L1wDKF-GZ9YBrZAQ0Vv2t54B07BhSr1jEXZtt0JSAyUwn-PInKI73JMGaaBrCizYuECYcWJ5VSSZZDkX7z6OnmJgWinQEodvcOgW3VZC7uqg8wIXDCTgTf6uYGpi-5deYFPAJYa12cpiffJ2Xr_pP395EiMBmt8kxhCqSoYhXrb89UYa9D-IzfrforsBl7_r3py0utEXDvKx0JeQ96ljXLOuDN3zKGHUcBNQA) [Fri 25th Mar 2022]{.date} </li>
+  <li>NCSU Enrollment begins for Fall 2022 term [Mon 28th Mar 2022]{.date} </li>
   <li>"From Boots to Suits" Career Workshop Series - Mock Interviews, 12-2PM, via Zoom [Register HERE](https://docs.google.com/forms/d/e/1FAIpQLScHwmM-_FAKOUuQNTmStamguqCx5V90ppFGAYniDfQO4B0K0w/viewform?usp=sf_link) [Week of 28th Mar 2022]{.date} </li>
+  <li>NCSU Last day of classes [Mon 25th Apr 2022]{.date} </li>
+  <li>NCSU Reading Days [Tue-Wed 26-27th Apr 2022]{.date} </li>
+  <li>NCSU Final Exams [28th Apr-4th May 2022]{.date} </li>
+  <li>NCSU Spring Grades Due [Fri 6th May 2022]{.date} </li>
+  <li>NCSU Spring [Commencement](https://commencement.ncsu.edu/) Exercises [Sat 7th May 2022]{.date} </li>
 </ul>
 :::
 :::
