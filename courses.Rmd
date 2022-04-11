@@ -128,3 +128,30 @@ Machine Learning is concerned with computer programs that enable the behavior of
 -   [Final Project: Identifying Misinformation in the Media](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci587-artifacts/eci587-final-project.pdf)
 
 </aside>
+
+`r htmltools::br()`
+
+## [ECI 516: Design and Evaluation of Instructional Materials](http://catalog.ncsu.edu/search/?P=ECI%20516)
+
+::: float-left
+<img src="images/school-venn.png" width="200px"/>
+
+This course introduces students to the systems approach to instructional design and provides introductory information and application of skills and techniques necessary in the analysis, design, development, implementation, and evaluation of instruction (often referred to as the ADDIE framework). These skills are particularly useful for efficient and cost-effective development of solutions to novel instructional problems. The emphasis is on the development of materials-centered instruction (as opposed to teacher-mediated), that is, materials and resources that are developed to be the primary means by which instruction is delivered. Contrasting views and perspectives of instructional design will be considered, such as those based on very different learning philosophies (such as objectivism and constructivism). This online course delivered all learning materials, activities, and assignments, through [Moodle](https://delta.ncsu.edu/learning-technology/instructional-tools/moodle/), a secure and easy-to-use online learning platform. The course was completely asynchronous, meaning students had no real-time class meeting requirements. Learning activities included reading assignments, design projects, videos, discussion forums, and individual projects. This course consisted of 15 course weeks. Each unit began on Monday and ended the following Sunday. Assignments were due by midnight on Sunday.
+:::
+
+<aside>
+
+**Semester**:
+
+-   Spring 2022
+
+**Instructor**:
+
+-   [Dr. Caitlin McKeown](https://moodle-courses2122.wolfware.ncsu.edu/user/view.php?id=28503&course=6365)
+
+**Artifacts**:
+
+-   [System Analysis Paper](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci516-artifacts/ECI516-system-analysis-paper.pdf)
+-   [Needs Analysis Proposal](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci517-artifacts/ECI516-needs-analysis-proposal.pdf)
+
+</aside>
