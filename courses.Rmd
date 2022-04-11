@@ -152,6 +152,6 @@ This course introduces students to the systems approach to instructional design 
 **Artifacts**:
 
 -   [System Analysis Paper](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci516-artifacts/ECI516-system-analysis-paper.pdf)
--   [Needs Analysis Proposal](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci517-artifacts/ECI516-needs-analysis-proposal.pdf)
+-   [Needs Analysis Proposal](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci516-artifacts/ECI516-needs-analysis-proposal.pdf)
 
 </aside>
