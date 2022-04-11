@@ -168,14 +168,17 @@ img[src="images/banner.png"] {
 ::: news-item
 #### Upcoming Events
 <ul>
-  <li>Green Zone Training, 9-11AM, Talley Student Union Rm 3285 [Register HERE](http://app.bronto.com/t/l?ssid=36948&subscriber_id=aknwwlubwyefrlhibdcjferwzujcbem&delivery_id=bofgruredvrldrdgmbekqzhurupxbfe&td=_y2ZQF1oDW6502LmB73L1wDKF-GZ9YBrZAQ0Vv2t54B07BhSr1jEXZtt0JSAyUwn-PInKI73JMGaaBrCizYuECYcWJ5VSSZZDkX7z6OnmJgWinQEodvcOgW3VZC7uqg8wIXDCTgTf6uYGpi-5deYFPAJYa12cpiffJ2Xr_pP395EiMBmt8kxhCqSoYhXrb89UYa9D-IzfrforsBl7_r3py0utEXDvKx0JeQ96ljXLOuDN3zKGHUcBNQA) [Fri 25th Mar 2022]{.date} </li>
   <li>NCSU Enrollment begins for Fall 2022 term [Mon 28th Mar 2022]{.date} </li>
-  <li>"From Boots to Suits" Career Workshop Series - Mock Interviews, 12-2PM, via Zoom [Register HERE](https://docs.google.com/forms/d/e/1FAIpQLScHwmM-_FAKOUuQNTmStamguqCx5V90ppFGAYniDfQO4B0K0w/viewform?usp=sf_link) [Week of 28th Mar 2022]{.date} </li>
+  <li>Military & Veteran Services Taco Tuesday 12:30-2PM, Register [HERE](https://docs.google.com/forms/d/e/1FAIpQLSd280B8bPW0ejkuXg6aniB9F_MVqEjHpzhVGX0MH4k7Hx-elw/viewform) by 11 Apr @ 2PM [Tue 12th Apr 2022]{.date} </li>
+    <li>Military & Veteran Services Game Night 7:30PM @ Witherspoon Student Center Rm. 100, RSVP [HERE](https://docs.google.com/forms/d/e/1FAIpQLSd1sxUfuAjIh1prztD5771TJpTtc-43uz9HEwk1F6KD3VsxLQ/viewform) [Thu 21st Apr 2022]{.date} </li>
   <li>NCSU Last day of classes [Mon 25th Apr 2022]{.date} </li>
   <li>NCSU Reading Days [Tue-Wed 26-27th Apr 2022]{.date} </li>
   <li>NCSU Final Exams [28th Apr-4th May 2022]{.date} </li>
+  <li>Military & Veteran Services Year-End Celebration 6-8:30PM @ Lonnie Poole golf Course, RSVP [HERE](https://ncsu.us6.list-manage.com/track/click?u=59cd6a80e7&id=81e5f20121&e=4c2273589a) [Fri 29th Apr 2022]{.date} </li>
+    <li>Military & Veteran Services Family Fun Day 12-4PM (details coming soon) [Sat 30th Apr 2022]{.date} </li>
   <li>NCSU Spring Grades Due [Fri 6th May 2022]{.date} </li>
   <li>NCSU Spring [Commencement](https://commencement.ncsu.edu/) Exercises [Sat 7th May 2022]{.date} </li>
+  <li>2022 NC STRIVE Conference hosted by Fayetteville State University, details can be found [HERE](https://ncsu.us14.list-manage.com/track/click?u=379a0da7c16db70ace5ed62f8&id=bb406c2013&e=c1b450074d) [Wed 11th May 2022]{.date} </li>
 </ul>
 :::
 :::
