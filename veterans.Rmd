@@ -328,7 +328,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <li>
 
-[Mesothelioma Lawyer Center](https://www.mesotheliomalawyercenter.org/veterans/) Veterans Guide -- This guide delivers a history of use in the military as well as links to support resources for veterans. The Mesothelioma Lawyer Center works to put people diagnosed with mesothelioma and their families in touch with a highly experienced mesothelioma attorney in their area so they have access to their best possible opportunities for financial compensation.
+[Mesothelioma Lawyer Center](https://www.mesotheliomalawyercenter.org/veterans/) Veterans Guide -- This guide delivers a history o asbestos use in the military as well as links to support resources for veterans. The Mesothelioma Lawyer Center works to put people diagnosed with mesothelioma and their families in touch with a highly experienced mesothelioma attorney in their area so they have access to their best possible opportunities for financial compensation.
 
 </li>
 
