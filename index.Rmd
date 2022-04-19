@@ -168,8 +168,6 @@ img[src="images/banner.png"] {
 ::: news-item
 #### Upcoming Events
 <ul>
-  <li>NCSU Enrollment begins for Fall 2022 term [Mon 28th Mar 2022]{.date} </li>
-  <li>Military & Veteran Services Taco Tuesday 12:30-2PM, Register [HERE](https://docs.google.com/forms/d/e/1FAIpQLSd280B8bPW0ejkuXg6aniB9F_MVqEjHpzhVGX0MH4k7Hx-elw/viewform) by 11 Apr @ 2PM [Tue 12th Apr 2022]{.date} </li>
     <li>Military & Veteran Services Game Night 7:30PM @ Witherspoon Student Center Rm. 100, RSVP [HERE](https://docs.google.com/forms/d/e/1FAIpQLSd1sxUfuAjIh1prztD5771TJpTtc-43uz9HEwk1F6KD3VsxLQ/viewform) [Thu 21st Apr 2022]{.date} </li>
   <li>NCSU Last day of classes [Mon 25th Apr 2022]{.date} </li>
   <li>NCSU Reading Days [Tue-Wed 26-27th Apr 2022]{.date} </li>

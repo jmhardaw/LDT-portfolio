@@ -328,6 +328,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <li>
 
+[Mesothelioma Lawyer Center](https://www.mesotheliomalawyercenter.org/veterans/) Veterans Guide -- This guide delivers a history of use in the military as well as links to support resources for veterans. The Mesothelioma Lawyer Center works to put people diagnosed with mesothelioma and their families in touch with a highly experienced mesothelioma attorney in their area so they have access to their best possible opportunities for financial compensation.
+
+</li>
+
+<li>
+
 [RetireGuide® Medicare Guide for Veterans](https://www.retireguide.com/guides/medicare-for-veterans/) - Veterans can receive both Veteran Affairs (VA) health care benefits and Medicare when they become eligible. This guide assists veterans in enrolling in Medicare so they have more coverage options when seeking care from non-VA health care facilities.
 
 </li>
