@@ -141,7 +141,7 @@ This course introduces students to the systems approach to instructional design 
 
 <aside>
 
-**Semester**:
+**Semester Completed**:
 
 -   Spring 2022
 
@@ -153,6 +153,7 @@ This course introduces students to the systems approach to instructional design 
 
 -   [System Analysis Paper](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci516-artifacts/ECI516-system-analysis-paper.pdf)
 -   [Needs Analysis Proposal](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci516-artifacts/ECI516-needs-analysis-proposal.pdf)
+-   [ISD Model Proposal](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci516-artifacts/ECI516-isd-process-paper.pdf)
 
 </aside>
 
@@ -168,7 +169,7 @@ As the use of digital resources continues expand in education, an unprecedented 
 
 <aside>
 
-**Semester**:
+**Semester Completed**:
 
 -   Spring 2022
 
@@ -181,6 +182,7 @@ As the use of digital resources continues expand in education, an unprecedented 
 -   [Assessing Sentiment: #Python vs. #Rstats Tweets](https://rpubs.com/jmhardaw/python_vs_rstats)
 -   [Topic Modeling: Amazon Book Reviews](https://rpubs.com/jmhardaw/eci-588-unit3-book-reviews)
 -   [Word Net Analysis: Text Networks Predicting Wordle Success](https://rpubs.com/jmhardaw/eci588-unit-4-analysis)
+-   [Final Project: Short Text Topic Modeling](https://rpubs.com/jmhardaw/eci588-final-project)
 
 </aside>
 
@@ -196,7 +198,7 @@ Although social network analysis and its educational antecedents date back to th
 
 <aside>
 
-**Semester**:
+**Semester Completed**:
 
 -   Spring 2022
 
@@ -209,5 +211,6 @@ Although social network analysis and its educational antecedents date back to th
 -   [Visual & Numerical Description: School Administrator Centrality](https://rpubs.com/jmhardaw/eci589-unit2-analysis)
 -   [Network Substructures: Comparing Out-degree Communications by Role in MOOC-Eds](https://rpubs.com/jmhardaw/eci-589-unit3-analysis)
 -   [Predicting Network Phenomena: Collaboration Dependency on Trust & Gender for School Leaders](https://rpubs.com/jmhardaw/eci589-unit4-analysis)
+-   [Social Capital & Network Diffusion: Exposure and Influence on Student Attitudes Regarding STEM](https://rpubs.com/jmhardaw/eci589-unit5-walkthrough)
 
 </aside>
