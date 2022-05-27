@@ -166,14 +166,35 @@ img[src="images/banner.png"] {
 :::
 
 ::: news-item
-#### Upcoming Events
+### Upcoming Events
 <ul>
-  <li>NCSU Maymester Drop/Revision Deadline [Fri 27th May 2022]{.date} </li>
-  <li>Memorial Day (University closed; No classes) [Mon 30th May 2022]{.date} </li>
-  <li>NCSU Maymester Last Day of Classes [Wed 8th June 2022]{.date} </li>
-  <li>NCSU Maymester Grades due by 5:00 p.m. [Fri 10th June 2022]{.date}
+#### NCSU Maymester
+  <li>Drop/Revision Deadline [Fri 27th May 2022]{.date} </li>
+  <li>Last Day of Classes [Wed 8th June 2022]{.date} </li>
+  <li>Grades due by 5:00 p.m. [Fri 10th June 2022]{.date}
 </li>
+#### NCSU Summer Session I (5-week)
+  <li>Drop/Revision Deadline [Mon 6th June 2022]{.date} </li>
+  <li>Last day of classes [Wed 22nd June 2022]{.date} </li>
+  <li>Final Exams [Thu/Fri 23-24 June 2022]{.date} </li>
+  <li>Grades due by 5:00 p.m. [Mon 27th June 2022]{.date} </li>
+#### NCSU Summer Session I (10-week)
+  <li>Drop/Revision Deadline [Wed 22nd June 2022]{.date} </li>
+  <li>Last day of classes [Fri 29th July 2022]{.date} </li>
+  <li>Final Examinations [Mon/Tue 1-2 August 2022]{.date} </li>
+  <li>Grades due by 5:00 p.m. [Thu 4th August 2022]{.date} </li>
+#### NCSU Summer Session II
+  <li>First day of classes [Mon 27th June 2022]{.date} </li>
+  <li>Last day to add a course without permission [Tue 28th June 2022]{.date} </li>
+  <li>Census Date/Official Enrollment Date [Wed 29th June 2022]{.date} </li>
+  <li>Drop/Revision Deadline [Thu 14th July 2022]{.date} </li>
+  <li>Last day of classes [Fri 29th July 2022]{.date} </li>
+  <li>Final Exams [Mon/Tue 1-2 August 2022]{.date} </li>
+  <li>Grades due by 5:00 p.m. [Thu 4th August 2022]{.date} </li>
+#### Holidays/University Closures
+  <li>Memorial Day (University closed; No classes) [Mon 30th May 2022]{.date} </li>
   <li>Juneteenth observed (University closed; No classes) [Mon 20th June 2022]{.date} </li>
+  <li>Independence Day (University closed; No classes) [Mon 4th July 2022]{.date} </li>
 </ul>
 :::
 :::

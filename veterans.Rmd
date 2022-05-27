@@ -71,14 +71,26 @@ knitr::opts_chunk$set(echo = FALSE)
 +------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 :::
 
-## Digital Hygiene
+## Digital Literacy & Hygiene
 
 ::: l-page
 <ul>
 
 <li>
 
-[Ultimate Guide to Internet Safety](https://www.internetadvisor.com/internet-safety-guide) - [InternetAdvisor](https://www.internetadvisor.com/) has compiled this free guide on the latest potential threats on the internet. This resource details simple but effective strategies that can be implemented to protect you or anyone in your family while on the web.
+[Media Bias / Fact Check](https://mediabiasfactcheck.com/) -- The mission of MBFC is to educate the public on media bias and deceptive news practices. They are an independent website that rates the bias, factual accuracy, and credibility of media sources. Their purpose is to give people the resources and tools needed to understand the bias and credibility of the sources they consume.
+
+</li>
+
+<li>
+
+[The News Literacy Project](https://newslit.org/) -- a nonpartisan national education nonprofit, provides programs and resources for educators and the public to teach, learn and share the abilities needed to be smart, active consumers of news and information and equal and engaged participants in a democracy.
+
+</li>
+
+<li>
+
+[Ultimate Guide to Internet Safety](https://www.internetadvisor.com/internet-safety-guide) -- [InternetAdvisor](https://www.internetadvisor.com/) has compiled this free guide on the latest potential threats on the internet. This resource details simple but effective strategies that can be implemented to protect you or anyone in your family while on the web.
 
 </li>
 
