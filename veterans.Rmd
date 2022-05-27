@@ -71,6 +71,20 @@ knitr::opts_chunk$set(echo = FALSE)
 +------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 :::
 
+## Digital Hygiene
+
+::: l-page
+<ul>
+
+<li>
+
+[Ultimate Guide to Internet Safety](https://www.internetadvisor.com/internet-safety-guide) - [InternetAdvisor](https://www.internetadvisor.com/) has compiled this free guide on the latest potential threats on the internet. This resource details simple but effective strategies that can be implemented to protect you or anyone in your family while on the web.
+
+</li>
+
+</ul>
+:::
+
 ## Education
 
 ::: l-page
