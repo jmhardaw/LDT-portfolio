@@ -90,7 +90,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <li>
 
-[Ultimate Guide to Internet Safety](https://www.internetadvisor.com/internet-safety-guide) -- [InternetAdvisor](https://www.internetadvisor.com/) has compiled this free guide on the latest potential threats on the internet. This resource details simple but effective strategies that can be implemented to protect you or anyone in your family while on the web.
+[Ultimate Guide to Internet Safety](https://www.internetadvisor.com/internet-safety-guide) -- InternetAdvisor has compiled this free guide on the latest potential threats on the internet. This resource details simple but effective strategies that can be implemented to protect you or anyone in your family while on the web.
 
 </li>
 
@@ -399,6 +399,12 @@ knitr::opts_chunk$set(echo = FALSE)
 <li>
 
 [Homeless Veteran Stand Downs](https://www.va.gov/homeless/events.asp) -- Stand Downs are typically one- to three-day events providing supplies and services such as food, shelter, clothing, health screenings and VA Social Security benefits counseling to homeless veterans. Veterans can also receive referrals to other assistance such as health care, housing solutions, employment, substance use treatment and mental health counseling. Stand Downs are collaborative events, coordinated between local VA Medical Centers, other government agencies and community-based homeless service providers.
+
+</li>
+
+<li>
+
+[MyMove](https://www.mymove.com/moving/veteran-owned-moving-companies-to-use-for-your-next-move/) -- Moving is a major milestone for many people and MyMove provides options for those military or veterans that need moving and housing assistance. Their team created a guide highlighting the top ten veteran-owned moving companies along with financial assistance options for those that are moving.
 
 </li>
 
