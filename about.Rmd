@@ -69,7 +69,7 @@ California born, North Carolina raised, and Army trained. I'm returning to my ro
 **Research interests include:**
 <ul>
   <li>Combating mis/disinformation's impact on learning</li>
-  <li>Using artificial intelligence to personalize learning</li>
+  <li>Using machine learning models to personalize learning</li>
   <li>Neuroscience in the age of ubiquitous information</li>
 </ul>
 <center>
