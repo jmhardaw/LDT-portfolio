@@ -169,11 +169,9 @@ img[src="images/banner.png"] {
 ### Upcoming Events
 <ul>
 #### NCSU Summer Session I (5-week)
-  <li>Last day of classes [Wed 22nd June 2022]{.date} </li>
   <li>Final Exams [Thu/Fri 23-24 June 2022]{.date} </li>
   <li>Grades due by 5:00 p.m. [Mon 27th June 2022]{.date} </li>
 #### NCSU Summer Session I (10-week)
-  <li>Drop/Revision Deadline [Wed 22nd June 2022]{.date} </li>
   <li>Last day of classes [Fri 29th July 2022]{.date} </li>
   <li>Final Examinations [Mon/Tue 1-2 August 2022]{.date} </li>
   <li>Grades due by 5:00 p.m. [Thu 4th August 2022]{.date} </li>
@@ -186,7 +184,6 @@ img[src="images/banner.png"] {
   <li>Final Exams [Mon/Tue 1-2 August 2022]{.date} </li>
   <li>Grades due by 5:00 p.m. [Thu 4th August 2022]{.date} </li>
 #### Holidays/University Closures
-  <li>Juneteenth observed (University closed; No classes) [Mon 20th June 2022]{.date} </li>
   <li>Independence Day (University closed; No classes) [Mon 4th July 2022]{.date} </li>
 </ul>
 :::
