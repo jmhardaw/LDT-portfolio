@@ -324,6 +324,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <li>
 
+[Addiction Guide](https://www.addictionguide.com/addiction/veterans/) -- Addiction Guide is the only addiction and mental health website founded by a board-certified addiction specialist, a long-recovered addict, and spouses of addicts. Their veteran resources are designed to provide reliable information about addiction and recovery to guide veterans and their loved ones to a happier, healthier life. ***They do not accept paid advertising, paid referrals,orbiased information**.*
+
+</li>
+
+<li>
+
 [AddictionResource](https://addictionresource.com/addiction/veterans-and-substance-abuse/) -- Addiction Resource was founded in 2014 to provide a community for those recovering from addiction and to help patients find the highest quality care for a successful recovery. Their goal is to provide resources to help patients and their loved ones so that they may stay on the road to recovery, and can successfully overcome addiction for life.
 
 </li>
