@@ -324,7 +324,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <li>
 
-[Addiction Guide](https://www.addictionguide.com/addiction/veterans/) -- Addiction Guide is the only addiction and mental health website founded by a board-certified addiction specialist, a long-recovered addict, and spouses of addicts. Their veteran resources are designed to provide reliable information about addiction and recovery to guide veterans and their loved ones to a happier, healthier life. ***They do not accept paid advertising, paid referrals,orbiased information**.*
+[Addiction Guide](https://www.addictionguide.com/addiction/veterans/) -- Addiction Guide is the only addiction and mental health website founded by a board-certified addiction specialist, a long-recovered addict, and spouses of addicts. Their veteran resources are designed to provide reliable information about addiction and recovery to guide veterans and their loved ones to a happier, healthier life. They **do not** accept paid advertising, paid referrals, or biased information.
 
 </li>
 
