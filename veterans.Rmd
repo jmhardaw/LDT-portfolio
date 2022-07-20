@@ -342,6 +342,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <li>
 
+[Lejeune Justice](https://justiceforlejeune.org/) -- With the recent passage of the Camp Lejeune Justice Act, this non-profit coordinates with other veteran support organizations to support members of the military, their families, and civilians in seeking compensation due to potential toxic exposure while living or working on the base from 1953 to 1987.
+
+</li>
+
+<li>
+
 [MemoryCare](https://www.memorycare.com/veterans/) -- MemoryCare.com's mission is to support older adults living with memory impairment and their families by using the latest, data-driven research and collaborating with memory care experts to provide resources that are accessible to all who are in need. Many veterans suffering from Alzheimer's are unaware of the available programs that can help maintain or improve their quality of life. This site explores those resources.
 
 </li>

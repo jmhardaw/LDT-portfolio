@@ -173,7 +173,6 @@ img[src="images/banner.png"] {
   <li>Final Examinations [Mon/Tue 1-2 August 2022]{.date} </li>
   <li>Grades due by 5:00 p.m. [Thu 4th August 2022]{.date} </li>
 #### NCSU Summer Session II
-  <li>Drop/Revision Deadline [Thu 14th July 2022]{.date} </li>
   <li>Last day of classes [Fri 29th July 2022]{.date} </li>
   <li>Final Exams [Mon/Tue 1-2 August 2022]{.date} </li>
   <li>Grades due by 5:00 p.m. [Thu 4th August 2022]{.date} </li>
