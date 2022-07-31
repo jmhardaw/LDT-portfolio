@@ -77,7 +77,7 @@ California born, North Carolina raised, and Army trained. I'm returning to my ro
 icon_link(
     icon = "far fa-file-pdf",
     text = "Resume",
-    url  = "https://github.com/jmhardaw/LDT-portfolio/blob/main/content/Hardaway-resume-20211115.pdf"
+    url  = "https://github.com/jmhardaw/LDT-portfolio/blob/main/content/Hardaway-resume-20220731.pdf"
 )
 icon_link(
     icon = "far fa-file-pdf",
