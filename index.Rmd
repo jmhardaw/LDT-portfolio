@@ -168,15 +168,19 @@ img[src="images/banner.png"] {
 ::: news-item
 ### Upcoming Events
 <ul>
-#### NCSU Summer Session I (10-week)
-  <li>Last day of classes [Fri 29th July 2022]{.date} </li>
-  <li>Final Examinations [Mon/Tue 1-2 August 2022]{.date} </li>
-  <li>Grades due by 5:00 p.m. [Thu 4th August 2022]{.date} </li>
-#### NCSU Summer Session II
-  <li>Last day of classes [Fri 29th July 2022]{.date} </li>
-  <li>Final Exams [Mon/Tue 1-2 August 2022]{.date} </li>
-  <li>Grades due by 5:00 p.m. [Thu 4th August 2022]{.date} </li>
-#### Holidays/University Closures
+  <li>First day of classes [Mon 22nd August 2022]{.date} </li>
+  <li>NC State Alumni Veteran's Network Social, 6-8PM @ Clouds Brewing [Thu 25th August 2022]{.date} </li>
+  <li>Last day to add a course without permission [Fri 26th August 2022]{.date} </li>
+  <li>Census Date/Official Enrollment Date [Fri 2nd September 2022]{.date} </li>
+  <li>Labor Day (University closed; No classes) [Mon 5th September 2022]{.date} </li>
+  <li>Fall Break [Mon/Tue 10-11 October 2022]{.date} </li>
+  <li>Drop/Revision Deadline [Wed 19th October 2022]{.date} </li>
+  <li>Thanksgiving Holiday (No classes; University closed Thursday & Friday) [Wed-Fri 23-25 November 2022]{.date} </li>
+  <li>Last day of classes [Mon 5th December 2022]{.date} </li>
+  <li>Reading Days [Tue/Wed 6-7 December 2022]{.date} </li>
+  <li>Final Examinations [Thu-Wed 8-14 December 2022]{.date} </li>
+  <li>Fall grades due by 5:00 p.m. [Fri 16th December 2022]{.date} </li>
+  <li>Fall Commencement Exercises [Sat 17th December 2022]{.date} </li>
 </ul>
 :::
 :::
