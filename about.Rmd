@@ -98,6 +98,7 @@ icon_link(
 ## Experience
 
 <ul>
+  <li>[**NC State Laboratory for Analytic Sciences**](https://ncsu-las.org/2022-scads/)**, North Carolina** \| SCADS Student Intern \| June - August 2022</li>
   <li>[**US Army Futures Command**](https://www.armyfuturescommand.com/fcc/)**, Virginia** \| Information Portfolio Modernization Lead \| July 2019 - June 2021</li>
   <li>[**US Army Training and Doctrine Command**](https://www.army.mil/USAICoE)**, Arizona** \| Instructor & Curriculum Designer \| August 2003 - May 2005</li>
   <li>[**US Army**](https://www.goarmy.com/careers-and-jobs/career-match/signal-intelligence/languages-code/35a-military-intelliigence-officer.html)**, Various Global Locales** \| Intelligence Officer \| September 1994 - September 2021</li>

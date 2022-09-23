@@ -168,11 +168,6 @@ img[src="images/banner.png"] {
 ::: news-item
 ### Upcoming Events
 <ul>
-  <li>First day of classes [Mon 22nd August 2022]{.date} </li>
-  <li>NC State Alumni Veteran's Network Social, 6-8PM @ Clouds Brewing [Thu 25th August 2022]{.date} </li>
-  <li>Last day to add a course without permission [Fri 26th August 2022]{.date} </li>
-  <li>Census Date/Official Enrollment Date [Fri 2nd September 2022]{.date} </li>
-  <li>Labor Day (University closed; No classes) [Mon 5th September 2022]{.date} </li>
   <li>Fall Break [Mon/Tue 10-11 October 2022]{.date} </li>
   <li>Drop/Revision Deadline [Wed 19th October 2022]{.date} </li>
   <li>Thanksgiving Holiday (No classes; University closed Thursday & Friday) [Wed-Fri 23-25 November 2022]{.date} </li>
