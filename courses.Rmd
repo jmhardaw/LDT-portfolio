@@ -244,3 +244,60 @@ This course takes an anthropological-historical focus on applying media and tech
 </aside>
 
 `r htmltools::br()`
+
+## [ECI 518: Digital Learning Program and Staff Development](http://catalog.ncsu.edu/search/?P=ECI%20518)
+
+::: float-left
+<img src="images/ncdlp.png" width="200px"/>
+
+This course comprises the study and application of principles related to digital learning program planning, facilities and resource management, and staff development in K-12 settings. It is designed to help prepare future technology facilitators and directors to design, develop, and lead school and/or district technology programs across K-12 levels. Some lessons may translate to higher education or industry technology planning, but the majority of readings and resources in this course are geared toward K-12.
+:::
+
+<aside>
+
+**Semester**:
+
+-   Fall 2022
+
+**Instructor**:
+
+-   [Dr. Mark Samberg](https://www.linkedin.com/in/marksamberg/)
+
+**Artifacts**:
+
+-   [Digital Age Instructional Framework](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci515-artifacts/ECI518_Instructional_Framework.pdf)
+-   [NCDLI Rubric Review](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci515-artifacts/ECI518_NCDLI_Rubric_Review.pdf)
+-   [High School Tech Helpdesk Curriculum](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci515-artifacts/ECI518_Helpdesk_Curriculum.pdf)
+-   [3D Printer Makerspace Budget](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci515-artifacts/ECI518_3dPrinter_Trunk_Budget.pdf)
+
+</aside>
+
+`r htmltools::br()`
+
+## [ECI 652: Field-Based Applications of Learning Design and Technology](http://catalog.ncsu.edu/search/?P=ECI%20652)
+
+::: float-left
+<img src="images/scads22.png" width="300px"/>
+
+This course employs supervised opportunities to design, test, and revise learning design and technology solutions in authentic, field-based settings. This online course delivers all learning materials, activities, and assignments, through Moodle, a secure and easy-to-use online learning platform. The course is completely asynchronous, which means that students have no real-time class meeting requirements. Learning activities include reading assignments, program portfolio, internship or an individual design project.  
+
+:::
+
+<aside>
+
+**Semester**:
+
+-   Fall 2022
+
+**Instructor**:
+
+-   [Dr. Julia McKeown](https://ced.ncsu.edu/people/jomckeow/)
+
+**Artifacts**:
+
+-   [SCADS Internship Summary](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci515-artifacts/ECI652_Internship_Summary.pdf)
+-   [LD&T Digital Portfolio](https://www.nerdygi.com/courses.html)
+
+</aside>
+
+`r htmltools::br()`
