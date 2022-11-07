@@ -168,14 +168,13 @@ img[src="images/banner.png"] {
 ::: news-item
 ### Upcoming Events
 <ul>
-  <li>Fall Break [Mon/Tue 10-11 October 2022]{.date} </li>
-  <li>Drop/Revision Deadline [Wed 19th October 2022]{.date} </li>
   <li>Thanksgiving Holiday (No classes; University closed Thursday & Friday) [Wed-Fri 23-25 November 2022]{.date} </li>
   <li>Last day of classes [Mon 5th December 2022]{.date} </li>
   <li>Reading Days [Tue/Wed 6-7 December 2022]{.date} </li>
   <li>Final Examinations [Thu-Wed 8-14 December 2022]{.date} </li>
   <li>Fall grades due by 5:00 p.m. [Fri 16th December 2022]{.date} </li>
-  <li>Fall Commencement Exercises [Sat 17th December 2022]{.date} </li>
+  <li>Fall College & Department (various) Commencement Ceremonies [Fri 16th December 2022]{.date} </li>
+  <li>Fall NCSU Commencement Exercises [Sat 17th December 2022]{.date} </li>
 </ul>
 :::
 :::
