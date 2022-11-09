@@ -1,6 +1,6 @@
 ---
 title: "LD&T Coursework"
-description: I am a second year graduate student in the [Learning Design & Technology](https://ced.ncsu.edu/graduate/programs/masters/learning-design-and-technology/) program within the North Carolina State University [College of Education](https://ced.ncsu.edu/). Additionally, I have completed a [Certificate of Learning Analytics](https://ced.ncsu.edu/graduate/programs/certificate/learning-analytics/). Below is a summary of the coursework I've completed towards my M.Ed.
+description: I am a second year graduate student in the [Learning Design & Technology](https://ced.ncsu.edu/graduate/programs/masters/learning-design-and-technology/) program within the North Carolina State University [College of Education](https://ced.ncsu.edu/). In Spring, 2022, I completed a [Certificate of Learning Analytics(LA)](https://ced.ncsu.edu/graduate/programs/certificate/learning-analytics/) and I’m due to graduate with an M.Ed. in December, 2022. <p>* Denotes courses required for Graduate Certificate in Learning Analytics.</p>
 output:
   distill::distill_article:
     toc: true
@@ -9,13 +9,35 @@ output:
       - css/small-spacing.css
 twitter:
   creator: "@James_Hardaway"
-base_url: https://www.nerdygi.com
-preview: images/IMG-1633-sm.jpg
+base_url: "https://www.nerdygi.com"
+preview: "images/hardaway-circle.png"
 ---
 
 ```{r setup, echo=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+## Executive Overview
+
+<p>The portfolio below captures the coursework I've completed toward developing skills in a systems approach to instructional design. This approach, weighted heavily in data-informed decision-making, places emphasis on empowering students as they drive the pace and scope of their learning journey. Today's digital learning networks are individualized and networked, while also existing both locally and globally. This educational environment requires learners to be as comfortable in the digital world as they are in the physical classroom. The course and artifact summaries below depict how I used these realities as a blueprint to develop knowledge and skills in guiding K-12, post-secondary, and even industry education programs to realize positive individual and organizational growth through effective technology integration.
+
+</p>
+
+<p>While I frontloaded the Learning Analytics certificate courses into my first fall and spring semesters, I attempted to spread the design and leadership courses across multiple semesters to better diversify my personal learning network throughout the program. This allowed me to take insights from design and leadership classes and apply them to my core work on analytics and inquiry. As a result, my foundation in data science was better informed by the challenges faced in developing and delivering quality content for the modern digital classroom. To this end, my inquiry projects focused on exploring the challenges of critical thinking, digital and media literacy, evaluation metrics, and communication across learning networks. The key insights I'm taking from how I organized my learning is that today's education space is overwhelmingly digital, it's social, and it's evolving.
+
+</p>
+
+<p>The digital nature of education is producing a ton of data. While this can be overwhelming if an organization is unprepared, the LA program instilled a data science mindset to solve these types of challenges. From identifying and collecting the right data to understanding its potential significance, and finally, to developing models to solve increasingly complex problems, my experience through the core coursework and the summer internship provided multiple repetitions to engage these methods as well as develop relationships with more experienced practitioners.
+
+</p>
+
+<p>Participating in this program post-pandemic allowed me to benefit from many of my peers' experiences in hybrid learning environments. From equipment and infrastructure shortfalls to learner anxieties about being on camera, I got to hear firsthand how some districts/programs rose to the occasion while others floundered. In both cases, not all students had the same experiences as their peers next to them in class or online. The digital divide is real and not just happening in rural communities. Last spring, I participated in the datathon hosted by NCSU and the Governor's office. That experience opened my eyes to the lack of digital reach and equity across our state. Part of that challenge is recognizing how technology, connectivity infrastructure, and socioeconomics all combine to impact individual students very differently. District and state educational leaders must develop a strategic vision of how to apply resources to ensure each student has the same opportunities regardless of location or personal situation.
+
+</p>
+
+<p>The portfolio is depicted chronologically as I took the courses beginning in the Summer of 2021. Each entry contains a brief description of the course purpose, expected outcomes, and requirements. Also included are key artifacts contributing to my learning goals as well as some examples of additional classwork.
+
+</p>
 
 ## [ECI 511: Introduction to Learning Design and Technology](http://catalog.ncsu.edu/search/?P=ECI%20511)
 
@@ -23,6 +45,18 @@ knitr::opts_chunk$set(echo = FALSE)
 <img src="images/LDTVenn.jpg" width="200px"/>
 
 This course provided an overview of the Learning, Design, and Technology master's program at North Carolina State University and to the field of instructional design and educational technology, with an investigation of relevant careers, important theories and models guiding practice, and noteworthy research findings by area. This online course delivered all learning materials. activities, and assignments, through [Moodle](https://delta.ncsu.edu/learning-technology/instructional-tools/moodle/), a secure and easy-to-use online learning platform. The course was completely asynchronous, meaning students had no real-time class meeting requirements. Learning activities included reading assignments, design projects, videos, discussion forums, and individual projects. This course consisted of 5 course weeks. Each unit began on Monday and ended the following Sunday. Assignments were due by midnight on Sunday. Students were assessed through asynchronous discussions, online participation, and homework assignments. Teaching will involve interactive lectures with plenty of time spent live coding and working on practice problems in class. This course assumes no prior programming experience and is an ideal preparation for higher level courses in data analytics.
+
+<p>
+
+**Key Artifact**:
+
+[Annotated Bibliography - Digital Literacy](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci511-artifacts/ECI511-annotated-bibliography.pdf)
+
+[<img src="images/eci511_artifact1.png" width="100px"/>](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci511-artifacts/ECI511-annotated-bibliography.pdf)
+
+Context conditions scope role
+
+</p>
 :::
 
 <aside>
@@ -35,12 +69,11 @@ This course provided an overview of the Learning, Design, and Technology master'
 
 -   [Dr. Julia McKeown](https://ced.ncsu.edu/people/jomckeow/)
 
-**Artifacts**:
+**Coursework Examples**:
 
 -   [Zoom Training Video](https://www.youtube.com/watch?v=YDljgFQVcOk)
 -   [Zoom Training Video Script](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci511-artifacts/zoom-class-script.docx)
 -   [Project - State Park Employee Training Program](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci511-artifacts/ECI511-design-project.pdf)
--   [Annotated Bibliography - Digital Literacy](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci511-artifacts/ECI511-annotated-bibliography.pdf)
 
 </aside>
 
@@ -64,7 +97,7 @@ This course provided students with the distinctions and concepts necessary to ap
 
 -   [Dr. Julia McKeown](https://ced.ncsu.edu/people/jomckeow/)
 
-**Artifacts**:
+**Coursework Examples**:
 
 -   [Initial Learning Theory Paper](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci517-artifacts/ECI517-initial-theory-paper.pdf)
 -   [Reflexive Essay - Theories of Learning & Instruction](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci517-artifacts/ECI517-reflexive-paper.pdf)
@@ -75,7 +108,7 @@ This course provided students with the distinctions and concepts necessary to ap
 
 `r htmltools::br()`
 
-## [ECI 586: Introduction to Learning Analytics](http://catalog.ncsu.edu/search/?P=ECI%20586)
+## [ECI 586: Introduction to Learning Analytics\*](http://catalog.ncsu.edu/search/?P=ECI%20586)
 
 ::: float-left
 <img src="images/stickers.jpg" width="200px"/>
@@ -93,7 +126,7 @@ As the use of digital resources continues expand in education, an unprecedented 
 
 -   [Dr. Shaun Kellogg](https://ced.ncsu.edu/people/sbkellog/)
 
-**Artifacts**:
+**Coursework Examples**:
 
 -   [Case Study: Predicting Student Achievement](https://rpubs.com/jmhardaw/StudentAchieve)
 -   [Case Study: Identifying At-Risk Students](https://rpubs.com/jmhardaw/At-risk-students)
@@ -105,7 +138,7 @@ As the use of digital resources continues expand in education, an unprecedented 
 
 `r htmltools::br()`
 
-## [ECI 587: Machine Learning in Education](http://catalog.ncsu.edu/search/?P=ECI%20587)
+## [ECI 587: Machine Learning in Education\*](http://catalog.ncsu.edu/search/?P=ECI%20587)
 
 ::: float-left
 [![](images/Machine-Learning.jpg "https://wordstream-files-prod.s3.amazonaws.com/s3fs-public/machine-learning.png"){width="200"}](https://wordstream-files-prod.s3.amazonaws.com/s3fs-public/machine-learning.png)
@@ -123,7 +156,7 @@ Machine Learning is concerned with computer programs that enable the behavior of
 
 -   [Dr. Shiyan Jiang](https://ced.ncsu.edu/people/sjiang24/)
 
-**Artifacts**:
+**Coursework Examples**:
 
 -   [Final Project: Identifying Misinformation in the Media](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci587-artifacts/eci587-final-project.pdf)
 
@@ -149,7 +182,7 @@ This course introduces students to the systems approach to instructional design 
 
 -   [Dr. Caitlin McKeown](https://moodle-courses2122.wolfware.ncsu.edu/user/view.php?id=28503&course=6365)
 
-**Artifacts**:
+**Coursework Examples**:
 
 -   [System Analysis Paper](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci516-artifacts/ECI516-system-analysis-paper.pdf)
 -   [Needs Analysis Proposal](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci516-artifacts/ECI516-needs-analysis-proposal.pdf)
@@ -159,7 +192,7 @@ This course introduces students to the systems approach to instructional design 
 
 `r htmltools::br()`
 
-## [ECI 588: Text Mining in Education](http://catalog.ncsu.edu/search/?P=ECI%20588)
+## [ECI 588: Text Mining in Education\*](http://catalog.ncsu.edu/search/?P=ECI%20588)
 
 ::: float-left
 <img src="images/bigrams.png" width="200px"/>
@@ -177,7 +210,7 @@ As the use of digital resources continues expand in education, an unprecedented 
 
 -   [Dr. Shiyan Jiang](https://ced.ncsu.edu/people/sjiang24/)
 
-**Artifacts**:
+**Coursework Examples**:
 
 -   [Assessing Sentiment: #Python vs. #Rstats Tweets](https://rpubs.com/jmhardaw/python_vs_rstats)
 -   [Topic Modeling: Amazon Book Reviews](https://rpubs.com/jmhardaw/eci-588-unit3-book-reviews)
@@ -188,7 +221,7 @@ As the use of digital resources continues expand in education, an unprecedented 
 
 `r htmltools::br()`
 
-## [ECI 589: Analyzing Learning Networks](http://catalog.ncsu.edu/search/?P=ECI%20589)
+## [ECI 589: Analyzing Learning Networks\*](http://catalog.ncsu.edu/search/?P=ECI%20589)
 
 ::: float-left
 <img src="images/school-network.png" width="200px"/>
@@ -206,7 +239,7 @@ Although social network analysis and its educational antecedents date back to th
 
 -   [Dr. Shaun Kellogg](https://ced.ncsu.edu/people/sbkellog/)
 
-**Artifacts**:
+**Coursework Examples**:
 
 -   [Visual & Numerical Description: School Administrator Centrality](https://rpubs.com/jmhardaw/eci589-unit2-analysis)
 -   [Network Substructures: Comparing Out-degree Communications by Role in MOOC-Eds](https://rpubs.com/jmhardaw/eci-589-unit3-analysis)
@@ -235,7 +268,7 @@ This course takes an anthropological-historical focus on applying media and tech
 
 -   [Dr. Florence Martin](https://ced.ncsu.edu/people/fmartin3/)
 
-**Artifacts**:
+**Coursework Examples**:
 
 -   [Cultural Curation: Media Anaylysis on Climate Change](https://padlet.com/jmhardaw/ua1ccxxbu71uzb7b)
 -   [Personal Identity Text: Luck and Timing](https://arcg.is/1LDbz1)
@@ -263,7 +296,7 @@ This course comprises the study and application of principles related to digital
 
 -   [Dr. Mark Samberg](https://www.linkedin.com/in/marksamberg/)
 
-**Artifacts**:
+**Coursework Examples**:
 
 -   [Digital Age Instructional Framework](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci515-artifacts/ECI518_Instructional_Framework.pdf)
 -   [NCDLI Rubric Review](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci515-artifacts/ECI518_NCDLI_Rubric_Review.pdf)
@@ -279,8 +312,7 @@ This course comprises the study and application of principles related to digital
 ::: float-left
 <img src="images/scads22.png" width="300px"/>
 
-This course employs supervised opportunities to design, test, and revise learning design and technology solutions in authentic, field-based settings. This online course delivers all learning materials, activities, and assignments, through Moodle, a secure and easy-to-use online learning platform. The course is completely asynchronous, which means that students have no real-time class meeting requirements. Learning activities include reading assignments, program portfolio, internship or an individual design project.  
-
+This course employs supervised opportunities to design, test, and revise learning design and technology solutions in authentic, field-based settings. This online course delivers all learning materials, activities, and assignments, through Moodle, a secure and easy-to-use online learning platform. The course is completely asynchronous, which means that students have no real-time class meeting requirements. Learning activities include reading assignments, program portfolio, internship or an individual design project.
 :::
 
 <aside>
@@ -293,7 +325,7 @@ This course employs supervised opportunities to design, test, and revise learnin
 
 -   [Dr. Julia McKeown](https://ced.ncsu.edu/people/jomckeow/)
 
-**Artifacts**:
+**Coursework Examples**:
 
 -   [SCADS Internship Summary](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci515-artifacts/ECI652_Internship_Summary.pdf)
 -   [LD&T Digital Portfolio](https://www.nerdygi.com/courses.html)
