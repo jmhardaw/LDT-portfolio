@@ -70,7 +70,7 @@ learning design. The annotated bibliography helped develop my inquiry and resear
 
 -   [Dr. Julia McKeown](https://ced.ncsu.edu/people/jomckeow/)
 
-**Coursework Examples**:
+**Additional Coursework**:
 
 -   [Zoom Training Video](https://www.youtube.com/watch?v=YDljgFQVcOk)
 -   [Project - State Park Employee Training Program](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci511-artifacts/ECI511-design-project.pdf)
@@ -84,7 +84,24 @@ learning design. The annotated bibliography helped develop my inquiry and resear
 ::: float-left
 <img src="images/theory.jpg" width="200px"/>
 
-This course provided students with the distinctions and concepts necessary to apply various theories of learning, cognition, and instruction to traditional and distance learning settings. These theories are tools that educators, administrators, instructors, counselors, parents, and many others can use to make their endeavors more productive and useful. This course introduced and illustrated the proper use of these tools in providing insights into defining and solving problems. The emphasis was on the use of these theories to solve realistic and relevant problems drawn from my personal experience or from cases we studied. This online course delivered all learning materials, activities, and assignments, through [Moodle](https://delta.ncsu.edu/learning-technology/instructional-tools/moodle/), a secure and easy-to-use online learning platform. The course was completely asynchronous, meaning students had no real-time class meeting requirements. Learning activities included reading assignments, design projects, videos, discussion forums, and individual projects. This course consisted of 15 course weeks. Each unit began on Monday and ended the following Sunday. Assignments were due by midnight on Sunday.
+This course provided us with the distinctions and concepts necessary to apply various theories of learning, cognition, and instruction to traditional and distance learning settings. This course introduced and illustrated the proper use of these tools in providing insights into defining and solving problems. The emphasis was on the use of these theories to solve realistic and relevant problems drawn from my personal experience or from cases we studied. Learning activities included reading assignments, design projects, videos, discussion forums, and individual projects.
+
+::: float-left
+<p>
+
+**Key Artifact**:
+
+[Final Theory Paper - Agency Drives Growth](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci517-artifacts/ECI517-final-theory-paper.pdf)
+
+[![](images/eci517_artifact1.png){width="200"}](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci517-artifacts/ECI517-final-theory-paper.pdf)
+
+This theory paper completed my 15-week journey to better understand which instructional design theories I would pull from to develop my personal learning model. Early in the semester, I wrote my initial thoughts on learning, so this was a follow-up based on almost 4 months of instructional design theory from the past 100 years or so. This course presented opportunities to explore my own
+thoughts, feelings, and biases on how teachers affect the relationship between their students and the institution of education. Beyond teaching students how to understand the world around them, educators shape individual trajectories by reinforcing scholarship as a lifelong adventure most often occurring outside
+the traditional classroom. This paper reflects how my views on instruction shifted from focusing on learning capability to a more systems perspective of how learners grow as their environment changes. I'm firmly planted in the constructivist camp, which was seen through the learning network diagram I developed as well
+as the pillars of my learning theory: self-aware, ownership (agency), complexity, multi-mode, and collaboration.
+
+</p>
+:::
 :::
 
 <aside>
@@ -97,12 +114,11 @@ This course provided students with the distinctions and concepts necessary to ap
 
 -   [Dr. Julia McKeown](https://ced.ncsu.edu/people/jomckeow/)
 
-**Coursework Examples**:
+**Additional Coursework**:
 
 -   [Initial Learning Theory Paper](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci517-artifacts/ECI517-initial-theory-paper.pdf)
 -   [Reflexive Essay - Theories of Learning & Instruction](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci517-artifacts/ECI517-reflexive-paper.pdf)
 -   [Application Essay - An Intro to R](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci517-artifacts/ECI517-application-paper.pdf)
--   [Final Theory Paper - Agency Drives Growth](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci517-artifacts/ECI517-final-theory-paper.pdf)
 
 </aside>
 
