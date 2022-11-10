@@ -19,23 +19,33 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Executive Overview
 
-<p>The portfolio below captures the coursework I've completed toward developing skills in a systems approach to instructional design. This approach, weighted heavily in data-informed decision-making, places emphasis on empowering students as they drive the pace and scope of their learning journey. Today's digital learning networks are individualized and networked, while also existing both locally and globally. This educational environment requires learners to be as comfortable in the digital world as they are in the physical classroom. The course and artifact summaries below depict how I used these realities as a blueprint to develop knowledge and skills in guiding K-12, post-secondary, and even industry education programs to realize positive individual and organizational growth through effective technology integration.
+<p>
+
+The portfolio below captures the coursework I've completed toward developing skills in a systems approach to instructional design. This approach, weighted heavily in data-informed decision-making, places emphasis on empowering students as they drive the pace and scope of their learning journey. Today's digital learning networks are individualized and networked, while also existing both locally and globally. This educational environment requires learners to be as comfortable in the digital world as they are in the physical classroom. The course and artifact summaries below depict how I used these realities as a blueprint to develop knowledge and skills in guiding K-12, post-secondary, and even industry education programs to realize positive individual and organizational growth through effective technology integration.
 
 </p>
 
-<p>While I frontloaded the Learning Analytics certificate courses into my first fall and spring semesters, I attempted to spread the design and leadership courses across multiple semesters to better diversify my personal learning network throughout the program. This allowed me to take insights from design and leadership classes and apply them to my core work on analytics and inquiry. As a result, my foundation in data science was better informed by the challenges faced in developing and delivering quality content for the modern digital classroom. To this end, my inquiry projects focused on exploring the challenges of critical thinking, digital and media literacy, evaluation metrics, and communication across learning networks. The key insights I'm taking from how I organized my learning is that today's education space is overwhelmingly digital, it's social, and it's evolving.
+<p>
+
+While I frontloaded the Learning Analytics certificate courses into my first fall and spring semesters, I attempted to spread the design and leadership courses across multiple semesters to better diversify my personal learning network throughout the program. This allowed me to take insights from design and leadership classes and apply them to my core work on analytics and inquiry. As a result, my foundation in data science was better informed by the challenges faced in developing and delivering quality content for the modern digital classroom. To this end, my inquiry projects focused on exploring the challenges of critical thinking, digital and media literacy, evaluation metrics, and communication across learning networks. The key insights I'm taking from how I organized my learning is that today's education space is overwhelmingly digital, it's social, and it's evolving.
 
 </p>
 
-<p>The digital nature of education is producing a ton of data. While this can be overwhelming if an organization is unprepared, the LA program instilled a data science mindset to solve these types of challenges. From identifying and collecting the right data to understanding its potential significance, and finally, to developing models to solve increasingly complex problems, my experience through the core coursework and the summer internship provided multiple repetitions to engage these methods as well as develop relationships with more experienced practitioners.
+<p>
+
+The digital nature of education is producing a ton of data. While this can be overwhelming if an organization is unprepared, the LA program instilled a data science mindset to solve these types of challenges. From identifying and collecting the right data to understanding its potential significance, and finally, to developing models to solve increasingly complex problems, my experience through the core coursework and the summer internship provided multiple repetitions to engage these methods as well as develop relationships with more experienced practitioners.
 
 </p>
 
-<p>Participating in this program post-pandemic allowed me to benefit from many of my peers' experiences in hybrid learning environments. From equipment and infrastructure shortfalls to learner anxieties about being on camera, I got to hear firsthand how some districts/programs rose to the occasion while others floundered. In both cases, not all students had the same experiences as their peers next to them in class or online. The digital divide is real and not just happening in rural communities. Last spring, I participated in the datathon hosted by NCSU and the Governor's office. That experience opened my eyes to the lack of digital reach and equity across our state. Part of that challenge is recognizing how technology, connectivity infrastructure, and socioeconomics all combine to impact individual students very differently. District and state educational leaders must develop a strategic vision of how to apply resources to ensure each student has the same opportunities regardless of location or personal situation.
+<p>
+
+Participating in this program post-pandemic allowed me to benefit from many of my peers' experiences in hybrid learning environments. From equipment and infrastructure shortfalls to learner anxieties about being on camera, I got to hear firsthand how some districts/programs rose to the occasion while others floundered. In both cases, not all students had the same experiences as their peers next to them in class or online. The digital divide is real and not just happening in rural communities. Last spring, I participated in the datathon hosted by NCSU and the Governor's office. That experience opened my eyes to the lack of digital reach and equity across our state. Part of that challenge is recognizing how technology, connectivity infrastructure, and socioeconomics all combine to impact individual students very differently. District and state educational leaders must develop a strategic vision of how to apply resources to ensure each student has the same opportunities regardless of location or personal situation.
 
 </p>
 
-<p>The portfolio is depicted chronologically as I took the courses beginning in the Summer of 2021. Each entry contains a brief description of the course purpose, expected outcomes, and requirements. Also included are key artifacts contributing to my learning goals as well as some examples of additional classwork.
+<p>
+
+The portfolio is depicted chronologically as I took the courses beginning in the Summer of 2021. Each entry contains a brief description of the course purpose, expected outcomes, and requirements. Also included are key artifacts contributing to my learning goals as well as some examples of additional classwork.
 
 </p>
 
@@ -54,8 +64,7 @@ This course provided an overview of the Learning, Design, and Technology master'
 
 [<img src="images/eci511_artifact1.png" width="200"/>](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci511-artifacts/ECI511-annotated-bibliography.pdf)
 
-This assignment was one of the final projects for my introduction to
-learning design. The annotated bibliography helped develop my inquiry and research skills as it required me to evaluate the quality of each of the selected resources. As we were allowed to select our own research topic, I focused on how digital literacy impacts learning design methodologies. My goal was to hone my skills at discriminating between relevant, meaningful sources and those that were not. I chose to explore both Google Scholar and the NC State library to increase the chances of locating quality articles. Though the project scope was limited to only five annotations, this assignment greatly helped in developing my initial research interest in digital literacy. The main takeaway from this review reinforced that students who are more interested in the learning material, show a greater desire to increase their digital literacy skills. While short, the review implied a link between quality learning technology integration and digital literacy aptitude.
+This assignment was one of the final projects for my introduction to learning design. The annotated bibliography helped develop my inquiry and research skills as it required me to evaluate the quality of each of the selected resources. As we were allowed to select our own research topic, I focused on how digital literacy impacts learning design methodologies. My goal was to hone my skills at discriminating between relevant, meaningful sources and those that were not. I chose to explore both Google Scholar and the NC State library to increase the chances of locating quality articles. Though the project scope was limited to only five annotations, this assignment greatly helped in developing my initial research interest in digital literacy. The main takeaway from this review reinforced that students who are more interested in the learning material, show a greater desire to increase their digital literacy skills. While short, the review implied a link between quality learning technology integration and digital literacy aptitude.
 
 </p>
 :::
@@ -95,10 +104,7 @@ This course provided us with the distinctions and concepts necessary to apply va
 
 [![](images/eci517_artifact1.png){width="200"}](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci517-artifacts/ECI517-final-theory-paper.pdf)
 
-This theory paper completed my 15-week journey to better understand which instructional design theories I would pull from to develop my personal learning model. Early in the semester, I wrote my initial thoughts on learning, so this was a follow-up based on almost 4 months of instructional design theory from the past 100 years or so. This course presented opportunities to explore my own
-thoughts, feelings, and biases on how teachers affect the relationship between their students and the institution of education. Beyond teaching students how to understand the world around them, educators shape individual trajectories by reinforcing scholarship as a lifelong adventure most often occurring outside
-the traditional classroom. This paper reflects how my views on instruction shifted from focusing on learning capability to a more systems perspective of how learners grow as their environment changes. I'm firmly planted in the constructivist camp, which was seen through the learning network diagram I developed as well
-as the pillars of my learning theory: self-aware, ownership (agency), complexity, multi-mode, and collaboration.
+This theory paper completed my 15-week journey to better understand which instructional design theories I would pull from to develop my personal learning model. Early in the semester, I wrote my initial thoughts on learning, so this was a follow-up based on almost 4 months of instructional design theory from the past 100 years or so. This course presented opportunities to explore my own thoughts, feelings, and biases on how teachers affect the relationship between their students and the institution of education. Beyond teaching students how to understand the world around them, educators shape individual trajectories by reinforcing scholarship as a lifelong adventure most often occurring outside the traditional classroom. This paper reflects how my views on instruction shifted from focusing on learning capability to a more systems perspective of how learners grow as their environment changes. I'm firmly planted in the constructivist camp, which was seen through the learning network diagram I developed as well as the pillars of my learning theory: self-aware, ownership (agency), complexity, multi-mode, and collaboration.
 
 </p>
 :::
@@ -130,6 +136,21 @@ as the pillars of my learning theory: self-aware, ownership (agency), complexity
 <img src="images/stickers.jpg" width="200px"/>
 
 Learning Analytics (LA) has emerged over the past decade as an interdisciplinary field encompassing Learning (e.g. educational technology, learning and assessment sciences), Analytics (e.g. visualization, computer/data sciences), and Human-Centered Design (e.g. usability, participatory design). This course provided an overview of the field, examples of its use in educational contexts, and applied experience with widely adopted tools and techniques for working with and exploring data. As I gained experience in the collection, analysis, and reporting of data throughout the course, I became much better prepared to help educational organizations understand and improve learning and the contexts in which learning occurs.
+
+::: float-left
+<p>
+
+**Key Artifact**:
+
+[Final Project - Benchmarking Fake News](https://rpubs.com/jmhardaw/FinalProject_ECI586)
+
+[![](images/eci586_artifact1.png){width="200"}](https://rpubs.com/jmhardaw/FinalProject_ECI586)
+
+My introduction to data science and programming culminated in this project testing the ability of text mining algorithms to recognize misinformation in media and classify those news sources accordingly. This assignment challenged my notion of "fake news" as rarely is a news article, regardless of source, all true or all false. Misinformation (a clearer description) is more nuanced and is usually captured in the context of what was left out, or small details that can't be verified as fact. While mistruths can be found, the sentiment of articles is a better barometer of an article and potentially a media organization's biases. This assignment reinforced the importance of collecting good data (sourcing),
+cleaning and ingesting the data effectively (wrangling), exploring the data to identify patterns (analyzing), classifying the articles based on these patterns into specific categories (modeling), and finally reporting data-based findings (communicating). Using these five basic steps in each case study and this project instilled respect for the data science process to ensure my results were repeatable, even if the data were to change.
+
+</p>
+:::
 :::
 
 <aside>
@@ -148,7 +169,6 @@ Learning Analytics (LA) has emerged over the past decade as an interdisciplinary
 -   [Case Study: Identifying At-Risk Students](https://rpubs.com/jmhardaw/At-risk-students)
 -   [Shiny App Exercise: Class Enrollment & Gender](https://ps53zd-james-hardaway.shinyapps.io/class-attendance/)
 -   [Case Study: Public Sentiment & State Standards](https://rpubs.com/jmhardaw/sentiment-analysis)
--   [Final Project: Benchmarking Fake News](https://rpubs.com/jmhardaw/FinalProject_ECI586)
 
 </aside>
 
@@ -160,6 +180,22 @@ Learning Analytics (LA) has emerged over the past decade as an interdisciplinary
 [![](images/Machine-Learning.jpg "https://wordstream-files-prod.s3.amazonaws.com/s3fs-public/machine-learning.png"){width="200"}](https://wordstream-files-prod.s3.amazonaws.com/s3fs-public/machine-learning.png)
 
 Machine Learning is concerned with computer programs that enable the behavior of a computer to be learned from examples or experience rather than dictated through rules written by hand. This class taught the practical side of machine learning for applications in mining educational data. We covered a wide range of learning algorithms that can be applied to a variety of educational problems. In particular, we discussed topics such as decision trees, rule-based classification, support vector machines, Bayesian networks, and clustering. In addition to readings from the course textbook, the course had a heavy project focus to develop practical skills.
+
+::: float-left
+<p>
+
+**Key Artifact**:
+
+[Final Project - Identifying Misinformation in the Media](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci587-artifacts/eci587-final-project.pdf)
+
+[![](images/eci587_artifact1.png){width="200"}](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci587-artifacts/eci587-final-project.pdf)
+
+This final machine learning project was the culmination of about a month of research and experimentation using a couple of software tools to explore the potential for automated machine learning tools to recognize misinformation in online news media. Using a dataset of 6000 news articles, this study demonstrated how various textual
+features could be extracted to build algorithms that learned to recognize fake news. Since my data was labeled as either "fake" or "real" prior to modeling, I used supervised learning to train the model on how to recognize which category best fit the articles. In addition to exploring how feature space drives model training, this project reinforced the importance of data engineering prior to
+experimentation. I learned how to identify whether a dataset is contaminated with information that could cause the algorithm to "overfit" the data delivering results that weren't generalizable to broader contexts. While the technology was up to the task of identifying biased articles, the results were primarily driven by dataset quality.
+
+</p>
+:::
 :::
 
 <aside>
@@ -171,10 +207,6 @@ Machine Learning is concerned with computer programs that enable the behavior of
 **Instructor**:
 
 -   [Dr. Shiyan Jiang](https://ced.ncsu.edu/people/sjiang24/)
-
-**Coursework Examples**:
-
--   [Final Project: Identifying Misinformation in the Media](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci587-artifacts/eci587-final-project.pdf)
 
 </aside>
 
