@@ -146,8 +146,7 @@ Learning Analytics (LA) has emerged over the past decade as an interdisciplinary
 
 [![](images/eci586_artifact1.png){width="200"}](https://rpubs.com/jmhardaw/FinalProject_ECI586)
 
-My introduction to data science and programming culminated in this project testing the ability of text mining algorithms to recognize misinformation in media and classify those news sources accordingly. This assignment challenged my notion of "fake news" as rarely is a news article, regardless of source, all true or all false. Misinformation (a clearer description) is more nuanced and is usually captured in the context of what was left out, or small details that can't be verified as fact. While mistruths can be found, the sentiment of articles is a better barometer of an article and potentially a media organization's biases. This assignment reinforced the importance of collecting good data (sourcing),
-cleaning and ingesting the data effectively (wrangling), exploring the data to identify patterns (analyzing), classifying the articles based on these patterns into specific categories (modeling), and finally reporting data-based findings (communicating). Using these five basic steps in each case study and this project instilled respect for the data science process to ensure my results were repeatable, even if the data were to change.
+My introduction to data science and programming culminated in this project testing the ability of text mining algorithms to recognize misinformation in media and classify those news sources accordingly. This assignment challenged my notion of "fake news" as rarely is a news article, regardless of source, all true or all false. Misinformation (a clearer description) is more nuanced and is usually captured in the context of what was left out, or small details that can't be verified as fact. While mistruths can be found, the sentiment of articles is a better barometer of an article and potentially a media organization's biases. This assignment reinforced the importance of collecting good data (sourcing), cleaning and ingesting the data effectively (wrangling), exploring the data to identify patterns (analyzing), classifying the articles based on these patterns into specific categories (modeling), and finally reporting data-based findings (communicating). Using these five basic steps in each case study and this project instilled respect for the data science process to ensure my results were repeatable, even if the data were to change.
 
 </p>
 :::
@@ -163,7 +162,7 @@ cleaning and ingesting the data effectively (wrangling), exploring the data to i
 
 -   [Dr. Shaun Kellogg](https://ced.ncsu.edu/people/sbkellog/)
 
-**Coursework Examples**:
+**Additional Coursework**:
 
 -   [Case Study: Predicting Student Achievement](https://rpubs.com/jmhardaw/StudentAchieve)
 -   [Case Study: Identifying At-Risk Students](https://rpubs.com/jmhardaw/At-risk-students)
@@ -190,9 +189,7 @@ Machine Learning is concerned with computer programs that enable the behavior of
 
 [![](images/eci587_artifact1.png){width="200"}](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci587-artifacts/eci587-final-project.pdf)
 
-This final machine learning project was the culmination of about a month of research and experimentation using a couple of software tools to explore the potential for automated machine learning tools to recognize misinformation in online news media. Using a dataset of 6000 news articles, this study demonstrated how various textual
-features could be extracted to build algorithms that learned to recognize fake news. Since my data was labeled as either "fake" or "real" prior to modeling, I used supervised learning to train the model on how to recognize which category best fit the articles. In addition to exploring how feature space drives model training, this project reinforced the importance of data engineering prior to
-experimentation. I learned how to identify whether a dataset is contaminated with information that could cause the algorithm to "overfit" the data delivering results that weren't generalizable to broader contexts. While the technology was up to the task of identifying biased articles, the results were primarily driven by dataset quality.
+This final machine learning project was the culmination of about a month of research and experimentation using a couple of software tools to explore the potential for automated machine learning tools to recognize misinformation in online news media. Using a dataset of 6000 news articles, this study demonstrated how various textual features could be extracted to build algorithms that learned to recognize fake news. Since my data was labeled as either "fake" or "real" prior to modeling, I used supervised learning to train the model on how to recognize which category best fit the articles. In addition to exploring how feature space drives model training, this project reinforced the importance of data engineering prior to experimentation. I learned how to identify whether a dataset is contaminated with information that could cause the algorithm to "overfit" the data delivering results that weren't generalizable to broader contexts. While the technology was up to the task of identifying biased articles, the results were primarily driven by dataset quality.
 
 </p>
 :::
@@ -218,6 +215,28 @@ experimentation. I learned how to identify whether a dataset is contaminated wit
 <img src="images/school-venn.png" width="200px"/>
 
 This course introduces us to the systems approach to instructional design and provided introductory information and application of skills and techniques necessary in the analysis, design, development, implementation, and evaluation of instruction (often referred to as the ADDIE framework). These skills are particularly useful for efficient and cost-effective development of solutions to novel instructional problems. The emphasis was on the development of materials-centered instruction (as opposed to teacher-mediated), that is, materials and resources that are developed to be the primary means by which instruction is delivered. Contrasting views and perspectives of instructional design were also considered, such as those based on very different learning philosophies (such as objectivism and constructivism).
+
+::: float-left
+<p>
+
+**Key Artifacts**:
+
+[Needs Analysis Proposal](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci516-artifacts/ECI516-needs-analysis-proposal.pdf)
+
+[![](images/eci516_artifact1.png){width="300"}](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci516-artifacts/ECI516-needs-analysis-proposal.pdf)
+
+This Needs Analysis Proposal explored the process of determining an organization's performance gaps and then designing an assessment methodology to capture insights into how best to decrease those gaps within the realities of time and budget. The paper discusses how to help an organization understand the difference between where it is and where it desires to be regarding specific performance goals. Once those targets are set, a cost-benefit analysis is conducted to highlight what's in the realm of the
+possible within the given time and budget. Once school leadership agrees on what's feasible, a plan can be constructed for resourcing and completing the needs analysis. This assignment reinforced the critical importance of identifying measurable performance gaps prior to implementing a technology or organizational solution. This process ensures that the right problems are being solved.
+
+[Instructional Design Process Model](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci516-artifacts/ECI516-isd-process-paper.pdf)
+
+[![](images/eci516_artifact2.png){width="300"}](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci516-artifacts/ECI516-isd-process-paper.pdf)
+
+For this assignment, I designed an instructional design process model for a non-profit organization, exploring the need for non-educational entities to develop learning programs for their staff. To
+achieve this, I had to first conduct a systems analysis of the organization and its processes for delivering services. The resultant performance gaps informed the design management analysis detailing what needed to be learned, trained, and certified to meet their stated value proposition. Finally, a plan for executing the training was designed to ensure there was a regular feedback loop on how well the program was meeting its desired results. This systematic approach ensured that as the organization grew or lost members, the systems would still function properly as long as the training pipeline was enforced.
+
+</p>
+:::
 :::
 
 <aside>
@@ -230,11 +249,9 @@ This course introduces us to the systems approach to instructional design and pr
 
 -   [Dr. Caitlin McKeown](https://moodle-courses2122.wolfware.ncsu.edu/user/view.php?id=28503&course=6365)
 
-**Coursework Examples**:
+**Additional Coursework**:
 
 -   [System Analysis Paper](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci516-artifacts/ECI516-system-analysis-paper.pdf)
--   [Needs Analysis Proposal](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci516-artifacts/ECI516-needs-analysis-proposal.pdf)
--   [ISD Model Proposal](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci516-artifacts/ECI516-isd-process-paper.pdf)
 
 </aside>
 
@@ -258,7 +275,7 @@ This introductory course to text mining was designed to prepare researchers and 
 
 -   [Dr. Shiyan Jiang](https://ced.ncsu.edu/people/sjiang24/)
 
-**Coursework Examples**:
+**Additional Coursework**:
 
 -   [Assessing Sentiment: #Python vs. #Rstats Tweets](https://rpubs.com/jmhardaw/python_vs_rstats)
 -   [Topic Modeling: Amazon Book Reviews](https://rpubs.com/jmhardaw/eci-588-unit3-book-reviews)
@@ -287,7 +304,7 @@ Although social network analysis and its educational antecedents date back to th
 
 -   [Dr. Shaun Kellogg](https://ced.ncsu.edu/people/sbkellog/)
 
-**Coursework Examples**:
+**Additional Coursework**:
 
 -   [Visual & Numerical Description: School Administrator Centrality](https://rpubs.com/jmhardaw/eci589-unit2-analysis)
 -   [Network Substructures: Comparing Out-degree Communications by Role in MOOC-Eds](https://rpubs.com/jmhardaw/eci-589-unit3-analysis)
@@ -316,7 +333,7 @@ This course took an anthropological-historical look at applying media and techno
 
 -   [Dr. Florence Martin](https://ced.ncsu.edu/people/fmartin3/)
 
-**Coursework Examples**:
+**Additional Coursework**:
 
 -   [Cultural Curation: Media Anaylysis on Climate Change](https://padlet.com/jmhardaw/ua1ccxxbu71uzb7b)
 -   [Personal Identity Text: Luck and Timing](https://arcg.is/1LDbz1)
@@ -344,7 +361,7 @@ This course comprised the study and application of principles related to digital
 
 -   [Dr. Mark Samberg](https://www.linkedin.com/in/marksamberg/)
 
-**Coursework Examples**:
+**Additional Coursework**:
 
 -   [Digital Age Instructional Framework](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci515-artifacts/ECI518_Instructional_Framework.pdf)
 -   [NCDLI Rubric Review](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci515-artifacts/ECI518_NCDLI_Rubric_Review.pdf)
