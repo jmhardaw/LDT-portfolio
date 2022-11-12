@@ -225,15 +225,13 @@ This course introduces us to the systems approach to instructional design and pr
 
 [![](images/eci516_artifact1.png){width="300"}](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci516-artifacts/ECI516-needs-analysis-proposal.pdf)
 
-This Needs Analysis Proposal explored the process of determining an organization's performance gaps and then designing an assessment methodology to capture insights into how best to decrease those gaps within the realities of time and budget. The paper discusses how to help an organization understand the difference between where it is and where it desires to be regarding specific performance goals. Once those targets are set, a cost-benefit analysis is conducted to highlight what's in the realm of the
-possible within the given time and budget. Once school leadership agrees on what's feasible, a plan can be constructed for resourcing and completing the needs analysis. This assignment reinforced the critical importance of identifying measurable performance gaps prior to implementing a technology or organizational solution. This process ensures that the right problems are being solved.
+This Needs Analysis Proposal explored the process of determining an organization's performance gaps and then designing an assessment methodology to capture insights into how best to decrease those gaps within the realities of time and budget. The paper discusses how to help an organization understand the difference between where it is and where it desires to be regarding specific performance goals. Once those targets are set, a cost-benefit analysis is conducted to highlight what's in the realm of the possible within the given time and budget. Once school leadership agrees on what's feasible, a plan can be constructed for resourcing and completing the needs analysis. This assignment reinforced the critical importance of identifying measurable performance gaps prior to implementing a technology or organizational solution. This process ensures that the right problems are being solved.
 
 [Instructional Design Process Model](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci516-artifacts/ECI516-isd-process-paper.pdf)
 
 [![](images/eci516_artifact2.png){width="300"}](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci516-artifacts/ECI516-isd-process-paper.pdf)
 
-For this assignment, I designed an instructional design process model for a non-profit organization, exploring the need for non-educational entities to develop learning programs for their staff. To
-achieve this, I had to first conduct a systems analysis of the organization and its processes for delivering services. The resultant performance gaps informed the design management analysis detailing what needed to be learned, trained, and certified to meet their stated value proposition. Finally, a plan for executing the training was designed to ensure there was a regular feedback loop on how well the program was meeting its desired results. This systematic approach ensured that as the organization grew or lost members, the systems would still function properly as long as the training pipeline was enforced.
+For this assignment, I designed an instructional design process model for a non-profit organization, exploring the need for non-educational entities to develop learning programs for their staff. To achieve this, I had to first conduct a systems analysis of the organization and its processes for delivering services. The resultant performance gaps informed the design management analysis detailing what needed to be learned, trained, and certified to meet their stated value proposition. Finally, a plan for executing the training was designed to ensure there was a regular feedback loop on how well the program was meeting its desired results. This systematic approach ensured that as the organization grew or lost members, the systems would still function properly as long as the training pipeline was enforced.
 
 </p>
 :::
@@ -263,6 +261,21 @@ achieve this, I had to first conduct a systems analysis of the organization and 
 <img src="images/bigrams.png" width="200px"/>
 
 This introductory course to text mining was designed to prepare researchers and practitioners to use data more efficiently, effectively, and ethically. This course provided us with an overview of text mining as an analytical approach, examples of its use in educational contexts, and applied experience with widely adopted tools and techniques. As we gained experience in the collection, analysis, and reporting of data throughout the course, we became better prepared help educational organizations understand and improve both online and blended learning environments. We develop practical skills in the collection, analysis, and reporting of text data form sources such as Learning Management Systems, social media, and other online sources. Our projects were completed using a programming approach with R, a popular free open source software program for data science.
+
+::: float-left
+<p>
+
+**Key Artifact**:
+
+[Short Text Topic Modeling](https://rpubs.com/jmhardaw/eci588-final-project)
+
+[![](images/eci588_artifact1.png){width="300"}](https://rpubs.com/jmhardaw/eci588-final-project)
+
+The Short Text Topic Modelling assignment culminated my work in this course by combining lessons on text mining, topic modeling, and communicating results in a creative way to help users visualize relationships within the data. My research questions were driven by previous text mining projects that relied on incredibly large datasets. While it's understandable that intricate learning models require vast data to train them, I was on the search for a method that could reduce that workload on the front end and potentially open up additional, smaller resources that had previously been overlooked. Instead of a data model consuming entire papers or articles, I wanted to test whether it was possible to gain insights from key sentences or ideas within those documents. Turns out it can be done! Using article titles and taglines, I was able to generate quite accurate topic models charting technical research topics over
+time. My biggest challenges were finding the right data set and model that I could employ coding in R. I was able to find both, though there was only a single short text topic model designed to work well in R. That was enough, though, to show this could be done. The end result is a technique that could save researchers time in executing their text mining queries and topic models. This exercise exposed me to multiple databases that could be used for experiments but also highlighted that it's often better to curate your own data if you have specific research questions that few have worked on in the past.
+
+</p>
+:::
 :::
 
 <aside>
@@ -280,7 +293,6 @@ This introductory course to text mining was designed to prepare researchers and 
 -   [Assessing Sentiment: #Python vs. #Rstats Tweets](https://rpubs.com/jmhardaw/python_vs_rstats)
 -   [Topic Modeling: Amazon Book Reviews](https://rpubs.com/jmhardaw/eci-588-unit3-book-reviews)
 -   [Word Net Analysis: Text Networks Predicting Wordle Success](https://rpubs.com/jmhardaw/eci588-unit-4-analysis)
--   [Final Project: Short Text Topic Modeling](https://rpubs.com/jmhardaw/eci588-final-project)
 
 </aside>
 
