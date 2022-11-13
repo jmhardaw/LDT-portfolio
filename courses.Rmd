@@ -400,7 +400,7 @@ desk management skills. While the course is designed as a standalone semester co
 ## [ECI 652: Field-Based Applications of Learning Design and Technology](http://catalog.ncsu.edu/search/?P=ECI%20652)
 
 ::: float-left
-This course employec supervised opportunities to design, test, and revise learning design and technology solutions in authentic, field-based settings. Learning activities included reading assignments, program portfolio, internship or an individual design project.
+This course employed supervised opportunities to design, test, and revise learning design and technology solutions in authentic, field-based settings. Learning activities included reading assignments, program portfolio, internship or an individual design project.
 
 ::: float-left
 <p>
