@@ -271,8 +271,7 @@ This introductory course to text mining was designed to prepare researchers and 
 
 [![](images/eci588_artifact1.png){width="300"}](https://rpubs.com/jmhardaw/eci588-final-project)
 
-The Short Text Topic Modelling assignment culminated my work in this course by combining lessons on text mining, topic modeling, and communicating results in a creative way to help users visualize relationships within the data. My research questions were driven by previous text mining projects that relied on incredibly large datasets. While it's understandable that intricate learning models require vast data to train them, I was on the search for a method that could reduce that workload on the front end and potentially open up additional, smaller resources that had previously been overlooked. Instead of a data model consuming entire papers or articles, I wanted to test whether it was possible to gain insights from key sentences or ideas within those documents. Turns out it can be done! Using article titles and taglines, I was able to generate quite accurate topic models charting technical research topics over
-time. My biggest challenges were finding the right data set and model that I could employ coding in R. I was able to find both, though there was only a single short text topic model designed to work well in R. That was enough, though, to show this could be done. The end result is a technique that could save researchers time in executing their text mining queries and topic models. This exercise exposed me to multiple databases that could be used for experiments but also highlighted that it's often better to curate your own data if you have specific research questions that few have worked on in the past.
+The Short Text Topic Modelling assignment culminated my work in this course by combining lessons on text mining, topic modeling, and communicating results in a creative way to help users visualize relationships within the data. My research questions were driven by previous text mining projects that relied on incredibly large datasets. While it's understandable that intricate learning models require vast data to train them, I was on the search for a method that could reduce that workload on the front end and potentially open up additional, smaller resources that had previously been overlooked. Instead of a data model consuming entire papers or articles, I wanted to test whether it was possible to gain insights from key sentences or ideas within those documents. Turns out it can be done! Using article titles and taglines, I was able to generate quite accurate topic models charting technical research topics over time. My biggest challenges were finding the right data set and model that I could employ coding in R. I was able to find both, though there was only a single short text topic model designed to work well in R. That was enough, though, to show this could be done. The end result is a technique that could save researchers time in executing their text mining queries and topic models. This exercise exposed me to multiple databases that could be used for experiments but also highlighted that it's often better to curate your own data if you have specific research questions that few have worked on in the past.
 
 </p>
 :::
@@ -361,6 +360,21 @@ This course took an anthropological-historical look at applying media and techno
 <img src="images/ncdlp.png" width="200px"/>
 
 This course comprised the study and application of principles related to digital learning program planning, facilities and resource management, and staff development in K-12 settings. It was designed to help prepare future technology facilitators and directors to design, develop, and lead school and/or district technology programs across K-12 levels. Some lessons translate to higher education or industry technology planning, but the majority of readings and resources in this course were geared toward K-12.
+
+::: float-left
+<p>
+
+**Key Artifact**:
+
+[High School Tech Helpdesk Curriculum](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci515-artifacts/ECI518_Helpdesk_Curriculum.pdf)
+
+[![](images/eci518_artifact1.png){width="200" height="259"}](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci515-artifacts/ECI518_Helpdesk_Curriculum.pdf)
+
+The Help Desk Curriculum was designed to teach students the technical skills of how to manage a student-run IT help desk for a middle or high school. The curriculum includes student responsibilities, learning products, and overarching projects. The curriculum addresses both IT technical knowledge as well as help
+desk management skills. While the course is designed as a standalone semester course (15 weeks), it can also be executed as a student club either during or after regular school hours. The club version would allow students to work at their own pace which may be more beneficial for students who already have the requisite skills in certain IT topics. This curriculum was designed for in-person instruction, but it could be easily modified to accommodate either a hybrid or fully online model. Developing this course exposed some potential barriers to adoption including funding, equipment, Help Desk space, internet capacity, and enough mentor teachers with the requisite IT supervisory skills. Many schools face at least one of these challenges, so this assignment forced me to build flexibility into the plan for this resource.
+
+</p>
+:::
 :::
 
 <aside>
@@ -377,7 +391,6 @@ This course comprised the study and application of principles related to digital
 
 -   [Digital Age Instructional Framework](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci515-artifacts/ECI518_Instructional_Framework.pdf)
 -   [NCDLI Rubric Review](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci515-artifacts/ECI518_NCDLI_Rubric_Review.pdf)
--   [High School Tech Helpdesk Curriculum](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci515-artifacts/ECI518_Helpdesk_Curriculum.pdf)
 -   [3D Printer Makerspace Budget](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci515-artifacts/ECI518_3dPrinter_Trunk_Budget.pdf)
 
 </aside>
@@ -387,9 +400,30 @@ This course comprised the study and application of principles related to digital
 ## [ECI 652: Field-Based Applications of Learning Design and Technology](http://catalog.ncsu.edu/search/?P=ECI%20652)
 
 ::: float-left
-<img src="images/scads22.png" width="300px"/>
+This course employec supervised opportunities to design, test, and revise learning design and technology solutions in authentic, field-based settings. Learning activities included reading assignments, program portfolio, internship or an individual design project.
 
-This course employdc supervised opportunities to design, test, and revise learning design and technology solutions in authentic, field-based settings. Learning activities includec reading assignments, program portfolio, internship or an individual design project.
+::: float-left
+<p>
+
+**Key Artifacts**:
+
+[SCADS Internship Summary](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci515-artifacts/ECI652_Internship_Summary.pdf)
+
+[![](images/eci652_artifact1.png){width="300"}](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci515-artifacts/ECI652_Internship_Summary.pdf)
+
+My internship occurred over an 8-week period from June -- August of 2022. The Summer Conference on Applied Data Science is an
+annual 8-week workshop hosted by the NC State University Laboratory for Analytic Sciences. The overarching vision is to bring together industry, academic, and government professionals to collaboratively attack a Grand Challenge in the machine learning (ML) and artificial intelligence development space. For this inaugural conference, the challenge was to develop a tailored
+daily report for government knowledge workers through automated text summarization. I pursued this internship to explore the fields of educational technology and digital literacy, specifically to better understand how text mining and ML tools could decrease the burden on learners. This project accomplished that while also allowing me to network with the DoD and intelligence communities as I prepare for opportunities after grad school. While this project focused on finding a better text summarizer, I gained valuable insights into multiple applications to the field of learning design including literature reviews, evaluating student work, resource discovery, and knowledge management.
+
+[LD&T Digital Portfolio](https://NerdyGI.com)
+
+[![](images/eci652_artifact2.png){width="100"}](https://NerdyGI.com)
+
+This portfolio serves as the capstone project to my work in NC State's Learning Design and Technology program. The highlighted
+artifacts reflect the skills and competencies gained in support of my primary learning goals of inquiry, design, and digital leadership. While I prioritized the inquiry track, specifically focusing on research and analysis skills, I also took several courses to expand my knowledge in technology integration (design) and educational organization transformation (leadership). Lastly, this portfolio, written in R using the Distill package, serves as a practical exercise in applying the coding techniques I gleaned from the Learning Analytics certification program.
+
+</p>
+:::
 :::
 
 <aside>
@@ -401,11 +435,6 @@ This course employdc supervised opportunities to design, test, and revise learni
 **Instructor**:
 
 -   [Dr. Julia McKeown](https://ced.ncsu.edu/people/jomckeow/)
-
-**Coursework Examples**:
-
--   [SCADS Internship Summary](https://github.com/jmhardaw/LDT-portfolio/blob/main/content/eci515-artifacts/ECI652_Internship_Summary.pdf)
--   [LD&T Digital Portfolio](https://www.nerdygi.com/courses.html)
 
 </aside>
 
