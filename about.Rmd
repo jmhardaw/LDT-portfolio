@@ -89,7 +89,7 @@ Organizational learning is paramount to surviving and thriving in the digital ag
 icon_link(
     icon = "far fa-file-pdf",
     text = "Resume",
-    url  = "https://github.com/jmhardaw/LDT-portfolio/blob/main/content/Hardaway-resume-20220731.pdf"
+    url  = "https://github.com/jmhardaw/LDT-portfolio/blob/main/content/Hardaway-resume.pdf"
 )
 icon_link(
     icon = "far fa-file-pdf",
