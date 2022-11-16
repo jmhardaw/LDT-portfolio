@@ -9,7 +9,7 @@ output:
 twitter:
   creator: "@James_Hardaway"
 base_url: https://www.nerdygi.com
-preview: images/IMG-1633-sm.jpg
+preview: images/hardaway-circle.png
 ---
 
 ```{r setup, include=FALSE}
