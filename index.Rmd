@@ -8,8 +8,8 @@ output:
    in_header: _header.html
 twitter:
   creator: "@James_Hardaway"
-base_url: https://www.nerdygi.com
-preview: images/hardaway-circle.png
+base_url: "https://www.nerdygi.com"
+preview: "images/hardaway-circle.png"
 ---
 
 ```{r setup, include=FALSE}
