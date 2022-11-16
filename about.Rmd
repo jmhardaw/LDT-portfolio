@@ -94,7 +94,7 @@ icon_link(
 icon_link(
     icon = "far fa-file-pdf",
     text = "Army Bio",
-    url  = "https://github.com/jmhardaw/LDT-portfolio/blob/main/content/Hardaway-mil-bio.pdf"
+    url  = "https://github.com/jmhardaw/LDT-portfolio/raw/main/content/Hardaway-resume.pdf"
 )
 ```
 </center>
