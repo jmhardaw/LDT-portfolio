@@ -155,7 +155,7 @@ img[src="images/banner.png"] {
 
 ::: news-container
 ::: news-item
-### Welcome to the Nerdy G.I.'s home on the web. I am a veteran, a craft beer & mead enthusiast, and a 2nd-year graduate student at [North Carolina State University](https://www.ncsu.edu/). I study learning design with a focus on using technology and data analytics to improve student outcomes. I also serve as a student veteran ambassador to the NCSU [College of Education](https://ced.ncsu.edu/).
+### Welcome to the Nerdy G.I.'s home on the web. I am a veteran, an NC State Alum ('94 & '22), and a Principal Program Director at [Applied Research Associates](https://www.ara.com/raleigh/) in Raleigh, NC. This site provides a window into my work in learning analytics, digital engineering, and organizational improvement. 
 ::: img-container
 <a href="https://nerdygi.com/courses.html"><img src="images/portfolio-button.png" class="img-item" style="width:275px"></a>
 
@@ -168,13 +168,9 @@ img[src="images/banner.png"] {
 ::: news-item
 ### Upcoming Events
 <ul>
-  <li>Thanksgiving Holiday (No classes; University closed Thursday & Friday) [Wed-Fri 23-25 November 2022]{.date} </li>
-  <li>Last day of classes [Mon 5th December 2022]{.date} </li>
-  <li>Reading Days [Tue/Wed 6-7 December 2022]{.date} </li>
-  <li>Final Examinations [Thu-Wed 8-14 December 2022]{.date} </li>
-  <li>Fall grades due by 5:00 p.m. [Fri 16th December 2022]{.date} </li>
-  <li>Fall College & Department (various) Commencement Ceremonies [Fri 16th December 2022]{.date} </li>
-  <li>Fall NCSU Commencement Exercises [Sat 17th December 2022]{.date} </li>
+  <li>Community Resources for Military Women & Their Families,  sponsored by [Veterans Bridge Home](https://veteransbridgehome.org/), 6-9 PM at the [Women's Club of Raleigh](https://womansclubofraleigh.org/) [Thu 19 January 2023]{.date} </li>
+  <li>Monthly [Raleigh Veteran Connect](https://raleighveteranconnect.com/) Event, 6-8 PM at [Raleigh Brewing at the Arboretum](https://www.raleighbrewing.com/arboretum-cary) [Mon 30 January 2023]{.date} </li>
+  <li>[Patriots Path](https://patriots-path.org/) Virtual Career Transition Workshop, Register [HERE](https://patriots-path.org/new-student-registration/) [27 February - 03 March 2023]{.date} </li>
 </ul>
 :::
 :::
